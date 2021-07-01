@@ -8,7 +8,7 @@ Deze informatie is bedoeld voor overheden die data houden, voor niet-overheden d
 
 ### Leeswijzer
 
-Deze pagina's brengen de actueel bekende feitelijke informatie over de data-gerelateerde EU regelingen bijeen, met verwijzingen naar de bron. De informatie wordt verstrekt zonder garantie compleet, juist, actueel of definitief te zijn.
+Deze pagina's brengen de actueel bekende feitelijke informatie over de data-gerelateerde EU regelingen bijeen, met verwijzingen naar de bron. De informatie wordt verstrekt zonder garantie compleet, juist, actueel of definitief te zijn. Alle informatie op deze pagina's heeft per definitie een voorlopige status.
 
 ### Het proces
 
