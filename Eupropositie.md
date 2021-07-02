@@ -1,4 +1,4 @@
-## EU neem geopolitieke positie in
+## EU neemt geopolitieke positie in
 
 De EU neemt m.b.t. de rol van digitalisering en data een geopolitieke positie in.
 Die positie richt zich tegelijkertijd op het maximeren van maatschappelijk nut van digitalisering en datagebruik en het beschermen en versterken van de individuele rechten van mensen.
