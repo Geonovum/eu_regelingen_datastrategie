@@ -1,4 +1,4 @@
-## Inhoudelijke keuzes
+## Data Act
 
 ### Inhoudelijke Keuzes op hoofdlijnen
 
