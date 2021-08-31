@@ -33,7 +33,7 @@ Voorgesteld eind 2020. Als Verordening direct van kracht in alle lidstaten, zodr
 
 De Verordening kan in 2022 gereed zijn en van kracht worden.
 
-### Digitale Dienstenverordening
+### Digitale Dienstenverordening (DSA)
 
 De Digitale Dienstenverordening hangt nauw samen met de Digitale Marktenverordening, en is net als deze eind 2020 voorgesteld. Het is een uitbreiding en actualisering van de EU E-commerce Directive 2000/31/EU. Die bestaande Richtlijn wordt hiermee vervangen door een Verordening en trekt zo de regels en interpretatie voor alle Lidstaten gelijk.
 
