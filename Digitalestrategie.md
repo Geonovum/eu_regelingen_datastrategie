@@ -30,10 +30,36 @@ Voorgesteld eind 2020. Als Verordening direct van kracht in alle lidstaten, zodr
     * Boetes mogelijk tot 10% van de wereldwijde omzet van een poortwachter
     * Dwangsommen mogelijke tot 5% van de gemiddelde wereldwijde dagomzet van een poortwachter.
 
-De voorgestelde wet leest als een risicogerichte aanpak, en beschouwt de rol van platforms waar deze systemische risico's vormt voor markt en maatschappij. Het adresseert daarbij de invloed en macht van een platform, de rol van een platform als (maatschappelijke) infrastructuur, en de afhankelijkheden in het ecosysteem van aanbieders.
 
 De Verordening kan in 2022 gereed zijn en van kracht worden.
 
 ### Digitale Dienstenverordening
 
+De Digitale Dienstenverordening hangt nauw samen met de Digitale Marktenverordening, en is net als deze eind 2020 voorgesteld. Het is een uitbreiding en actualisering van de EU E-commerce Directive 2000/31/EU. Die bestaande Richtlijn wordt hiermee vervangen door een Verordening en trekt zo de regels en interpretatie voor alle Lidstaten gelijk.
+
+* Gericht op een veilige digitale ruimte waarin de (grond)rechten van alle gebruikers van digitale diensten beschermd zijn.
+* Eist transparantie en verantwoording van digitale dienstverleners
+* Gericht op een gelijk speelveld waarin innovatie, concurrentie en groei mogelijk zijn. Dit niet alleen binnen de EU, maar wereldwijd.
+
+Het begrip digitale diensten omvat veel verschillende zaken. Denk aan online markten, social media, content-sharing platforms, app stores, online boekingen.
+* Doorgeefdiensten, die door gebruikers verstrekt informatie in een communicatienetwerk doorgeven, of toegang verstrekken tot een communicatienetwerk
+* Cachingdiensten, die bij het doorgeven van informatie in een communicatienetwerk deze deels en geautomatiseerd tussentijds tijdelijk opslaan, met als doel latere doorgifte.
+* Hostingdiensten, die opslag bieden voor informatie van door de gebruiker verstrekte informatie
+* Online platforms, gezien als een bijzondere vorm van hostingdiensten, die informatie verspreiden aan het publiek
+
+Zulke intermediaire diensten krijgen verplichtingen opgelegd die moeten leiden tot:
+* Meer keuze en lagere prijzen voor consumenten
+* Minder illegale content
+* Betere bescherming rechten van consumenten / burgers
+* Juridische zekerheid en geharmoniseerde regels voor dienstverleners
+* Makkelijker starten en schalen van diensten in de EU
+* EU brede markttoegang voor dienstverleners via online platforms
+* Meer democratische controle en toezicht over 'systeem' platforms door de maatschappij (zie ook de DMA)
+* Verzachting van maatschappelijke risico's van manipulatie en desinformatie
+
+De voorgestelde wet leest als een risicogerichte aanpak, en beschouwt de rol van platforms waar deze systemische risico's vormt voor markt en maatschappij. Het adresseert daarbij de invloed en macht van een platform, de rol van een platform als (maatschappelijke) infrastructuur, en de afhankelijkheden in het ecosysteem van aanbieders.
+
+De Verordening kan in 2022 gereed zijn en van kracht worden.
+
 ### AI Regulering
+
