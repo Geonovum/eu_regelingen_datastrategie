@@ -1,123 +1,39 @@
-## Analyse
+## Europese Digitale Strategie
 
-### Context 
+De Europese Digitale Strategie mikt op successen in digitale transformatie in de jaren tot 2025.
 
-*Beschrijf hier de context van het rapport, waar gaat het over, waarom wordt het geschrevenm, welke vragen worden beantwoord, enz ...* 
+Er zijn drie juridische instrumenten door de EC voorgesteld als onderdeel van de Digitale Strategie
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, 
-aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
-Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. 
-Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. 
-Curabitur ullamcorper ultricies nisi. Nam eget dui.
+* De Digitale Marktenverordening (Digital Markets Act, DMA), gericht op zogenaamde 'gatekeepers' met een dominante positie
+* De Digitale Dienstenverordening (Digital Services Act, DSA), gericht op alle intermediaire digitale dienstverleners (inclusief de 'gatekeepers')
+* De AI Regulering (AI Regulation), gericht op de toelating van AI producten.
 
-### Scope
+### Digitale Marktenverordening (DMA)
+Voorgesteld eind 2020. Als Verordening direct van kracht in alle lidstaten, zodra aangenomen.
 
-*Beschrijf hier de scope van het rapport, wat wordt wel en niet uitgewerkt en waarom, enz ...* 
+* Gericht op open en eerlijk digitale markten
+* Richt zich op 'gatekeepers' / poortwachters, d.w.z. grote online platforms, netwerk providers, hostingbedrijven. De wet geeft regels t.a.v. de beslismacht die poortwachters hebben over het toelaten van andere dienstenaanbieders.
+* Een poortwachter is gedefinieerd als:
+    * Een platform met een sterke economische positie, met een significante impact op de EU markt, en actief in meerdere EU lidstaten.
+    * Een platorm met een sterke intermediaire positie, d.w.z. verbindt een grote groep gebruikers met een groot aantal bedrijven.
+    * Heeft, of heeft bijna, een bestendige en in de tijd stabiele marktpositie 
+* Gericht op het vergroten van de diversiteit van aanbod op de platformen van poortwachters, niet op het hinderen van de innovatiekracht van die gatekeepers zelf
+* Stelt verplichtingen voor poortwachters, waaraan ze in hun dagelijkse operatie aan moeten voldoen, t.a.v.:
+    * 3rd party interoperabiliteit met de diensten van poortwachters in verschillende situaties
+    * toegang voor bedrijven tot de data die genereren met het gebruik van het platform van poortwachter
+    * bedrijven die adverteren en adverteerders moeten de instrumenten en gereedschappen krijgen om zelf onafhankelijk na te gaan welke advertenties hoe worden getoond door de poortwachter
+    * bedrijven moeten in staat zijn hun aanbod en contracten ook buiten het platform van poortwachter aan consumenten aan te bieden
+    * poortwachters mogen niet hun eigen diensten bevoordelen op het platform t.o.v. andere aanbieders
+    * poortwachters mogen consumenten niet hinderen om buiten het platform om met een aanbieder in verbinding of contact te treden.
+    * poortwachters mogen consumenten niet hinderen voorgeïnstalleerde applicaties (op telefoons en tablets bijv.) te deïnstalleren.
+ * Bevat strafinstrumenten die lijken op die van de AVG:
+    * Boetes mogelijk tot 10% van de wereldwijde omzet van een poortwachter
+    * Dwangsommen mogelijke tot 5% van de gemiddelde wereldwijde dagomzet van een poortwachter.
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, 
-aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
-Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. 
-Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. 
-Curabitur ullamcorper ultricies nisi. Nam eget dui.
+De voorgestelde wet leest als een risicogerichte aanpak, en beschouwt de rol van platforms waar deze systemische risico's vormt voor markt en maatschappij. Het adresseert daarbij de invloed en macht van een platform, de rol van een platform als (maatschappelijke) infrastructuur, en de afhankelijkheden in het ecosysteem van aanbieders.
 
-###	Werkproces
+De Verordening kan in 2022 gereed zijn en van kracht worden.
 
-*Beschrijf hier wat het gevolgde proces is om te komen tot het rapport, denk aan desktop research, expertsessies, consultatierondes, enz ...*
+### Digitale Dienstenverordening
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, 
-aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
-Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. 
-Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. 
-Curabitur ullamcorper ultricies nisi. Nam eget dui.
-
-###	Stakeholders
-
-*Geef een overzicht van de Stakeholders, hun rollen, hun belangen enz ...*
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, 
-aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
-Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. 
-Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. 
-Curabitur ullamcorper ultricies nisi. Nam eget dui.
-
-###	Bestaande registraties
-
-*Indien van toepassing: Welke bestaande registraties worden geraakt in het rapport, en hoe ...*
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, 
-aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
-Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. 
-Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. 
-Curabitur ullamcorper ultricies nisi. Nam eget dui.
-
-###	Wettelijk kader  
-
-*Indien van toepassing: Welke wettelijk geldt voor het rapport?*
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, 
-aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
-Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. 
-Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. 
-Curabitur ullamcorper ultricies nisi. Nam eget dui.
-
-###	Relevante standaarden en modellen
-
-*Indien van toepassing: Beschrijf de voor het rapport relevante standaarden en eventuele (reken)modellen*
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, 
-aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
-Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. 
-Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. 
-Curabitur ullamcorper ultricies nisi. Nam eget dui.
-
-###	Relevante documentatie 
-
-*Geef een overzicht van de relvante bestaande docuementatie en hoe die wordt gebruikt in het rapport*
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, 
-aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
-Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. 
-Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. 
-Curabitur ullamcorper ultricies nisi. Nam eget dui.
-
-<aside class='note'>
-    NB: gebruik de in config.js gedefinieerde localBiblio!
-</aside> 
-
-| Verwijzing | Kolom-2 | Kolom-3 | Kolom 4 | Kolom-n | 
-|------------|---------|---------|---------|---------| 
-| [[PUB-1]]  |         |         |         |         |
-| [[PUB-2]]  |         |         |         |         |
-| [[PUB-3]]  |         |         |         |         |
-| [[PUB-4]]  |         |         |         |         |
+### AI Regulering
