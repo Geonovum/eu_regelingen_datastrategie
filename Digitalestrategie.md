@@ -82,7 +82,7 @@ De afweging van risico's van AI toepassingen worden gemaakt t.o.v. de mate waari
 
 Verboden toepassingen zijn onbewuste beïnvloeding van het gedrag van mensen dat hen of anderen psychische of lichamelijke schade kan bezorgen, het misbruiken van kwetsbaarheden van een groep of persoon op basis van leeftijd of beperking, toepassingen door overheden voor een zgn. sociale score, en algemene inzet van biometrische identificatie in de publieke ruimte voor opsporing.
 
-Hoog risico-toepassingen worden genoemd op een aparte lijst. Die lijst is gesplitst naar toepassing in bepaalde apparatuur en naar gebruiksvormen. Apparatuur die nu in het voorstel in eerste genoemd wordt zijn:
+Hoog risico-toepassingen worden genoemd op een aparte lijst. Die lijst is gesplitst naar toepassing in bepaalde apparatuur en naar gebruiksvormen. Apparatuur die nu in het voorstel in eerste genoemd instantie wordt:
 * machinerie
 * speelgoed m.b.t. veiligheid daarvan
 * vaartuigen, recreatievaartuigen
@@ -107,3 +107,31 @@ Gebruiksvormen die als hoog risico gelden zijn:
 * opsporing
 * migratie en grenscontrole
 * openbaar bestuur en democratie
+
+Aan hoog-risico toepassingen worden diverse eisen gesteld om te kunnen worden toegelaten op de markt:
+* een risicomanagementsysteem,als iteratief proces gedurende de hele levensduur van een AI systeem (dus niet alleen in de ontwerpfase), o.a. om risico's te identificeren en te voorkomen, en redelijkerwijs te verwachten misbruik te voorkomen.
+* toetsbaarheid (testen van correcte werking) binnen de bedoeling van de AI toepassing
+* zwaardere assessment eisen als de toepassing in contact komt met kinderen
+* opname van het risicomanagementsysteem in bestaande risicomanagementsystemen bij toepassingen voor kredietinstellingen
+* data en datagovernance eisen (bijv. statistisch relevante data nodig voor trainingssets), het gebruik van persoonsgegevens voor het voorkomen en corrigeren van vooroordelen in data (bias)
+* technische documentatie bij een product moet compliance met de AI regels aantonen
+* kunnen aantonen dat gedurende de gebruiksduur de AI toepassing correct werkt
+* transparantie t.a.v. uitlegbaarheid, gebruiksaanwijzing, menselijk toezicht, verwachte levensduur toepassing
+* menselijk toezicht
+* regels t.a.v. uitlegbaarheid en toetsbaarheid
+* eisen t.a.v. accuraatheid, robuustheid en veiligheid.
+* AI toepassingen die met eind-gebruikers interacteren moeten dat aan die gebruikers melden.
+* gebruik van emotie-herkenning en biometrische classificatie moet aan de betrokken personen worden gemeld
+* manipulatie van beelden en geluid moet worden gemeld in dat beeld of geluid
+
+Providers, distributeurs en gebruikers van toepassingen moeten t.a.v. die eisen een actieve 'boekhouding' voeren als kwaliteitssysteem, en hebben een informatieplicht naar de overheid. 
+
+Elk land krijgt een AI toezichtsorgaan, analoog aan de Autoriteit Persoonsgegevens in AVG, en er gelden meldingsplichten. Er komt een Europese AI board die ook Europese instellingen kan beboeten.
+Toegelaten hoogrisico-toepassingen krijgen voor maximaal 5 jaren een CE keurmerk, dat kan worden verlengd.
+Van alle toegelaten hoogrisico toepassingen komt er een openbare Europese database.
+Voor toepassingen met een lager risico wordt een code of conduct aangemoedigd.
+
+Sancties volgen het patroon zoals dat in de AVG is gebruikt:
+* verboden toepassingen, en het niet aanhouden van data governance vereisten: 6% wereldwijde omzet of 30 miljoen Euro
+* andere schendingen van de regels: 4% wereldwijde omzet of 20 miljoen Euro
+* verkeerde documentatie: 2% wereldwijde omzet of 10 miljoen Euro
