@@ -63,4 +63,14 @@ De voorgestelde wet leest als een risicogerichte aanpak, en beschouwt de rol van
 De Verordening kan in 2022 gereed zijn en van kracht worden.
 
 ### AI Regulering
+Voorgesteld in april 2021. De AI regulering is wereldwijd het eerste wetsvoorstel in zijn soort. Net als de AVG, de DMA en DSA, is het vormgegeven als een instrument dat striktere eisen en grotere sancties koppelt aan hogere risiconiveau's.
+
+De AI verordening definieert toelatingseisen waaraan AI moet voldoen om in de Europese markt te mogen worden aangeboden of gebruikt. 
+De werking strekt zich uit over:
+* Providers van AI (gebruikende) systemen die in de EU op de markt worden gebracht
+* Gebruikers van AI (gebruikende) systemen
+* Providers en gebruikers van AI (gebruikende) systemen waarvan de _uitkomsten_ worden gebruikt in de EU.
+
+Hiermee richt het zich niet alleen op partijen die in de EU gevestigd zijn.
+
 
