@@ -1,4 +1,4 @@
-## De Open Data Richtlijn
+## Open Data Richtlijn
 
 ### Conclusies
 
