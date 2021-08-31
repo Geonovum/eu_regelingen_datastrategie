@@ -132,6 +132,6 @@ Van alle toegelaten hoogrisico toepassingen komt er een openbare Europese databa
 Voor toepassingen met een lager risico wordt een code of conduct aangemoedigd.
 
 Sancties volgen het patroon zoals dat in de AVG is gebruikt:
-* verboden toepassingen, en het niet aanhouden van data governance vereisten: 6% wereldwijde omzet of 30 miljoen Euro
+* verboden toepassingen, en het niet voldoen aan data governance vereisten: 6% wereldwijde omzet of 30 miljoen Euro
 * andere schendingen van de regels: 4% wereldwijde omzet of 20 miljoen Euro
-* verkeerde documentatie: 2% wereldwijde omzet of 10 miljoen Euro
+* niet voldoen aan documentatievereisten: 2% wereldwijde omzet of 10 miljoen Euro
