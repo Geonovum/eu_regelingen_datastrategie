@@ -26,7 +26,7 @@ Voorgesteld eind 2020. Als Verordening direct van kracht in alle lidstaten, zodr
     * poortwachters mogen niet hun eigen diensten bevoordelen op het platform t.o.v. andere aanbieders
     * poortwachters mogen consumenten niet hinderen om buiten het platform om met een aanbieder in verbinding of contact te treden.
     * poortwachters mogen consumenten niet hinderen voorgeïnstalleerde applicaties (op telefoons en tablets bijv.) te deïnstalleren.
- * Bevat strafinstrumenten die lijken op die van de AVG:
+ * Bevat sancties die lijken op die van de AVG:
     * Boetes mogelijk tot 10% van de wereldwijde omzet van een poortwachter
     * Dwangsommen mogelijke tot 5% van de gemiddelde wereldwijde dagomzet van een poortwachter.
 
@@ -40,6 +40,7 @@ De Digitale Dienstenverordening hangt nauw samen met de Digitale Marktenverorden
 * Gericht op een veilige digitale ruimte waarin de (grond)rechten van alle gebruikers van digitale diensten beschermd zijn.
 * Eist transparantie en verantwoording van digitale dienstverleners
 * Gericht op een gelijk speelveld waarin innovatie, concurrentie en groei mogelijk zijn. Dit niet alleen binnen de EU, maar wereldwijd.
+* Bevat sancties die lijken op die van de AVG.
 
 Het begrip digitale diensten omvat veel verschillende zaken. Denk aan online markten, social media, content-sharing platforms, app stores, online boekingen.
 * Doorgeefdiensten, die door gebruikers verstrekt informatie in een communicatienetwerk doorgeven, of toegang verstrekken tot een communicatienetwerk
