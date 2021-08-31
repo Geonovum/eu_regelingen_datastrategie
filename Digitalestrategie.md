@@ -73,4 +73,37 @@ De werking strekt zich uit over:
 
 Hiermee richt het zich niet alleen op partijen die in de EU gevestigd zijn.
 
+Onder AI wordt verstaan wat op een telkens aan te passen lijst van technieken en methoden staat. Bij publicatie van het voorstel staan de volgende technieken daar op:
+* Machineleren aanpakken ((un)supervised learning, reinforcement learning, deep learning)
+* Logica en kennisgebaseerde aanpakken (knowledge representation, inductive (logic) programming, knowledge bases, inference and deductive engines, (symbolic) reasoning and expert systems)
+* Statistische aanpakken (Bayesian estimation, search and optimization methods)
 
+De afweging van risico's van AI toepassingen worden gemaakt t.o.v. de mate waarin het individuele rechten aantast. Toepassingen worden ingedeeld in verboden toepassingen, hoog-risico toepassingen, en overige toepassingen.
+
+Verboden toepassingen zijn onbewuste beïnvloeding van het gedrag van mensen dat hen of anderen psychische of lichamelijke schade kan bezorgen, het misbruiken van kwetsbaarheden van een groep of persoon op basis van leeftijd of beperking, toepassingen door overheden voor een zgn. sociale score, en algemene inzet van biometrische identificatie in de publieke ruimte voor opsporing.
+
+Hoog risico-toepassingen worden genoemd op een aparte lijst. Die lijst is gesplitst naar toepassing in bepaalde apparatuur en naar gebruiksvormen. Apparatuur die nu in het voorstel in eerste genoemd wordt zijn:
+* machinerie
+* speelgoed m.b.t. veiligheid daarvan
+* vaartuigen, recreatievaartuigen
+* liften
+* omgang met explosieve middelen
+* radio apparatuur
+* apparatuur onder druk (gas, hydraulisch)
+* medische apparatuur
+* civiele luchtvaartuigen
+* voertuigen
+* agrarische en bosbouwmachines
+* zeewaardige vaartuigen en machines/installaties
+* spoor-interoperabiliteit
+* vrachtwagens en trailers
+
+Gebruiksvormen die als hoog risico gelden zijn:
+* biometrische identificatie en categorisering van natuurlijke personen
+* management en gebruik van kritische infrastructuur (water, gas, warmte, electriciteit, verkeer)
+* toelating en assessment in educatie en beroepsopleidigen
+* werving, selectie, promotie en ontslag van werknemers
+* toegang tot sociale voorzieningen, en private diensten (toelating, uitkeringen, terugvorderingen, kredietwaardigheid, prioritering hulpdiensten)
+* opsporing
+* migratie en grenscontrole
+* openbaar bestuur en democratie
