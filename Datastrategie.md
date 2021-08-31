@@ -1,30 +1,12 @@
 ## Data Strategie
 
-### Overzicht Expertsessies
+De Europese datastrategie, begin 2020 voorgesteld, streeft naar een eenheidsmarkt voor de beschikbaarheid en het gebruik van data. De strategie is daarbij gericht op het wereldwijd concurrentievermogen van Europa en op datasoevereiniteit. Technisch wordt naar een pan-Europese dataruimte gestreefd om te zorgen dat er meer data beschikbaar komt voor socio-economisch gebruik, terwijl bedrijven en individuen die data genereren er wel zeggenschap over blijven houden. Die pan-Europese dataruimte wordt opgebouwd met meerdere sectorale data spaces waarbinnen afspraken worden gemaakt over de omgang met data.
 
-*Beschrijf welke expertsessies er zijn geweest, welke deelnemers er waren, de onderwerpen die aan de orde zijn geweest, highlights, enz ... :* 
+Binnen de Data strategie spelen drie juridische bouwstenen een rol:
+* de Data governance Verordening (DGA)
+* de Data Verordening (DA)
+* de Open Data Richtlijn met daarin opgenomen de High Value Data lijst
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, 
-aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
-Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. 
-Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. 
-Curabitur ullamcorper ultricies nisi. Nam eget dui.
+Verder wordt er geld beschikbaar gesteld om de benodigde infrastructuur, o.a. gefedereerde cloud-diensten te realiseren, en maatregelen getroffen om die cloud-diensten veilig, toegankelijk en competetief te houden.
 
-### Uitkomsten Expertsessies
-
-*Geef een overzicht van de uitkomsten van de expertsessies:* 
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, 
-aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
-Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. 
-Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. 
-Curabitur ullamcorper ultricies nisi. Nam eget dui.
-
+De Data strategie bevat veel elementen die rechtstreeks voor datahouders in publiek relevante domeinen van belang zijn. Hieronder worden daarom de onderdelen van de Europese data strategie in losse hoofdstukken beschreven.
