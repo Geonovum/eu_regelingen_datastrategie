@@ -1,2 +1,3 @@
 ## Data Spaces / Dataruimten
-Beschrijving en verdiepende links naar dataspaces
+Aan te vullen.
+Beschrijving en verdiepende links naar dataspaces, inclusief de acties die EC al heeft aangekondigd.
