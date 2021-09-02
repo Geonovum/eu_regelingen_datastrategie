@@ -11,6 +11,7 @@ De eerste lijst omvat verplichtingen voor de data-domeinen:
 * Handelsregisters
 * Statistiek
 * Aardobservatie en Milieu
+* Meteorologie
 * Mobiliteit
 
 De verplichtingen voor geo-data en aardobservatie/milieu voegen naar verwachting een open data verplichting toe aan een reeks INSPIRE thema's.
