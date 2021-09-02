@@ -1,55 +1,16 @@
 ## Open Data Richtlijn
+aan te vullen
 
-### Conclusies
+Van kracht per 1 juli 2021, maar in Nederland nog niet in wet omgezet.
+Breidt scope uit met o.a. nutsbedrijven (op vrijwillige basis).
 
-*Beschrijf hier de belangrijkste conclusies:* 
+Bevat een High Value Data lijst die Lidstaten verplicht zijn gratis en als open data te publiceren via API's (indien de data bestaat).
+De eerste editie van die lijst wordt verwacht in september 2021, en wordt periodiek aangevuld door de EC.
+De eerste lijst omvat verplichtingen voor de data-domeinen:
+* Geo-data
+* Handelsregisters
+* Statistiek
+* Aardobservatie en Milieu
+* Mobiliteit
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, 
-aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
-Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. 
-Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. 
-Curabitur ullamcorper ultricies nisi. Nam eget dui.
-
-<aside class='note'>
-    Conclusies in een mooi tabelletje misschien?
-</aside> 
-
-| Kolom-1 | Kolom-2 | Kolom-3 | Kolom 4 | Kolom-n | 
-|---------|---------|---------|---------|---------| 
-| Rij-1   |         |         |         |         |
-| Rij-2   |         |         |         |         |
-| Rij-3   |         |         |         |         |
-| Rij-4   |         |         |         |         |
-| Rij-5   |         |         |         |         |
-| Rij-6   |         |         |         |         |
-
-### Aanbevelingen
-
-*Beschrijf hier de belangrijkste aanbevelingen:* 
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, 
-ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, 
-aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. 
-Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. 
-Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. 
-Curabitur ullamcorper ultricies nisi. Nam eget dui.
-
-<aside class='note'>
-    Aanbevelingen in een mooi tabelletje misschien?
-</aside> 
-
-| Kolom-1 | Kolom-2 | Kolom-3 | Kolom 4 | Kolom-n | 
-|---------|---------|---------|---------|---------| 
-| Rij-1   |         |         |         |         |
-| Rij-2   |         |         |         |         |
-| Rij-3   |         |         |         |         |
-| Rij-4   |         |         |         |         |
-| Rij-5   |         |         |         |         |
-| Rij-6   |         |         |         |         |
+De verplichtingen voor geo-data en aardobservatie/milieu voegen naar verwachting een open data verplichting toe aan een reeks INSPIRE thema's.
