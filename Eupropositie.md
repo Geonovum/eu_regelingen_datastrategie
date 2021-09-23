@@ -10,5 +10,5 @@ De uitgangspunten hiervoor zijn vastgelegd in het EU Digital Compass en de EU Di
 
 ### Twee strategieën als bouwstenen
 Twee strategieën zetten deze propositie om in praktijk en regelgeving: 
-* De Europese digitale strategie, en 
+* [De Europese digitale strategie](https://geonovum.github.io/eu_regelingen_datastrategie/#europese-digitale-strategie), en 
 * De Europese datastrategie.
