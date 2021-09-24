@@ -15,7 +15,7 @@ Die vier assen zijn:
 3. Digitale transformatie van bedrijven
 4. Digitalisering van publieke dienstverlening
 
-Digitaal burgerschap is gebaseerd op de bestaande fundamentele (burger)rechten in de EU. Die rechten worden in de EU Digital Rights and Principles uitgebreid met een aantal rechten en uitgangspunten gericht op een gedigitaliseerde maatschappij:
+Digitaal burgerschap is gebaseerd op het bestaande [Handvest grondrechten in de EU](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:12012P/TXT&from=EN). Die rechten worden in de EU Digital Rights and Principles uitgebreid met een aantal rechten en uitgangspunten gericht op een gedigitaliseerde maatschappij:
 * Universele toegang tot internetdiensten
 * Veilige en betrouwbare online omgevingen
 * Universele digitale vorming en vaardigheden zodat mensen een actieve rol in de maatschappij kunnen nemen
