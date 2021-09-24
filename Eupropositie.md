@@ -3,7 +3,7 @@
 De EU neemt m.b.t. de rol van digitalisering en data een geopolitieke positie in.
 Die positie richt zich tegelijkertijd op het maximeren van maatschappelijk nut van digitalisering en datagebruik en het beschermen en versterken van de individuele rechten van mensen.
 
-Dit in contrast tot uitgangsposities die eenzijdig gericht zijn op waarde extractie of op het centraliseren van controle.
+Dit in contrast tot uitgangsposities die bijvoorbeeld eenzijdig gericht zijn op waarde extractie of op het centraliseren van controle.
 
 ### Digital Compass en Digital Rights and Principles
 De uitgangspunten hiervoor zijn vastgelegd in het EU Digital Compass en de EU Digital Rights and Principles ([bron](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:52021DC0118&from=en)).
