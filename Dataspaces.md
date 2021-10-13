@@ -27,4 +27,4 @@ In eerste instantie zijn genoemd als data spaces:
 
 Ook wordt gesproken over de 'persoonlijke data space', die het mogelijk maakt om als individu of organisatie gegevens voor een specifiek gebruiksgeval (tijdelijk) in te brengen. (Een voorbeeld zou kunnen zijn, je eigen mobiliteitsgegevens meenemen naar een discussie over een nieuwe busroute of rondweg in je wijk). Vanuit een persoonlijke dataspace kan ook het in de Data Governance Act genoemde 'data-altruïsme' worden vormgegeven, het beschikbaar stellen van gegevens voor algemeen nu aan een beherende erkende organisatie.
 
-In de Communicatie van de EC over de EU data strategie van februari 2020 worden er per data space wat details gegeven en eerste stappen benoemd: [Meer details over de data spaces](dsindex.html)
+In de Communicatie van de EC over de EU data strategie van februari 2020 worden er per data space wat details gegeven en eerste stappen benoemd: [Meer details over de data spaces](dsindex.html).
