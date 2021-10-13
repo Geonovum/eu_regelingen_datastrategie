@@ -1,3 +1,5 @@
+## Industrial and manufacturing data space
+
 Common European **industrial** (manufacturing) data space, to support the competitiveness and performance of the EU’s industry, allowing to capture the potential value of use of non-personal data in manufacturing (estimated at € 1,5 trillion by 2027). 
 
 Europe has a strong industrial base, and manufacturing in particular is an area where the generation of and use of data can make a significant difference to the performance and competitiveness of European industry. A 2018 study estimated the potential value of use of non-personal data in manufacturing at € 1,5 trillion by 202756.
