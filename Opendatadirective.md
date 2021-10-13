@@ -7,7 +7,7 @@ Breidt scope uit met o.a. nutsbedrijven (op vrijwillige basis).
 Bevat een High Value Data lijst die Lidstaten verplicht zijn gratis en als open data te publiceren via API's (indien de data bestaat).
 
 ### High Value Datalijst
-De eerste editie van die lijst wordt verwacht in september 2021, en wordt periodiek aangevuld door de EC.
+De eerste editie van die lijst had er tijdig voor de transpositie-deadline moeten zijn, maar heeft politiek vertraging opgelopen. Hopelijk komt de lijst nog in 2021. In komende jaren wordt de lijst periodiek aangevuld door de EC, met nieuwe data-domeinen en mogelijke uitbreiding binnen al benoemde domeinen.
 De eerste lijst omvat verplichtingen voor de data-domeinen:
 * Geo-data
 * Handelsregisters
