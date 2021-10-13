@@ -10,4 +10,4 @@ A Common European **Green Deal** data space, to use the major potential of data 
 	* adoptie sustainable product policy met productpaspoort 
 	* resource mapping en afvaltransport tracking
 * Een pilot om de data strategie snel en vroegtijdig toe te passen in de context van de 'zero pollution' ambitie. In de pilot gaat het om het potentieel realiseren van wat al een heel datarijk domein (data over chemicalien, lucht, water, grond emissies, gevaarlijke stoff in consumentenproducten). Dit komt zowel consumenten als de planeet ten goede.
-* Destination Earth DestinE, de digitale tweeling van de aaarde, m.b.t. klimaatadaptatie en menselijke invloed op de omgeving. Startend in 2021 tot 2030
+* Destination Earth DestinE, de digitale tweeling van de aarde, m.b.t. klimaatadaptatie en menselijke invloed op de omgeving. Startend in 2021 tot 2030
