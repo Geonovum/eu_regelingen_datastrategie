@@ -1,3 +1,5 @@
+## Financial services data space
+
 In the financial sector, EU legislation requires financial institutions to disclose a significant amount of data products, transactions and financial results. Moreover, the revised Payment Services Directive marks an important step towards open banking, where innovative payment services can be offered to consumers and businesses on the basis of the access to their bank account data. Going forward, enhancing data sharing would contribute to stimulating innovation as well as achieving other important policy objectives at EU level.
 
 The Commission will set out concrete initiatives on this in its upcoming Digital Finance Strategy in Q3 2020 along the following considerations:
