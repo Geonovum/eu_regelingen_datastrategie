@@ -1,5 +1,4 @@
 ## Open Data Richtlijn
-aan te vullen
 
 Aangenomen in 2019, hadden Lidstaten tot 16 juli 2021 om de Richtlijn in nationale wetgeving op te nemen, maar in Nederland is dat nog niet gebeurd.
 
