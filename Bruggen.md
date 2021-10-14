@@ -12,11 +12,8 @@ De Europese Green Deal wijst nadrukkelijk op de noodzaak van digitale transforma
 Ongeacht of de diverse voorgestelde Verordeningen in de huidige vorm wel of niet wet worden, worden al wel andere EU Richtlijnen aangepast in de zin van die Verordeningen. Dit betekent dat het nuttig is om voor de eigen organisatie van toepassing zijnde Richtlijnen te volgen voorzover deze in de komende tijd worden geëvalueerd of vernieuwd.
 
 #### INSPIRE Richtlijn
-In 2021 geëvalueerd, met eind 2021 een te verwachten nieuw voorstel. De vernieuwing van de INSPIRE richtlijn is door de EC nadrukkelijk gepositioneerd als onderdeel van de implementatie van de Datastrategie en de vorming van de Green Deal Dataspace. De High Value Data lijst in de Open Data Directive bouwt ook voort op INSPIRE.
+Formeel is de implementatie van INSPIRE in 2021 afgerond. Inhoudelijk ontwikkelt het INSPIRE aanbod zich wel verder, en werken diverse Lidstaten aan het verbeteren van de mate waarin ze aan de INSPIRE richtlijn voldoen. In 2021 is, vanwege het einde van de implementatieperiode, de werking van INSPIRE geëvalueerd. Dit wordt in 2022 gevolgd door een impact assessment. Eind 2022 is een voorstel voor herziening van de INSPIRE Richtlijn te verwachten. De vernieuwing van de INSPIRE richtlijn is door de EC nadrukkelijk gepositioneerd als onderdeel van de implementatie van de Datastrategie en de vorming van de Green Deal Data space. De High Value Data lijst in de Open Data Directive bouwt ook voort op INSPIRE.
 
-aan te vullen, info over herziening, INSPIRE wiki.
 
 #### ITS Directive
-De ITS Directve wordt herzien, en het is niet onwaarschijnlijk dat de scope over welke data deze Directive iets zegt wordt uitgebreid met 'in-vehicle' data. Het is ook te verwachten dat in een herziening elementen worden opgenomen die vooruitlopen op de vorming van de Mobility dataspace, en die invulling geven aan de Smart mobility component uit de Green Deal en de bijbehorende Green Deal Dataspace.
-
-aan te vullen smart mobility
+De ITS Directve wordt herzien, en het is niet onwaarschijnlijk dat de scope over welke data deze Directive iets zegt wordt uitgebreid met 'in-vehicle' data. Het is ook te verwachten dat in een herziening elementen worden opgenomen die vooruitlopen op de vorming van de Mobility data space, en die invulling geven aan de Smart mobility component uit de Green Deal en de bijbehorende Green Deal Dataspace.
