@@ -1,8 +1,9 @@
 ## Green Deal data space
 
+De gemeenschappelijke Green Deal data space is bedoeld om het grote potentieel te realiseren van data ter ondersteuning van de prioritaire acties uit de Green Deal t.a.v. klimaatadaptatie, circulaire economy, nul vervuiling, biodiversiteit, ontbossing tegengaan, en het monitoren van compliance.
 Deze dataspace ondersteunt het behalen van de doelen in de EU Green Deal, als eerste van de te realiseren data spaces.
 
-A Common European **Green Deal** data space, to use the major potential of data in support of the Green Deal priority actions on climate change, circular economy, zero- pollution, biodiversity, deforestation and compliance assurance. The “GreenData4All” and ‘Destination Earth’ (digital twin of the Earth) initiatives will cover concrete actions. 
+De “GreenData4All” and ‘Destination Earth’ (digital twin of the Earth, DestinE) initiatieven bevatten de concrete acties:
 
 * GreenData4All dat bestaat uit het evalueren en evt aanpassen INSPIRE directive, samen met de Environment Information Directive. Hiermee worden die richtlijnen gemoderniseerd mbt kansen tech en innovatie.
 * Uitrol van herbruikbare dataservices om met grote hoeveelheden data te kunnen werken om compliance te laten zien met de milieuwetgeving en andere regels mbt de acties uit de Green Deal
