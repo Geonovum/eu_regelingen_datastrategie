@@ -1,15 +1,13 @@
 ## Agriculture data space
+De gezamenlijke Europese landbouw data space is bedoeld om de duurzaamheid, prestaties en concurrentiekracht van de agrarische sector te vergroten.
 
-A Common European **agriculture** data space, to enhance the sustainability performance and competitiveness of the agricultural sector through the processing and analysis of production and other data, allowing for precise and tailored application of production approaches at farm level.
- 
-Data is one key element to enhance the sustainability performance and competitiveness of the agricultural sector. Processing and analysing production data, especially in combination with other data on the supply chain and other types of data, such as earth observation or meteorological data, allows for precise and tailored application of production approaches at farm level. A code of conduct for sharing of agricultural data by contractual agreement was developed in 2018 by EU stakeholders, involving – among others – the farming as well as the machinery sector.
+Data is een belangrijk ingrediënt in het verbeteren van duurzaamheid, prestaties en concurrentiekracht van de sector. Het verwerken en analyseren van productiegegevens, in combinatie met andere data over toeleveringsketens en bijvoorbeeld aardobservatiegegevens en meteorologische gegevens, maakt het mogelijk om precieze en maatgemaakte productiemethoden toe te passen per boerenbedrijf. Een gedragscode voor het delen van landbouwdata op basis van contracten was ontwikkeld in 2018 door EU stakeholders uit de landbouw en machinesector.
 
-A common data space for agricultural data based on existing approaches towards data sharing could lead to a neutral platform for sharing and pooling agricultural data, including both private and public data. This could support the emergence of an innovative data-driven ecosystem based on fair contractual relations as well as strengthen the capacities for monitoring and implementing common policies and reducing administrative burden for  
+Een gezamenlijke data space voor landbouwdata gebaseerd op bestaande aanpakken kan leiden tot een neutraal platform voor het delen en bijeenbrengen van landbouwdata, waaronder ook private en overheidsdata. Dit kan het ontstaan van innovatieve datagedreven ecosysteem ondersteunen, gebaseerd op evenwichtige contractuele afspraken, alsmede capaciteit versterken voor het monitoren en implementeren van gezamenlijk beleid, en de administratieve lasten verminderen voor overheden en ontvangers. In 2019 hebben Lidstaten een samenwerkingsverklaring opgesteld getitld ‘A smart and sustainable digital future for European agriculture and rural areas’, die het potentieel erkend van digitale technologie voor de landbouwsector en landelijke gebieden, en die het opzetten van een data space ondersteund.
 
-government and beneficiaries. In 2019, Member States have joined forces and signed a declaration of cooperation ‘A smart and sustainable digital future for European agriculture and rural areas’67, which recognises the potential of digital technologies for the agricultural sector and rural areas and supports the setting up of data spaces.
+### Acties
+De EC zal:
 
-The Commission will:
+* Inventariseren met Lidstaten en stakeholders welke ervaringen zijn opgedaan met de genoemde stakeholder code of conduct voor het delen van landbouwdata op basis van contractuele afspraken, en m.b.t. de huidige markt voor digitale toepassingen voor boerenbedrijven en de eisen die die toepassingen stellen t.a.v. beschikbaarheid en gebruik van data. (Q3/Q4 2020).
 
-* Take stock with Member States and stakeholder organisations of experiences gained with the stakeholder code of conduct on agricultural data sharing by contractual agreement, also on the basis of the current market for digital farm solutions and their requirements in terms of data availability and use (Q3/Q4 2020).
-
-* Take stock of agricultural data spaces in current use, including funded under the Horizon 2020 programme, with stakeholders and Member State organisations and take decision on an EU approach (Q4 2020/Q1 2021).
+* Inventariseren welke landbouwgerelateerde data spaces al bestaan, waaronder welke onder het Horizon 2020 programma gefinancierd zijn, samen met Lidstaten en stakeholders, en een beslissing nemen t.a.v. een EU brede aanpak (Q4 2020/Q1 2021).
