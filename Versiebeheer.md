@@ -5,4 +5,5 @@ Dit document is aan verandering onderhevig. Het versiebeheer van het document ge
 | **Versie** | **Datum**      | **Status** | **Bewerking**                   | **Toelichting**                   |
 |------------|----------------|------------|---------------------------------|-----------------------------------| 
 | 0.01        | 01-07-2021     | concept    | Initieel document               | Document vanuit template aangemaakt     |
+| 0.09        | 14-10-2021     | concept    | Eerste volledige versi          | Inhoud naar stand mid-oktober actueel     |
                            
