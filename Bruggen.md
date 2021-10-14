@@ -2,10 +2,10 @@
 
 ### EU Beleidsthema's
 
-aan te vullen
+De EC streeft naar het maximaliseren van de maatschappelijke meerwaarde van datagebruik. Dit geldt nadrukkelijk ook voor de door de EU zelf gestelde doelen en ambities voor inhoudelijke beleidsthema's. Dit is zichtbaar in hoe beleidsplannen verwijzingen bevatten naar de Digitaliserings- en Datastrategie, en op de beoogde resultaten daarvan voortbouwen.
 
 #### Green Deal
-De Europese Green Deal wijst nadrukkelijk op de noodzaak van digitale transformatie en de voorgestelde EU verordeningen als instrument daarin. De vorming van de Green Deal Dataspace krijgt als eerste vorm (met als beginstap de herziening van de INSPIRE richtlijn).
+De Europese Green Deal wijst nadrukkelijk op de noodzaak van digitale transformatie en de voorgestelde EU verordeningen als instrument daarin. De vorming van de Green Deal Dataspace krijgt als eerste vorm (met als beginstap de herziening van de INSPIRE richtlijn) en is bouwsteen voor de digitale tweeling van de aarde (Destination Earth, DestinE, gericht op klimaatadaptatie).
 
 ### Andere Richtlijnen
 
