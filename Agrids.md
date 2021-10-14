@@ -1,3 +1,5 @@
+## Agriculture data space
+
 A Common European **agriculture** data space, to enhance the sustainability performance and competitiveness of the agricultural sector through the processing and analysis of production and other data, allowing for precise and tailored application of production approaches at farm level.
  
 Data is one key element to enhance the sustainability performance and competitiveness of the agricultural sector. Processing and analysing production data, especially in combination with other data on the supply chain and other types of data, such as earth observation or meteorological data, allows for precise and tailored application of production approaches at farm level. A code of conduct for sharing of agricultural data by contractual agreement was developed in 2018 by EU stakeholders, involving – among others – the farming as well as the machinery sector.
