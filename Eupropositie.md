@@ -5,6 +5,10 @@ Die positie richt zich tegelijkertijd op het maximeren van maatschappelijk nut v
 
 Dit in contrast tot uitgangsposities die bijvoorbeeld eenzijdig gericht zijn op waarde extractie of op het centraliseren van controle.
 
+De geopolitieke propositie wordt in uitgangspunten, twee strategieën met daaronder een aantal wetten vaste vorm gegeven. Onderstaande afbeelding geeft hiervan een overzicht. In de rest van deze webpagina wordt elk van de elementen nader beschreven.
+
+![euplaatgeonovumokt2021.png](media/euplaatgeonovumokt2021.png)
+
 ### Digital Compass en Digital Rights and Principles
 De uitgangspunten hiervoor zijn vastgelegd in het EU Digital Compass en de EU Digital Rights and Principles ([bron](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:52021DC0118&from=en)).
 
