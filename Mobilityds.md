@@ -15,15 +15,14 @@ Datagebruik om vervoerssystemen te verbeteren is ook een centraal aspect van sma
 
 De EC zal:
 
--  Review the current EU type approval legislation for motor vehicles (currently focused on wireless data sharing for repair and maintenance), to open it up to more car data based services (Q1 2021). The review will inter alia look at how data is made accessible by the car manufacturer, what procedures are necessary to obtain it in full compliance with data protection rules and the role and rights of the car owner.
+-  De huidige EU regels voor het toelaten van motorvoertuigen herzien (momenteel gericht op draadloos datadelen voor herstel en onderhoud) om meer op autodata gebaseerde diensten mogelijk te maken. De herziening zal ondermeer kijken naar hoe data toegankelijk wordt gemaakt door de autofabrikant, welke procedures nodig zijn om dergelijke data te verkrijgen in lijn met dataprotectieregels (AVG), en de rol en rechten van de autobezitter hierin.
     
--  Review the Directive on harmonised river information services60 and the Directive on Intelligent Transport Systems61, including its delegated regulations to further contribute to data availability, reuse and interoperability (both in 2021) and establish a stronger coordination mechanism to federate the National Access Points established under the ITS Directive through a EU wide CEF Programme Support Action (2020).
+-  De Directive on harmonised river information services and the Directive on Intelligent Transport Systems herzien, inclusief de daarin gedelegeerde regelingen, om databeschikbaarheid, hergebruik en interoperabiliteit te versterken (2021) en het vestigen van een sterker coördinatiemechanisme om de nationale toegangspunten uit de ITS Directive te federeren middels een EU-brede CEF Programme Support Action (2020).
     
--  Amend the proposal for a Regulation on the Single European Sky62 to include new provisions on data availability and market access of data service providers in order to promote the digitalisation and automation of air traffic management (2020). This will improve safety, efficiency and capacity in air traffic.
+-  Het voorstel  voor de Regulation on the Single European Sky aanpassen om daaraan nieuwe provisies toe te voegen t.a.v. databeschikbaarheid en t.a.v. markttoegang van datadienstenleveranciers, om de digitalisaering en automatisering van verkeersleiding aan te moedigen. Dit ter verbetering van de veiligheid, efficiëntie en capaciteit van het luchtverkeer.
 
--  Review the regulatory framework for interoperable data-sharing in rail transport in 2022.
+-  Het raamwerk voor het interoperabel delen van data in het railtransport herzien in 2022.
     
--  Establish common data sets as foreseen in the Regulation on Maritime Single Window63 and, subject to its final adoption, in the Regulation on electronic freight transport information regulations64 (the first such act to be adopted by Q3 2021 and Q4 2022 respectively) to facilitate digital exchange and data reuse between businesses and administration.
-
+-  Gemeenschappelijke datasets vaststellen zoals voorzien in de Regulation on Maritime Single Window en, hangende de finale adoptie, in de Regulation on electronic freight transport information regulations (Q3 2021 en Q4 2022), om zo digitale uitwisselingen en hergebruik tussen bedrijven en overheid te faciliteren.
 
 
