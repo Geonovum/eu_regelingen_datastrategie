@@ -1,5 +1,6 @@
 **Versiebeheer**
 
+De informatie in dit document is niet gegarandeerd correct of actueel.
 Dit document is aan verandering onderhevig. Het versiebeheer van het document geeft inzicht in wijzigen en de actualiteit ervan.
 
 | **Versie** | **Datum**      | **Status** | **Bewerking**                   | **Toelichting**                   |
