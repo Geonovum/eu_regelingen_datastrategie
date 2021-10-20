@@ -8,6 +8,7 @@ Inkoop- en aanbestedingsgegevens zijn essentieel om de transparantie en verantwo
 
 Gelijksoortig, is naadloze toegang en makkelijk hergebruik van gegevens over wetgeving van de EU en een Lidstaat, jurisprudentie, en informatie over e-justitie diensten, van kritiek belang niet alleen voor de effectieve toepassing van EU wetten, maar ook om innovatieve 'legal tech' toepassingen mogelijk te maken voor gebruik door rechters, ambtenaren, bedrijfsjuristen en advocatuur.
 
+### Acties
 De EC zal:
 
 * Een data initiatief uitwerken t.a.v. publieke inkoop- en aanbestedings data die zowel de EU dimensie afdekt (EU datasets, zoals TED68), als de nationale lagen (Q4 2020). Dit wordt aangevuld met een procurement data governance framework (Q2 2021);

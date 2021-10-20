@@ -2,6 +2,7 @@
 
 In de financiële sector vereist Europese wetgeving van financiële instituties het bekend maken van een significante hoeveelheid data producten, transacties en financiële resultaten. Daarbij markeert de herziene Payment Services Directive (PSD2) een belangrijke stap naar 'open bankieren' waar innovatieve betalingsdiensten kunnen worden aangeboden aan consumenten en bedrijven op basis van toegang tot de data van hun bankrekeningen. Naar voren kijkend kan versterking van datadelen bijdragen aan zowel het stimuleren van innovatie als het behalen van andere belangrijke beleidsdoelen op EU niveau.
 
+### Acties
 De EC formuleert concrete iniatieven in de Digital Finance Strategy (september 2020, [Volledige tekst in PDF](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52020DC0591&from=EN), [Factsheet in PDF](https://ec.europa.eu/info/sites/default/files/business_economy_euro/banking_and_finance/200924-digital-finance-factsheet_en.pdf)) op basis van de volgende afwegingen:
 
 * De EC faciliteert makkelijkere openbaarmaking van financiële gegevens en rapportagegegevens, zoals die momenteel wettelijk zijn vereist, zoals bijvoorbeeld door het aanmoedigen van het gebruik van gangbare pre-competitieve technische standaarden. Hierdoor is meer efficiënte verwerking van zulke openbare gegevens mogelijk ten behoeve van een aantal andere beleidslijnen van publieke interesse, zoals de toegang to financiering voor Europese bedrijven door beter geïntegreerde kapitaalmarkten, betere markttransparantie, en het ondersteunen van duurzame financiering in de EU.

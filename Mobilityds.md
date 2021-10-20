@@ -13,6 +13,7 @@ Passagiersvervoer groet naar verwachting 35% tussen 2015 en 2050. Vrachtvervoer 
 Verschillende juridische raamwerken bevatten al verplichtingen tot datadelen, inclusief een lijst van relevante datasets (waaronder datasets t.a.v. openbaar vervoer). Daarnaast werkt het Digital Transport and Logistics Forum aan het concept van gefedereerde platforms, om te definiëren wat op EU niveau moet gebeuren om het delen en gebruik van data te faciliteren door het combineren van verschillende publieke en private platforms. Bovendien bestaan netwerken van nationale toegangspunten om data in de Lidstaten beschikbaar te maken, met het oog op wegveiligheid, multimodale verkeersinformatie, met data uit zowel de publieke als private sector. Brede beschikbaarheid en gebruik van data in het openbaar vervoer maakt het mogelijk het OV efficiënter, duurzamer en klantvriendelijker te maken. 
 Datagebruik om vervoerssystemen te verbeteren is ook een centraal aspect van smart city initiatieven.
 
+### Acties
 De EC zal:
 
 -  De huidige EU regels voor het toelaten van motorvoertuigen herzien (momenteel gericht op draadloos datadelen voor herstel en onderhoud) om meer op autodata gebaseerde diensten mogelijk te maken. De herziening zal ondermeer kijken naar hoe data toegankelijk wordt gemaakt door de autofabrikant, welke procedures nodig zijn om dergelijke data te verkrijgen in lijn met dataprotectieregels (AVG), en de rol en rechten van de autobezitter hierin.

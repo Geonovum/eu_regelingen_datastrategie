@@ -7,6 +7,7 @@ T.a.v. digitale veiligheid, is er werk in uitvoering om energie-specifieke uitda
 
 De EC zal al deze aspecten aanpakken als onderdeel van de Smart sector integration strategy ([PDF](https://ec.europa.eu/energy/sites/ener/files/energy_system_integration_strategy_.pdf)), die in juli 2020 is verschenen, en was aangekondigd als onderdeel van de Green Deal.
 
+### Acties
 De EC zal:
 
 * Implementatiewet(ten) 66 aannemen, die de interoperabiliteitsvereisten, en non-discriminatoire en transparantie procedures for toegang tot data beschrijft, daarbij voortbouwen op de bestaande nationale werkwijzen op basis van de Electricity Directive 2019/944 (2021/2022).
