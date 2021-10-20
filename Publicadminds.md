@@ -1,15 +1,15 @@
 ## Public Administration data space
-Common European data spaces for **public administration**, to improve transparency and accountability of public spending and spending quality, fighting corruption, both at EU and national level, and to address law enforcement needs and support the effective application of EU law and enable innovative ‘gov tech’, ‘reg tech’ and ‘legal tech’ applications supporting practitioners as well as other services of public interest
 
+Een gemeenschappelijke Europese dataspace voor overheidsdiensten is bedoeld om de transparantie en verantwoording van publieke uitgaven en effectiviteit te verbeteren, en corruptie te bestrijden, beiden op zowel EU als nationaal niveau, de behoeften van wetshandhaving te vervullen en de effectieve toepassing van Europese wetten te ondersteunen, en uitvoerders en dienstverleners van algemeen publiek belang te ondersteunen met innovatieve ‘gov tech’, ‘reg tech’ en ‘legal tech’ applicaties.
 
-Public administrations are big producers and also users of data in different areas. The data spaces for public administrations will reflect this. Actions in this areas will focus on law and public procurement data and other areas of public interest such as data use for improving law enforcement in the EU in line with EU law, including the principle of proportionality and data protection rules.
+Overheden zijn grote producenten en gebruikers van data in heel verschillende domeinen. De data space(s) voor de overheid zullen dit reflecteren. Acties op dit gebied zullen zich richten op wetsgegevens, inkoop- en aanbestedingsgegevens, en andere terreinen van publiek belang, zoals het verbeteren van wetshandhaving in lijn met EU wetten, inclusief het principe van proportionaliteit en de dataprotectieregels (zoals AVG).
 
-Public procurement data are essential to improve transparency and accountability of public spending, fighting corruption and improving spending quality. Public procurement data is spread over several systems in the Member States, made available in different formats and is not easily possible to use for policy purposes in real-time. In many cases, the data quality needs to be improved.
+Inkoop- en aanbestedingsgegevens zijn essentieel om de transparantie en verantwoording van publieke uitgaven te verbeteren, corruptie te bestrijden en de effectiviteit van uitgaven te verbeteren.  Dergelijke data is verspreid over meerdere systemen in de Lidstaten, wordt gehanteerd in verschillende formaten, en is niet makkelijk bruikbaar voor beleidsmatig gebruik in real-time. In veel gevallen moet ook de datakwaliteit worden verbetered.
 
-Similarly, seamless access to and easy reuse of EU and Member State legislation, jurisprudence as well as information on e-justice services is critical not only for the effective application of EU law but also enables innovative ‘legal tech’ applications supporting practitioners (judges, public officials, corporate counsel and lawyers in private practice).
+Gelijksoortig, is naadloze toegang en makkelijk hergebruik van gegevens over wetgeving van de EU en een Lidstaat, jurisprudentie, en informatie over e-justitie diensten, van kritiek belang niet alleen voor de effectieve toepassing van EU wetten, maar ook om innovatieve 'legal tech' toepassingen mogelijk te maken voor gebruik door rechters, ambtenaren, bedrijfsjuristen en advocatuur.
 
-The Commission will:
+De EC zal:
 
-* Elaborate a data initiative for public procurement data covering both the EU dimension (EU datasets, such as TED68) and the national ones (Q4 2020). It will be complemented by a procurement data governance framework (Q2 2021);
-* Issue guidance on common standards as well as interoperable frameworks for legal information69 held at European and national level, in close cooperation with Member States (Q1 2021);
-* work with Member States to ensure that data sources related to the implementation of the EU budget are Findable, Accessible, Interoperable and Reusable (FAIR).
+* Een data initiatief uitwerken t.a.v. publieke inkoop- en aanbestedings data die zowel de EU dimensie afdekt (EU datasets, zoals TED68), als de nationale lagen (Q4 2020). Dit wordt aangevuld met een procurement data governance framework (Q2 2021);
+* Een handreiking publiceren over gebruikelijke standaarden alsmede interoperabele raamwerken voor juridische informatie op EU en nationaal niveau, in nauwe samenwerking met Lidstaten (Q1 2021);
+* samenwerken met Lidstaten om te zorgen dat datasets over de implementatie van het EU budget FAIR zijn vormgegeven (Findable, Accessible, Interoperable and Reusable).

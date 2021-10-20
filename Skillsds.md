@@ -1,10 +1,10 @@
 ## Skills data space (educatie en arbeidsmarkt)
 
-A Common European **skills** data space, to reduce the skills mismatches between the education and training system on the one hand and the labour market needs on the other.
+De Europese skills data space is bedoeld om de aansluiting te verbeteren tussen onderwijs en opleiding enerzijds en de behoeften van de arbeidsmarkt anderzijds.
 
-The skills of its people are Europe’s strongest asset. In a global race for talent, the European education and training systems and labour markets need to quickly adapt to new and emerging skills needs. This requires high-quality data on qualifications, learning opportunities, jobs and the skill sets of people. Over the past years, the Commission has put in place a range of open standards, reference frameworks and semantic assets to increase data quality and interoperability70. As announced in the Digital Education Action Plan71, the Commission also developed the Europass Digital Credentials framework to issue credentials to learners in a secure and interoperable digital format.
+De vaardigheden van mensen zijn Europa's belangrijkste asset. In de wereldwijde race om talent, moeten Europese onderwijsinstellingen en de arbeidsmarkt zich snel kunnen aanpassen aan nieuwe en opkomende behoeften aan vaardigheden. Dit vergt data van hoge kwaliteit over kwalificaties, opleidingskansen, banen en de vaardigheden van mensen. In de afgelopen jaren heeft de EC een reeks open standaarden ingevoerd, referentie raamwerken en semantische assets om datakwaliteit en interoperabiliteit te verbeteren. Zoals aangekondigd in het Digital Education Action Plan, heeft de EC ook het Europass Digital Credentials framework  gerealiseerd om kwalificaties aan lerenden te verstrekken in een veilig en interoperabel digitaal formaat.
 
-The Commission will:
+De EC zal:
 
-* Support Member States in the development of digital credential transformation plans and in the preparation of re-usable data-sets of qualifications and learning opportunities (2020-2022);  
-* Establish a governance model for the on-going management of the Europass Digital Credentials Framework in close cooperation with Member States and key stakeholders (by 2022).
+* Lidstaten ondersteunen in de ontwikkeling van digitale 'credential transformation plans' en in de voorbereiding van herbruikbare datasets over kwalificaties en opleidingskansen (2020-2022);  
+* Een beheermodel opstellen voor het beheer van het Europass Digital Credentials Framework, in nauwe samenwerking met Lidstaten en belangrijke andere betrokkenen (2022).
