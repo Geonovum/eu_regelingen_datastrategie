@@ -6,7 +6,7 @@ Nu is de gelegenheid om met datahouders en datagebruikers in Nederland pro-actie
 * om met goede gebruikscasussen invloed uit te oefenen op hoe de nieuwe regels vorm krijgen en straks worden geïmplementeerd, en 
 * om te zorgen dat je straks ook zelf wilt wat je straks moe, omdat je al weet hoe de nieuwe regels helpen de eigen beleids- en organisatiedoelstellingen te behalen. 
 
-Het Tactisch Beraad EU Informatie (onderdeel van het GI-Beraad) is eind 2020 opgericht om met Nederlandse datahouders actief naar de kansen en obstakels van de Europese voorstellen te kijken. In het Tactisch Beraad zorgen de deelnemers voor de terugkoppeling over de Europese ontwikkelingen waar zij bij betrokken zijn. Aan het beraad kunnen vraagteams worden gekoppeld om specifieke vraagstukken concreet uit te werken. Deze handreikings is gemaakt door Geonovum voor het Tactisch Beraad EU Informatie.
+Het Tactisch Beraad EU Informatie (onderdeel van het GI-Beraad) is eind 2020 opgericht om met Nederlandse datahouders actief naar de kansen en obstakels van de Europese voorstellen te kijken. In het Tactisch Beraad zorgen de deelnemers voor de terugkoppeling over de Europese ontwikkelingen waar zij bij betrokken zijn. Aan het beraad kunnen vraagteams worden gekoppeld om specifieke vraagstukken concreet uit te werken. De handreiking die u nu leest is gemaakt door Geonovum voor het Tactisch Beraad EU Informatie.
 
 ### Doelgroep
 
