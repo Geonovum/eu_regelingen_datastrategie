@@ -5,7 +5,7 @@ Die positie richt zich tegelijkertijd op het maximeren van maatschappelijk nut v
 
 Dit in contrast tot uitgangsposities die bijvoorbeeld eenzijdig gericht zijn op waarde extractie of op het centraliseren van controle.
 
-De geopolitieke propositie wordt in uitgangspunten, twee strategieën met daaronder een aantal wetten vaste vorm gegeven. Onderstaande afbeelding geeft hiervan een overzicht. In de rest van deze webpagina wordt elk van de elementen nader beschreven.
+De geopolitieke propositie wordt in uitgangspunten, twee strategieën met daaronder een aantal wetten vaste vorm gegeven. Onderstaande afbeelding geeft hiervan een overzicht. In de rest van deze handreiking wordt elk van de elementen nader beschreven.
 
 ![euplaatgeonovumokt2021.png](media/euplaatgeonovumokt2021.png)
 
