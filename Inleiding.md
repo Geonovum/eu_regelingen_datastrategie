@@ -12,4 +12,4 @@ Deze pagina's brengen de actueel bekende feitelijke informatie over de data-gere
 
 ### Het proces
 
-Het Tactisch Beraad en Geonovum houden voor de stand van de ontwikkelingen rond Europese regelgeving m.b.t. data bij voor eigen gebruik en voor ons netwerk. Om ons netwerk van dienst te zijn delen we die informatie ook hier, zodat deze informatie kan worden hergebruikt. Wanneer onze eigen informatie wijzigt, passen we ook de informatie op deze pagina's zo spoedig mogelijk aan. Wilt u wijzigingen of suggesties doorgeven neem dan contact op met de personen die bovenaan de pagina worden genoemd.
+Het Tactisch Beraad EU Informatie en Geonovum houden voor de stand van de ontwikkelingen rond Europese regelgeving m.b.t. data bij voor eigen gebruik en voor ons netwerk. Om ons netwerk van dienst te zijn delen we die informatie ook hier, zodat deze informatie kan worden hergebruikt. Wanneer onze eigen informatie wijzigt, passen we ook de informatie op deze pagina's zo spoedig mogelijk aan. Wilt u wijzigingen of suggesties doorgeven neem dan contact via inspire@geonovum.nl.
