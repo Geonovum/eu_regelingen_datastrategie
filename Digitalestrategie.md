@@ -2,20 +2,20 @@
 
 De Europese Digitale Strategie mikt op successen in digitale transformatie in de jaren tot 2025.
 
-Er zijn drie juridische instrumenten door de EC voorgesteld als onderdeel van de Digitale Strategie
+Er zijn drie juridische instrumenten door de EC voorgesteld als onderdeel van de Digitale Strategie:
 
-* De Digitale Marktenverordening (Digital Markets Act, DMA), gericht op zogenaamde 'gatekeepers' met een dominante positie
-* De Digitale Dienstenverordening (Digital Services Act, DSA), gericht op alle intermediaire digitale dienstverleners (inclusief de 'gatekeepers')
-* De AI Regulering (AI Regulation), gericht op de toelating van AI producten.
+* De Digital Markets Act (DMA, *Digitale Marktenverordening*), gericht op zogenaamde 'gatekeepers' / poortwachters met een dominante positie;
+* De Digital Services Act (DSA, *Digitale Dienstenverordening*), gericht op alle intermediaire digitale dienstverleners (inclusief de 'gatekeepers');
+* De AI Regulation (*AI Regulering*), gericht op de toelating van AI producten.
 
-### Digitale Marktenverordening (DMA)
-Voorgesteld eind 2020. Als Verordening direct van kracht in alle lidstaten, zodra aangenomen.
+### Digital Markets Act  (DMA)
+De DMA is voorgesteld eind 2020. Als Verordening is de DMA direct van kracht in alle lidstaten, zodra deze wordt aangenomen.
 
 * Gericht op open en eerlijk digitale markten
 * Richt zich op 'gatekeepers' / poortwachters, d.w.z. grote online platforms, netwerk providers, hostingbedrijven. De wet geeft regels t.a.v. de beslismacht die poortwachters hebben over het toelaten van andere dienstenaanbieders.
 * Een poortwachter is gedefinieerd als:
     * Een platform met een sterke economische positie, met een significante impact op de EU markt, en actief in meerdere EU lidstaten.
-    * Een platorm met een sterke intermediaire positie, d.w.z. verbindt een grote groep gebruikers met een groot aantal bedrijven.
+    * Een platform met een sterke intermediaire positie, d.w.z. verbindt een grote groep gebruikers met een groot aantal bedrijven.
     * Heeft, of heeft bijna, een bestendige en in de tijd stabiele marktpositie 
 * Gericht op het vergroten van de diversiteit van aanbod op de platformen van poortwachters, niet op het hinderen van de innovatiekracht van die gatekeepers zelf
 * Stelt verplichtingen voor poortwachters, waaraan ze in hun dagelijkse operatie aan moeten voldoen, t.a.v.:
@@ -31,14 +31,13 @@ Voorgesteld eind 2020. Als Verordening direct van kracht in alle lidstaten, zodr
     * Dwangsommen mogelijke tot 5% van de gemiddelde wereldwijde dagomzet van een poortwachter.
 
 
-De Verordening kan in 2022 gereed zijn en van kracht worden.
+De DMA kan in 2022 gereed zijn en van kracht worden.
 
-### Digitale Dienstenverordening (DSA)
-
-De Digitale Dienstenverordening hangt nauw samen met de Digitale Marktenverordening, en is net als deze eind 2020 voorgesteld. Het is een uitbreiding en actualisering van de EU E-commerce Directive 2000/31/EU. Die bestaande Richtlijn wordt hiermee vervangen door een Verordening en trekt zo de regels en interpretatie voor alle Lidstaten gelijk.
+### Digital Services Act (DSA)
+De Digital Services Act (DSA) hangt nauw samen met de Digital Markets Act (DMA), en is net als de DMA eind 2020 voorgesteld. Het is een uitbreiding en actualisering van de EU E-commerce Directive 2000/31/EU. Die bestaande Richtlijn wordt hiermee vervangen door een Verordening en trekt zo de regels en interpretatie voor alle Lidstaten gelijk.
 
 * Gericht op een veilige digitale ruimte waarin de (grond)rechten van alle gebruikers van digitale diensten beschermd zijn.
-* Eist transparantie en verantwoording van digitale dienstverleners
+* Eist transparantie en verantwoording van digitale dienstverleners.
 * Gericht op een gelijk speelveld waarin innovatie, concurrentie en groei mogelijk zijn. Dit niet alleen binnen de EU, maar wereldwijd.
 * Bevat sancties die lijken op die van de AVG.
 
@@ -60,12 +59,12 @@ Zulke intermediaire diensten krijgen verplichtingen opgelegd die moeten leiden t
 
 De voorgestelde wet leest als een risicogerichte aanpak, en beschouwt de rol van platforms waar deze systemische risico's vormt voor markt en maatschappij. Het adresseert daarbij de invloed en macht van een platform, de rol van een platform als (maatschappelijke) infrastructuur, en de afhankelijkheden in het ecosysteem van aanbieders.
 
-De Verordening kan in 2022 gereed zijn en van kracht worden.
+De DSA kan in 2022 gereed zijn en van kracht worden.
 
-### AI Regulering
-Voorgesteld in april 2021. De AI regulering is wereldwijd het eerste wetsvoorstel in zijn soort. Net als de AVG, de DMA en DSA, is het vormgegeven als een instrument dat striktere eisen en grotere sancties koppelt aan hogere risiconiveau's.
+### AI Regulation
+De AI Regulation is voorgesteld in april 2021. De AI Regulation is wereldwijd het eerste wetsvoorstel in zijn soort. Net als de AVG, de DMA en DSA, is het vormgegeven als een instrument dat striktere eisen en grotere sancties koppelt aan hogere risiconiveau's.
 
-De AI verordening definieert toelatingseisen waaraan AI moet voldoen om in de Europese markt te mogen worden aangeboden of gebruikt. 
+De AI Regulation definieert toelatingseisen waaraan AI moet voldoen om in de Europese markt te mogen worden aangeboden of gebruikt. 
 De werking strekt zich uit over:
 * Providers van AI (gebruikende) systemen die in de EU op de markt worden gebracht
 * Gebruikers van AI (gebruikende) systemen
@@ -78,7 +77,7 @@ Onder AI wordt verstaan wat op een telkens aan te passen lijst van technieken en
 * Logica en kennisgebaseerde aanpakken (knowledge representation, inductive (logic) programming, knowledge bases, inference and deductive engines, (symbolic) reasoning and expert systems)
 * Statistische aanpakken (Bayesian estimation, search and optimization methods)
 
-De afweging van risico's van AI toepassingen worden gemaakt t.o.v. de mate waarin het individuele rechten aantast. Toepassingen worden ingedeeld in verboden toepassingen, hoog-risico toepassingen, en overige toepassingen.
+De afweging van risico's van AI toepassingen worden gemaakt t.o.v. de mate waarin het individuele rechten aantast. Toepassingen worden ingedeeld in verboden toepassingen, hoog-risico toepassingen en overige toepassingen.
 
 Verboden toepassingen zijn onbewuste beïnvloeding van het gedrag van mensen dat hen of anderen psychische of lichamelijke schade kan bezorgen, het misbruiken van kwetsbaarheden van een groep of persoon op basis van leeftijd of beperking, toepassingen door overheden voor een zgn. sociale score, en algemene inzet van biometrische identificatie in de publieke ruimte voor opsporing.
 
