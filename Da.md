@@ -6,6 +6,6 @@ Naar verwachting zal de Data Act zich richten op:
 * Het uitwisselen en gebruiken van data tussen organisaties (B2B), over sector- en landsgrenzen heen
 * Het door overheden verkrijgen en gebruiken van data van bedrijven (B2G) voor vraagstukken in het algemeen belang
 * Eisen aan zulk B2B en B2G gebruik en uitwisseling
-* Eisen aan mogelijkheden die in de Data Governance Act worden gerealiseerd
+* Eisen aan mogelijkheden die in de Data Governance Act (DGA) worden gerealiseerd
 * Een toetsings- en verantwoordingsmechanisme t.a.v. het voldoen aan de genoemde eisen
 
