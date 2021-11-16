@@ -6,10 +6,10 @@ Er zijn drie juridische instrumenten door de EC voorgesteld als onderdeel van de
 
 * De Digital Markets Act (DMA, *Digitale Marktenverordening*), gericht op zogenaamde 'gatekeepers' / poortwachters met een dominante positie;
 * De Digital Services Act (DSA, *Digitale Dienstenverordening*), gericht op alle intermediaire digitale dienstverleners (inclusief de 'gatekeepers');
-* De AI Regulation (*AI Regulering*), gericht op de toelating van AI producten.
+* De AI Regulation (*AI verordening*), gericht op de toelating van AI producten.
 
 ### Digital Markets Act  (DMA)
-De DMA is voorgesteld eind 2020. Als Verordening is de DMA direct van kracht in alle lidstaten, zodra deze wordt aangenomen.
+De Digital Markets Act (DMA, *Digitale Marktenverordening*) is voorgesteld eind 2020. Als Verordening is de DMA direct van kracht in alle lidstaten, zodra deze wordt aangenomen.
 
 * Gericht op open en eerlijk digitale markten
 * Richt zich op 'gatekeepers' / poortwachters, d.w.z. grote online platforms, netwerk providers, hostingbedrijven. De wet geeft regels t.a.v. de beslismacht die poortwachters hebben over het toelaten van andere dienstenaanbieders.
@@ -34,7 +34,7 @@ De DMA is voorgesteld eind 2020. Als Verordening is de DMA direct van kracht in 
 De DMA kan in 2022 gereed zijn en van kracht worden.
 
 ### Digital Services Act (DSA)
-De Digital Services Act (DSA) hangt nauw samen met de Digital Markets Act (DMA), en is net als de DMA eind 2020 voorgesteld. Het is een uitbreiding en actualisering van de EU E-commerce Directive 2000/31/EU. Die bestaande Richtlijn wordt hiermee vervangen door een Verordening en trekt zo de regels en interpretatie voor alle Lidstaten gelijk.
+De Digital Services Act (DSA, *Digitale Dienstenverordening*) hangt nauw samen met de Digital Markets Act (DMA), en is net als de DMA eind 2020 voorgesteld. Het is een uitbreiding en actualisering van de EU E-commerce Directive 2000/31/EU. Die bestaande Richtlijn wordt hiermee vervangen door een Verordening en trekt zo de regels en interpretatie voor alle Lidstaten gelijk. Als Verordening is de DSA direct van kracht in alle lidstaten, zodra deze wordt aangenomen.
 
 * Gericht op een veilige digitale ruimte waarin de (grond)rechten van alle gebruikers van digitale diensten beschermd zijn.
 * Eist transparantie en verantwoording van digitale dienstverleners.
@@ -62,7 +62,7 @@ De voorgestelde wet leest als een risicogerichte aanpak, en beschouwt de rol van
 De DSA kan in 2022 gereed zijn en van kracht worden.
 
 ### AI Regulation
-De AI Regulation is voorgesteld in april 2021. De AI Regulation is wereldwijd het eerste wetsvoorstel in zijn soort. Net als de AVG, de DMA en DSA, is het vormgegeven als een instrument dat striktere eisen en grotere sancties koppelt aan hogere risiconiveau's.
+De AI Regulation (*AI Verordening*) is voorgesteld in april 2021. De AI Regulation is wereldwijd het eerste wetsvoorstel in zijn soort. Net als de AVG, de DMA en DSA, is het vormgegeven als een instrument dat striktere eisen en grotere sancties koppelt aan hogere risiconiveau's.
 
 De AI Regulation definieert toelatingseisen waaraan AI moet voldoen om in de Europese markt te mogen worden aangeboden of gebruikt. 
 De werking strekt zich uit over:
