@@ -1,4 +1,4 @@
-## Data Governance Act
+## Data Governance Act (DGA)
 
 De [Data Governance Act (DGA, *Data governance verordening*)](https://eur-lex.europa.eu/legal-content/EN-NL/TXT/?fromTab=ALL&from=NL&uri=CELEX%3A52020PC0767) wil de hoeveelheid data die beschikbaar is voor (her)gebruik vergroten, door het vertrouwen in data-intermediairs te verstevigen, en de mechanismen om data te delen te versterken. Hierbij gaat het ondermeer om overheidsgegevens waar op enige manier rechten van anderen op rusten (en daarom buiten de scope van Open Data Directive vallen), om de uitwisseling van gegevens tussen bedrijven via intermediairs, en het gebruik van persoonsgegevens waarbij het uitoefenen van AVG-rechten door individuen makkelijk moet zijn. Ook wordt een nieuwe gebruikstoestemming geïntroduceerd, namelijk het toestaan van gebruik van (persoons)gegevens om altruïstische redenen. 
 
