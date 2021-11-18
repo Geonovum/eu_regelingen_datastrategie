@@ -3,7 +3,7 @@
 Er wordt gestreefd naar een 'eenheidsmarkt voor data', die vorm moet krijgen in een EU-brede dataspace (*dataruimte*). Binnen zo'n dataspace moet het mogelijk zijn voor iedereen deel te nemen aan het delen, uitwisselen, en gebruiken van data. Ook als het gaat om data die je niet rechtstreeks kunt krijgen, worden er mogelijkheden voorzien om die data wel te kunnen gebruiken. Denk hier o.a. de overheidsdata die binnen de [Data Governance Act (DGA)](#data-governance-act) valt, maar niet onder de [Open Data Directive](#open-data-directive) (en dus het openbaarheidsregime van de betreffende lidstaat). Bijvoorbeeld het gebruiken van microdata van het CBS om een model te trainen zonder zelf over die microdata te hoeven beschikken.
 
 Wat een dataspace precies is en hoe het zal worden, is nog niet duidelijk. Het wordt gezien als een geleidelijk ontstaansproces. Op basis van bestaande beschrijvingen is een dataspace opgebouwd uit:
-* een technische infrastructuur die voor iedereen toegankelijk is en veilige uitwisseling en gebruik mogelijk maakt (hier is een relatie met bijvoorbeeld Gaia-X[^1]). 
+* een technische infrastructuur die voor iedereen toegankelijk is en veilige uitwisseling en gebruik mogelijk maakt (hier is een relatie met bijvoorbeeld Gaia-X [^1] ). 
 * gereedschappen voor gebruik en delen
 * data governance afspraken en standaarden, waarin de Data Innovation Board uit de Data Governance Act (DGA) een rol speelt
 * heldere gebruikscondities (naar verwachting nader uitgewerkt in de komende [Data Act](#data-act)
