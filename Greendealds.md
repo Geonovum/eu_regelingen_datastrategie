@@ -8,7 +8,7 @@ De initiatieven “GreenData4All” and “Destination Earth”  (DestinE, digit
 
 * GreenData4All dat bestaat uit het evalueren en eventueel aanpassen van de INSPIRE Richtlijn, samen met de Environment Information Directive (Publieke toegang tot milieu-informatie Richtlijn ). Hiermee worden die richtlijnen gemoderniseerd m.b.t. kansen tech en innovatie.
 * Uitrol van herbruikbare dataservices om met grote hoeveelheden data te kunnen werken om compliance te laten zien met de milieuwetgeving en andere regels m.b.t. de acties uit de Green Deal.
-* Een common European dataspace for circular economy (deze wordt niet in de DGA genoemd) Met eerste focus op sectoren genoemd in Circular Economy Action Plan (_gebouwde omgeving, verpakking, textiel, electronica, ICT en plastic_) Daarbinnen:
+* Een common European dataspace for circular economy (deze wordt niet in de DGA genoemd) Met eerste focus op sectoren genoemd in Circular Economy Action Plan (_gebouwde omgeving, verpakking, textiel, electronica, ICT en plastic_). Daarbinnen:
 	* Ontwikkeling van architectuur en governance 
 	* Sectoral data strategieën (in bovenstaande sectoren) 
 	* adoptie sustainable product policy met productpaspoort 
