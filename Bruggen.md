@@ -15,4 +15,4 @@ Formeel is de implementatie van de INSPIRE richtlijn in 2021 afgerond. Inhoudeli
 
 
 #### ITS Richtlijn
-De ITS Richtlijn wordt herzien. Het is niet onwaarschijnlijk dat de scope over welke data deze Richtlijn iets zegt, wordt uitgebreid met 'in-vehicle' data. Het is ook te verwachten dat in een herziening elementen worden opgenomen die vooruitlopen op de vorming van de [Mobility data space](https://geonovum.github.io/eu_regelingen_datastrategie/dsindex.html#mobility-data-space), en die invulling geven aan de Smart mobility component uit de Green Deal en de bijbehorende Green Deal Dataspace.
+De ITS Richtlijn m.b.t. intelligente vervoerssystemen wordt herzien. Het is niet onwaarschijnlijk dat de scope over welke data deze Richtlijn iets zegt, wordt uitgebreid met 'in-vehicle' data. Het is ook te verwachten dat in een herziening elementen worden opgenomen die vooruitlopen op de vorming van de [Mobility data space](https://geonovum.github.io/eu_regelingen_datastrategie/dsindex.html#mobility-data-space), en die invulling geven aan de Smart mobility component uit de Green Deal en de bijbehorende Green Deal Dataspace.
