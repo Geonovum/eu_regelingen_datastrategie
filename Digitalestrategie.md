@@ -4,19 +4,19 @@ De Europese Digitale Strategie mikt op successen in digitale transformatie in de
 
 Er zijn drie juridische instrumenten door de EC voorgesteld als onderdeel van de Digitale Strategie:
 
-* De Digital Markets Act (DMA, *Digitale Marktenverordening*), gericht op zogenaamde 'gatekeepers' / poortwachters met een dominante positie;
-* De Digital Services Act (DSA, *Digitale Dienstenverordening*), gericht op alle intermediaire digitale dienstverleners (inclusief de 'gatekeepers');
-* De AI Regulation (*AI verordening*), gericht op de toelating van AI producten.
+- De Digital Markets Act (DMA, *Digitale Marktenverordening*), gericht op zogenaamde 'gatekeepers' / poortwachters met een dominante positie;
+- De Digital Services Act (DSA, *Digitale Dienstenverordening*), gericht op alle intermediaire digitale dienstverleners (inclusief de 'gatekeepers');
+- De AI Regulation (*AI verordening*), gericht op de toelating van AI producten.
 
 ### Digital Markets Act  (DMA)
 De Digital Markets Act (DMA, *Digitale Marktenverordening*) is voorgesteld eind 2020. Als Verordening is de DMA direct van kracht in alle lidstaten, zodra deze wordt aangenomen.
 
-* Gericht op open en eerlijk digitale markten
-* Richt zich op 'gatekeepers' / poortwachters, d.w.z. grote online platforms, netwerk providers, hostingbedrijven. De wet geeft regels t.a.v. de beslismacht die poortwachters hebben over het toelaten van andere dienstenaanbieders.
-* Een poortwachter is gedefinieerd als:
-    * Een platform met een sterke economische positie, met een significante impact op de EU markt, en actief in meerdere EU lidstaten.
-    * Een platform met een sterke intermediaire positie, d.w.z. verbindt een grote groep gebruikers met een groot aantal bedrijven.
-    * Heeft, of heeft bijna, een bestendige en in de tijd stabiele marktpositie 
+- Gericht op open en eerlijk digitale markten
+- Richt zich op 'gatekeepers' / poortwachters, d.w.z. grote online platforms, netwerk providers, hostingbedrijven. De wet geeft regels t.a.v. de beslismacht die poortwachters hebben over het toelaten van andere dienstenaanbieders.
+- Een poortwachter is gedefinieerd als:
+    - Een platform met een sterke economische positie, met een significante impact op de EU markt, en actief in meerdere EU lidstaten.
+    - Een platform met een sterke intermediaire positie, d.w.z. verbindt een grote groep gebruikers met een groot aantal bedrijven.
+    - Heeft, of heeft bijna, een bestendige en in de tijd stabiele marktpositie 
 * Gericht op het vergroten van de diversiteit van aanbod op de platformen van poortwachters, niet op het hinderen van de innovatiekracht van die gatekeepers zelf
 * Stelt verplichtingen voor poortwachters, waaraan ze in hun dagelijkse operatie aan moeten voldoen, t.a.v.:
     * 3rd party interoperabiliteit met de diensten van poortwachters in verschillende situaties
