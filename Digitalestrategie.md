@@ -9,29 +9,31 @@ Er zijn drie juridische instrumenten door de EC voorgesteld als onderdeel van de
 - De AI Regulation (*AI verordening*), gericht op de toelating van AI producten.
 
 ### Digital Markets Act  (DMA)
-De Digital Markets Act (DMA, *Digitale Marktenverordening*) is voorgesteld eind 2020. Als Verordening is de DMA direct van kracht in alle lidstaten, zodra deze wordt aangenomen.
+De Digital Markets Act (DMA, *Digitale Marktenverordening*) is voorgesteld eind 2020. Als Verordening is de DMA direct van kracht in alle lidstaten, zodra deze wordt aangenomen (naar verwachting eerste helft 2022).
 
-- Gericht op open en eerlijk digitale markten
-- Richt zich op 'gatekeepers' / poortwachters, d.w.z. grote online platforms, netwerk providers, hostingbedrijven. De wet geeft regels t.a.v. de beslismacht die poortwachters hebben over het toelaten van andere dienstenaanbieders.
-- Een poortwachter is gedefinieerd als:
-    - Een platform met een sterke economische positie, met een significante impact op de EU markt, en actief in meerdere EU lidstaten.
-    - Een platform met een sterke intermediaire positie, d.w.z. verbindt een grote groep gebruikers met een groot aantal bedrijven.
-    - Heeft, of heeft bijna, een bestendige en in de tijd stabiele marktpositie 
-* Gericht op het vergroten van de diversiteit van aanbod op de platformen van poortwachters, niet op het hinderen van de innovatiekracht van die gatekeepers zelf
-* Stelt verplichtingen voor poortwachters, waaraan ze in hun dagelijkse operatie aan moeten voldoen, t.a.v.:
-    * 3rd party interoperabiliteit met de diensten van poortwachters in verschillende situaties
-    * toegang voor bedrijven tot de data die genereren met het gebruik van het platform van poortwachter
-    * bedrijven die adverteren en adverteerders moeten de instrumenten en gereedschappen krijgen om zelf onafhankelijk na te gaan welke advertenties hoe worden getoond door de poortwachter
-    * bedrijven moeten in staat zijn hun aanbod en contracten ook buiten het platform van poortwachter aan consumenten aan te bieden
-    * poortwachters mogen niet hun eigen diensten bevoordelen op het platform t.o.v. andere aanbieders
-    * poortwachters mogen consumenten niet hinderen om buiten het platform om met een aanbieder in verbinding of contact te treden.
-    * poortwachters mogen consumenten niet hinderen voorgeïnstalleerde applicaties (op telefoons en tablets bijv.) te deïnstalleren.
- * Bevat sancties die lijken op die van de AVG:
-    * Boetes mogelijk tot 10% van de wereldwijde omzet van een poortwachter
-    * Dwangsommen mogelijke tot 5% van de gemiddelde wereldwijde dagomzet van een poortwachter.
+<ul>
+<li>Gericht op open en eerlijk digitale markten
+<li>Richt zich op 'gatekeepers' / poortwachters, d.w.z. grote online platforms, netwerk providers, hostingbedrijven. De wet geeft regels t.a.v. de beslismacht die poortwachters hebben over het toelaten van andere dienstenaanbieders.
+<li>Een poortwachter is gedefinieerd als <ul>
+    <li>Een platform met een sterke economische positie, met een significante impact op de EU markt, en actief in meerdere EU lidstaten.</li>
+    <li>Een platform met een sterke intermediaire positie, d.w.z. verbindt een grote groep gebruikers met een groot aantal bedrijven.</li>
+    <li>Heeft, of heeft bijna, een bestendige en in de tijd stabiele marktpositie</li></ul></li> 
+<li>Gericht op het vergroten van de diversiteit van aanbod op de platformen van poortwachters, niet op het hinderen van de innovatiekracht van die gatekeepers zelf</li>
+<li>Stelt verplichtingen voor poortwachters, waaraan ze in hun dagelijkse operatie aan moeten voldoen, t.a.v.:<ul>
+    <li>3rd party interoperabiliteit met de diensten van poortwachters in verschillende situaties</li>
+    <li>toegang voor bedrijven tot de data die genereren met het gebruik van het platform van poortwachter</li>
+    <li>bedrijven die adverteren en adverteerders moeten de instrumenten en gereedschappen krijgen om zelf onafhankelijk na te gaan welke advertenties hoe worden getoond door de poortwachter</li>
+    <li>bedrijven moeten in staat zijn hun aanbod en contracten ook buiten het platform van poortwachter aan consumenten aan te bieden</li>
+    <li>poortwachters mogen niet hun eigen diensten bevoordelen op het platform t.o.v. andere aanbieders</li>
+    <li>poortwachters mogen consumenten niet hinderen om buiten het platform om met een aanbieder in verbinding of contact te treden.</li>
+    <li>poortwachters mogen consumenten niet hinderen voorgeïnstalleerde applicaties (op telefoons en tablets bijv.) te deïnstalleren.</li></ul></li>
+ <li>Bevat sancties die lijken op die van de AVG:<ul>
+    <li>Boetes mogelijk tot 10% van de wereldwijde omzet van een poortwachter</li>
+    <li>Dwangsommen mogelijke tot 5% van de gemiddelde wereldwijde dagomzet van een poortwachter.</li></ul></li>
+</ul>
 
-
-De DMA kan in 2022 gereed zijn en van kracht worden.
+De DMA is in november in de Raad van EU Ministers goedgekeurd en eveneens door het Europees Parlement. In de eerste helft van 2022 wordt nog onderhandeld tussen Raad, EP en EC over de eindtekst.
+De DMA zal in 2022 gereed zijn en van kracht worden.
 
 ### Digital Services Act (DSA)
 De Digital Services Act (DSA, *Digitale Dienstenverordening*) hangt nauw samen met de Digital Markets Act (DMA), en is net als de DMA eind 2020 voorgesteld. Het is een uitbreiding en actualisering van de EU E-commerce Directive 2000/31/EU. Die bestaande Richtlijn wordt hiermee vervangen door een Verordening en trekt zo de regels en interpretatie voor alle Lidstaten gelijk. Als Verordening is de DSA direct van kracht in alle lidstaten, zodra deze wordt aangenomen.
