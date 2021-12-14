@@ -3,6 +3,8 @@
 De gemeenschappelijke Green Deal dataspace is bedoeld om het grote potentieel te realiseren van data ter ondersteuning van de prioritaire acties uit de Green Deal t.a.v. klimaatadaptatie, circulaire economie, verontreiniging van lucht, water en bodem naar nul, biodiversiteit, ontbossing tegengaan, en het monitoren van compliance.
 Deze dataspace ondersteunt het behalen van de doelen in de Europese Green Deal en is waarschijnlijk de eerste van de te realiseren dataspaces.
 
+In het kader van het Digital Europe Program is financiering beschikbaar gesteld voor het voorbereiden van deze data space. Voorstellen voor deze financiering kunnen worden ingediend tussen 17 november 2021 en 22 februari 2022.
+
 ### Acties
 De initiatieven “GreenData4All” and “Destination Earth”  (DestinE, digitale tweeling van de aarde)  bevatten de concrete acties:
 
