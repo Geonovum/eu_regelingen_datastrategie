@@ -3,9 +3,9 @@
 De EU neemt m.b.t. de rol van digitalisering en data een geopolitieke positie in.
 Die positie richt zich tegelijkertijd op het maximeren van maatschappelijk nut van digitalisering en datagebruik en het beschermen en versterken van de individuele rechten van mensen.
 
-Dit in contrast tot uitgangsposities die bijvoorbeeld eenzijdig gericht zijn op waarde extractie of op het centraliseren van controle.
+Dit in contrast tot uitgangsposities elders in de wereld die bijvoorbeeld eenzijdig gericht zijn op waarde extractie of op het centraliseren van controle. Daarmee is het ook een _propositie_ van de EU aan de wereld, een uitnodiging op gelijksoortige manier als de EU naar digitalisering en data te kijken.
 
-De geopolitieke propositie wordt in uitgangspunten, twee strategieën met daaronder een aantal wetten vaste vorm gegeven. Onderstaande afbeelding geeft hiervan een overzicht. In de rest van deze handreiking wordt elk van de elementen nader beschreven.
+Die geopolitieke propositie wordt in uitgangspunten, en twee strategieën met daaronder een aantal wetten vaste vorm gegeven. Onderstaande afbeelding geeft hiervan een overzicht. In de rest van deze handreiking wordt elk van de elementen nader beschreven.
 
 ![euplaatgeonovumokt2021.png](media/euplaatgeonovumokt2021.png)
 
