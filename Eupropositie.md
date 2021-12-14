@@ -10,16 +10,26 @@ Die geopolitieke propositie wordt in uitgangspunten, en twee strategieën met da
 ![euplaatgeonovumokt2021.png](media/euplaatgeonovumokt2021.png)
 
 ### Digital Compass en Digital Rights and Principles
-De uitgangspunten hiervoor zijn vastgelegd in het EU Digital Compass en de EU Digital Rights and Principles ([bron](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:52021DC0118&from=en)).
+De uitgangspunten voor de digitale en datastrategie zijn vastgelegd in het EU Digital Compass en de EU Digital Rights and Principles ([bron](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/europes-digital-decade-digital-targets-2030_nl)).
 
-Het EU Digitaal kompas geeft vier assen aan waarvoor doelstellingen per 2030 zijn geformuleerd.
+Het EU Digitaal Compass geeft vier assen aan waarvoor doelstellingen per 2030 zijn geformuleerd.
 Die vier assen zijn:
 1. Een digitaal vaardige bevolking, en zeer vaardige digitale professionals
 2. Veilige, goed presterende en duurzame digitale infrastructuren
 3. Digitale transformatie van bedrijven
 4. Digitalisering van publieke dienstverlening
 
-Digitaal burgerschap is gebaseerd op het bestaande [Handvest grondrechten in de EU](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:12012P/TXT&from=EN). Die rechten worden in de EU Digital Rights and Principles uitgebreid met een aantal rechten en uitgangspunten gericht op een gedigitaliseerde maatschappij:
+Digitaal burgerschap is gebaseerd op het bestaande [Handvest grondrechten in de EU](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:12012P/TXT&from=EN). Daarbij gaat het om rechten als:
+
+Die rechten worden in de EU Digital Rights and Principles uitgebreid met een aantal rechten en uitgangspunten gericht op een gedigitaliseerde maatschappij:
+
+Rechten:
+* Vrijheid van meningsuiting, met toegang tot gevarieerde, betrouwbare en transparante informatie
+* Vrijheid om online een bedrijf op te richten en te runnen
+* Bescherming van persoonsgegevens en dataprotectie
+* Bescherming van intellectuele scheppingen van personen in de onlineruimte
+
+Beginselen:
 * Universele toegang tot internetdiensten
 * Veilige en betrouwbare online omgevingen
 * Universele digitale vorming en vaardigheden zodat mensen een actieve rol in de maatschappij kunnen nemen
