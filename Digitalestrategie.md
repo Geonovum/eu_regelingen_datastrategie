@@ -59,12 +59,12 @@ Zulke intermediaire diensten krijgen verplichtingen opgelegd die moeten leiden t
 * Meer democratische controle en toezicht over 'systeem' platforms door de maatschappij (zie ook de DMA)
 * Verzachting van maatschappelijke risico's van manipulatie en desinformatie
 
-De voorgestelde wet leest als een risicogerichte aanpak, en beschouwt de rol van platforms waar deze systemische risico's vormt voor markt en maatschappij. Het adresseert daarbij de invloed en macht van een platform, de rol van een platform als (maatschappelijke) infrastructuur, en de afhankelijkheden in het ecosysteem van aanbieders.
+De voorgestelde verordening leest als een risicogerichte aanpak, en beschouwt de rol van platforms waar deze systemische risico's vormen voor markt en maatschappij. Het adresseert daarbij de invloed en macht van een platform, de rol van een platform als (maatschappelijke) infrastructuur, en de afhankelijkheden in het ecosysteem van aanbieders.
 
-De DSA kan in 2022 gereed zijn en van kracht worden.
+De DSA is door de Raad van EU Ministers in november 2021 goedgekeurd. In december 2021 vonden in het Europees Parlement in de commissies stemmingen plaats, om tot een tekst te komen die plenair kan worden behandeld in het EP. De DSA kan in 2022 gereed zijn en van kracht worden.
 
 ### AI Regulation
-De AI Regulation (*AI Verordening*) is voorgesteld in april 2021. De AI Regulation is wereldwijd het eerste wetsvoorstel in zijn soort. Net als de AVG, de DMA en DSA, is het vormgegeven als een instrument dat striktere eisen en grotere sancties koppelt aan hogere risiconiveau's.
+De AI Regulation (*AI Verordening*) is voorgesteld in april 2021. Net als de DMA en de DSA heeft de AI Regulation in de hele EU meteen kracht van wet als hij is aangenomen. De AI Regulation is wereldwijd het eerste wetsvoorstel in zijn soort. Net als de AVG, de DMA en DSA, is het vormgegeven als een instrument dat striktere eisen en grotere sancties koppelt aan hogere risiconiveau's.
 
 De AI Regulation definieert toelatingseisen waaraan AI moet voldoen om in de Europese markt te mogen worden aangeboden of gebruikt. 
 De werking strekt zich uit over:
@@ -79,7 +79,7 @@ Onder AI wordt verstaan wat op een telkens aan te passen lijst van technieken en
 * Logica en kennisgebaseerde aanpakken (knowledge representation, inductive (logic) programming, knowledge bases, inference and deductive engines, (symbolic) reasoning and expert systems)
 * Statistische aanpakken (Bayesian estimation, search and optimization methods)
 
-De afweging van risico's van AI toepassingen worden gemaakt t.o.v. de mate waarin het individuele rechten aantast. Toepassingen worden ingedeeld in verboden toepassingen, hoog-risico toepassingen en overige toepassingen.
+De afweging van risico's van AI toepassingen worden gemaakt t.o.v. de mate waarin het individuele rechten of de veiligheid aantast. Toepassingen worden ingedeeld in verboden toepassingen, hoog-risico toepassingen en overige toepassingen.
 
 Verboden toepassingen zijn onbewuste beïnvloeding van het gedrag van mensen dat hen of anderen psychische of lichamelijke schade kan bezorgen, het misbruiken van kwetsbaarheden van een groep of persoon op basis van leeftijd of beperking, toepassingen door overheden voor een zgn. sociale score, en algemene inzet van biometrische identificatie in de publieke ruimte voor opsporing.
 
