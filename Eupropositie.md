@@ -10,7 +10,7 @@ Die geopolitieke propositie wordt in uitgangspunten, en twee strategieën met da
 ![euplaatgeonovumokt2021.png](media/euplaatgeonovumokt2021.png)
 
 ### Digital Compass en Digital Rights and Principles
-De uitgangspunten voor de digitale en datastrategie zijn vastgelegd in het EU Digital Compass en de EU Digital Rights and Principles ([bron](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/europes-digital-decade-digital-targets-2030_nl)).
+De uitgangspunten voor de geopolitiek positie zijn vastgelegd in het EU Digital Compass en de EU Digital Rights and Principles ([bron](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/europes-digital-decade-digital-targets-2030_nl)).
 
 Het EU Digitaal Compass geeft vier assen aan waarvoor doelstellingen per 2030 zijn geformuleerd.
 Die vier assen zijn:
