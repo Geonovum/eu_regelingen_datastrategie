@@ -33,10 +33,10 @@ De Digital Markets Act (DMA, *Digitale Marktenverordening*) is voorgesteld eind 
 </ul>
 
 De DMA is in november in de Raad van EU Ministers goedgekeurd en eveneens door het Europees Parlement. In de eerste helft van 2022 wordt nog onderhandeld tussen Raad, EP en EC over de eindtekst.
-De DMA zal in 2022 gereed zijn en van kracht worden.
+De DMA zal in 2022 gereed zijn en per 1-1-2023 van kracht zijn.
 
 ### Digital Services Act (DSA)
-De Digital Services Act (DSA, *Digitale Dienstenverordening*) hangt nauw samen met de Digital Markets Act (DMA), en is net als de DMA eind 2020 voorgesteld. Het is een uitbreiding en actualisering van de EU E-commerce Directive 2000/31/EU. Die bestaande Richtlijn wordt hiermee vervangen door een Verordening en trekt zo de regels en interpretatie voor alle Lidstaten gelijk. Als Verordening is de DSA direct van kracht in alle lidstaten, zodra deze wordt aangenomen.
+De Digital Services Act (DSA, *Digitale Dienstenverordening*) hangt nauw samen met de Digital Markets Act (DMA), en is net als de DMA eind 2020 voorgesteld. Het is een uitbreiding en actualisering van de EU E-commerce Directive 2000/31/EU. Die bestaande Richtlijn wordt hiermee vervangen door een Verordening en trekt zo de regels en interpretatie voor alle Lidstaten gelijk. Als Verordening is de DSA direct van kracht in alle lidstaten, zodra deze wordt aangenomen. 
 
 * Gericht op een veilige digitale ruimte waarin de (grond)rechten van alle gebruikers van digitale diensten beschermd zijn.
 * Eist transparantie en verantwoording van digitale dienstverleners.
@@ -61,7 +61,7 @@ Zulke intermediaire diensten krijgen verplichtingen opgelegd die moeten leiden t
 
 De voorgestelde verordening leest als een risicogerichte aanpak, en beschouwt de rol van platforms waar deze systemische risico's vormen voor markt en maatschappij. Het adresseert daarbij de invloed en macht van een platform, de rol van een platform als (maatschappelijke) infrastructuur, en de afhankelijkheden in het ecosysteem van aanbieders.
 
-De DSA is door de Raad van EU Ministers in november 2021 goedgekeurd. In december 2021 vonden in het Europees Parlement in de commissies stemmingen plaats, om tot een tekst te komen die plenair kan worden behandeld in het EP. De DSA kan in 2022 gereed zijn en van kracht worden.
+De DSA is door de Raad van EU Ministers in november 2021 goedgekeurd, en door het Europees Parlement in januari 2022.  In de eerste helft van 2022 wordt tussen deze partijen onderhandeld over een definitieve tekst. Naar verwachting is de wet dan per 1-1-2023 van kracht.
 
 ### AI Regulation
 De AI Regulation (*AI Verordening*) is voorgesteld in april 2021. Net als de DMA en de DSA heeft de AI Regulation in de hele EU meteen kracht van wet als hij is aangenomen. De AI Regulation is wereldwijd het eerste wetsvoorstel in zijn soort. Net als de AVG, de DMA en DSA, is het vormgegeven als een instrument dat striktere eisen en grotere sancties koppelt aan hogere risiconiveau's.
