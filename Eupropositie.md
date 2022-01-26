@@ -39,7 +39,7 @@ Beginselen:
 * Bescherming en empowerment van kinderen online
 * Toegang tot digitale gezondheidsdiensten
 
-Deze rechten en uitgangspunten waren in de zomer van 2021 onderwerp van een publieke consultatie. Een definitieve formulering volgt nog.
+Deze rechten en uitgangspunten waren in de zomer van 2021 onderwerp van een publieke consultatie. De EC heeft op 26 januari 2022 de [inhoud van de digitale rechten en principes](https://digital-strategy.ec.europa.eu/en/library/declaration-european-digital-rights-and-principles) voorgesteld, met de uitnodiging aan de Raad en het EP deze mede te ondertekenen.
 
 ### Twee strategieën als bouwstenen
 Twee strategieën zetten deze propositie om in praktijk en regelgeving: 
