@@ -10,6 +10,6 @@ De EC zal al deze aspecten aanpakken als onderdeel van de Smart sector integrati
 ### Acties
 De EC zal:
 
-* Implementatiewet(ten) 66 aannemen, die de interoperabiliteitsvereisten, en non-discriminatoire en transparantie procedures for toegang tot data beschrijft, daarbij voortbouwen op de bestaande nationale werkwijzen op basis van de Electricity Directive 2019/944 (2021/2022).
+* Implementatiewet(ten) aannemen, die de interoperabiliteitsvereisten, en non-discriminatoire en transparantie procedures voor toegang tot data beschrijft, daarbij voortbouwend op de bestaande nationale werkwijzen op basis van de Electricity Directive 2019/944 (2021/2022).
     
-* Actis overwegen om de interoperabiliteit van slimme gebouwen en producten te verbeteren, om zo de energie-efficiëntie te verbeteren, lokaal energieverbruik te optimaliseren, en de integratie van hernieuwbare energiebronnen te verbreden. (Q4 2020).
+* Acties overwegen om de interoperabiliteit van slimme gebouwen en producten te verbeteren, om zo de energie-efficiëntie te verbeteren, lokaal energieverbruik te optimaliseren, en de integratie van hernieuwbare energiebronnen te verbreden. (Q4 2020).
