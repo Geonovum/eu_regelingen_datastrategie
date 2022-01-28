@@ -13,4 +13,4 @@ Data altruïsme is het geven van toestemming voor het gebruik van persoonsgegeve
 
 Een **Data Innovation Board** adviseert over de werkwijzen in het kader van deze wet, standaarden, en interoperabiliteit, en let op de internationale samenwerking tussen nationaal aangewezen bevoegde organisaties. 
 
-Over de Data Governance Act is in november 2021 een akkoord bereikt tussen de EC, de Raad van EU ministers en het EP. Dit betekent dat deze naar verwachting begin 2022 van kracht wordt in de EU.
+Over de Data Governance Act is in november 2021 een akkoord bereikt tussen de EC, de Raad van EU ministers en het EP. Dit betekent dat deze naar verwachting februari 2022 van kracht wordt, waarna een verschoningsperiode ingaat van 15 maanden (tot mei 2023).
