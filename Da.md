@@ -1,5 +1,5 @@
 ## Data Act
-Een eerste voorstel voor de Data Act (DA, *Data verordening*) wordt verwacht in november 2021.
+Een eerste voorstel voor de Data Act (DA, *Data verordening*) wordt gepubliceerd op 23-02-2022. Een ontwerpversie werd gelekt op 3 februari.
 In de zomer van 2021 vond een publieke consultatie plaats voor de Data Act.
 
 Naar verwachting zal de Data Act zich richten op:
