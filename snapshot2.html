@@ -1,0 +1,564 @@
+<!DOCTYPE html><html lang="nl"><!-- HTML-Header - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --><head><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><meta charset="utf-8"><meta name="generator" content="ReSpec 24.5.2">
+        
+        <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+        <!-- File. . . :  dsindex.html                                                                 -->
+        <!-- Bevat . . :  Template voor de index.html die verplicht is voor respec                   -->
+        <!--              Gebaseerd op https://github.com/Geonovum/respec/wiki                       -->
+        <!--              Deze file moet worden neergezet in de root-directory van de                -->
+        <!--              betreffende standaard.                                                     -->
+        <!-- Door. . . :  Jan van Gelder                                                             -->
+        <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+        <!-- Log . . . :  20181015 - JvG - Initiele versie                                           -->
+        <!-- - - - - - - -20191022 - IE - ReSpec file Handreiking Archiveren ruimtelijke plannen     -->
+		<!-- - - - - - - - - - - - - - - -                          -  - - - - - - - - - - - - - - - -->
+
+        <!-- meta tags - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+        <meta content="text/html; charset=utf-8" http-equiv="content-type">
+        
+        
+        <!-- Invullen: de titel van de standaard of het document - - - - - - - - - - - - - - - - - - -->
+        <title>Handreiking EU Informatie: meer details over de data spaces</title>    
+
+        <!-- Kan hier een 'ondertitel' tag worden gemaakt? -->
+		
+        <!-- Invullen: de naam van de lokale CSS file  - - - - - - - - - - - - - - - - - - - - - - - -->
+        <link rel="stylesheet" type="text/css" href="./media/Geonovumstyle.css">
+		<link rel="shortcut icon" type="image/x-icon" href="https://tools.geostandaarden.nl/respec/style/logos/Geonovum.ico">
+        
+        
+    <style id="respec-mainstyle">/*****************************************************************
+ * ReSpec 3 CSS
+ * Robin Berjon - http://berjon.com/
+ *****************************************************************/
+
+/* Override code highlighter background */
+.hljs {
+  background: transparent !important;
+}
+
+/* --- INLINES --- */
+h1 abbr,
+h2 abbr,
+h3 abbr,
+h4 abbr,
+h5 abbr,
+h6 abbr,
+a abbr {
+  border: none;
+}
+
+dfn {
+  font-weight: bold;
+}
+
+a.internalDFN {
+  color: inherit;
+  border-bottom: 1px solid #99c;
+  text-decoration: none;
+}
+
+a.externalDFN {
+  color: inherit;
+  border-bottom: 1px dotted #ccc;
+  text-decoration: none;
+}
+
+a.bibref {
+  text-decoration: none;
+}
+
+#references :target {
+  background: #eaf3ff;
+}
+
+cite .bibref {
+  font-style: normal;
+}
+
+code {
+  color: #c83500;
+}
+
+th code {
+  color: inherit;
+}
+
+/* --- TOC --- */
+
+.toc a,
+.tof a {
+  text-decoration: none;
+}
+
+a .secno,
+a .figno {
+  color: #000;
+}
+
+ul.tof,
+ol.tof {
+  list-style: none outside none;
+}
+
+.caption {
+  margin-top: 0.5em;
+  font-style: italic;
+}
+
+/* --- TABLE --- */
+
+table.simple {
+  border-spacing: 0;
+  border-collapse: collapse;
+  border-bottom: 3px solid #005a9c;
+}
+
+.simple th {
+  background: #005a9c;
+  color: #fff;
+  padding: 3px 5px;
+  text-align: left;
+}
+
+.simple th[scope="row"] {
+  background: inherit;
+  color: inherit;
+  border-top: 1px solid #ddd;
+}
+
+.simple td {
+  padding: 3px 10px;
+  border-top: 1px solid #ddd;
+}
+
+.simple tr:nth-child(even) {
+  background: #f0f6ff;
+}
+
+/* --- DL --- */
+
+.section dd>p:first-child {
+  margin-top: 0;
+}
+
+.section dd>p:last-child {
+  margin-bottom: 0;
+}
+
+.section dd {
+  margin-bottom: 1em;
+}
+
+.section dl.attrs dd,
+.section dl.eldef dd {
+  margin-bottom: 0;
+}
+
+#issue-summary>ul,
+.respec-dfn-list {
+  column-count: 2;
+}
+
+#issue-summary li,
+.respec-dfn-list li {
+  list-style: none;
+}
+
+details.respec-tests-details {
+  margin-left: 1em;
+  display: inline-block;
+  vertical-align: top;
+}
+
+details.respec-tests-details>* {
+  padding-right: 2em;
+}
+
+details.respec-tests-details[open] {
+  z-index: 999999;
+  position: absolute;
+  border: thin solid #cad3e2;
+  border-radius: 0.3em;
+  background-color: white;
+  padding-bottom: 0.5em;
+}
+
+details.respec-tests-details[open]>summary {
+  border-bottom: thin solid #cad3e2;
+  padding-left: 1em;
+  margin-bottom: 1em;
+  line-height: 2em;
+}
+
+details.respec-tests-details>ul {
+  width: 100%;
+  margin-top: -0.3em;
+}
+
+details.respec-tests-details>li {
+  padding-left: 1em;
+}
+
+a[href].self-link:hover {
+  opacity: 1;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  position: relative;
+}
+
+aside.example .marker > a.self-link {
+  color: inherit;
+}
+
+h2>a.self-link,
+h3>a.self-link,
+h4>a.self-link,
+h5>a.self-link,
+h6>a.self-link {
+  border: none;
+  color: inherit;
+  font-size: 83%;
+  height: 2em;
+  left: -1.6em;
+  opacity: .5;
+  position: absolute;
+  text-align: center;
+  text-decoration: none;
+  top: 0;
+  transition: opacity .2s;
+  width: 2em;
+}
+
+h2>a.self-link::before,
+h3>a.self-link::before,
+h4>a.self-link::before,
+h5>a.self-link::before,
+h6>a.self-link::before {
+  content: "§";
+  display: block;
+}
+
+@media (max-width: 767px) {
+  dd {
+    margin-left: 0;
+  }
+
+  /* Don't position self-link in headings off-screen */
+  h2>a.self-link,
+  h3>a.self-link,
+  h4>a.self-link,
+  h5>a.self-link,
+  h6>a.self-link {
+    left: auto;
+    top: auto;
+  }
+}
+
+@media print {
+  .removeOnSave {
+    display: none;
+  }
+}
+</style><link rel="stylesheet" href="https://tools.geostandaarden.nl/respec/style/GN-CV.css"><link rel="shortcut icon" type="image/x-icon" href="https://tools.geostandaarden.nl/respec/style/logos/Geonovum.ico"><script id="initialUserConfig" type="application/json">{
+  "specStatus": "GN-CV",
+  "specType": "HR",
+  "format": "markdown",
+  "publishDate": "2022-02-09",
+  "github": "https://github.com/geonovum/eu_regelingen_datastrategie",
+  "issueBase": "https://github.com/geonovum/eu_regelingen_datastrategie/issues",
+  "edDraftURI": "https://geonovum.github.io/eu_regelingen_datastrategie",
+  "editors": [
+    {
+      "name": "Ton Zijlstra",
+      "company": "Geonovum",
+      "companyURL": "https://www.geonovum.nl"
+    },
+    {
+      "name": "Wideke Boersma",
+      "company": "Geonovum",
+      "companyURL": "https://www.geonovum.nl"
+    }
+  ],
+  "authors": [
+    {
+      "name": "Ton Zijlstra",
+      "company": "Geonovum",
+      "companyURL": "https://www.geonovum.nl"
+    },
+    {
+      "name": "Wideke Boersma",
+      "company": "Geonovum",
+      "companyURL": "https://www.geonovum.nl"
+    }
+  ],
+  "shortName": "eudata",
+  "pubDomain": "eu",
+  "licence": "cc-by",
+  "localBiblio": {
+    "PUB-1": {
+      "title": "Titel van Publicatie-1",
+      "href": "https://www.geonovum.nl",
+      "status": "V1.0.1",
+      "publisher": "Publisher-1",
+      "company": "Companynaam"
+    },
+    "PUB-2": {
+      "title": "Titel van Publicatie-2",
+      "href": "https://www.geonovum.nl",
+      "status": "V1.0.1",
+      "publisher": "Publisher-2",
+      "company": "Companynaam"
+    },
+    "PUB-3": {
+      "title": "Titel van Publicatie-3",
+      "href": "https://www.geonovum.nl",
+      "status": "V1.0.1",
+      "publisher": "Publisher-3",
+      "company": "Companynaam"
+    },
+    "PUB-4": {
+      "title": "Titel van Publicatie-4",
+      "href": "https://www.geonovum.nl",
+      "status": "V1.0.1",
+      "publisher": "Publisher-4",
+      "company": "Companynaam"
+    }
+  },
+  "postProcess": [
+    null
+  ],
+  "publishISODate": "2022-02-09T00:00:00.000Z",
+  "generatedSubtitle": "Consultatieversie 09 februari 2022"
+}</script><meta name="description" content="De Europese Commissie (EC) heeft meerdere wetsvoorstellen m.b.t. digitalisering en data gedaan die de komende jaren vorm krijgen. Gezamenlijk vormen ze de geopolitieke positionering t.a.v. digitalisering en data van de Europese Unie (EU). Centraal in die propositie is het benutten van de maatschappelijke waarde van digitalisering en data, en gelijktijdig het versterken en beschermen van de individuele rechten van burgers."><script type="application/ld+json">{
+  "@context": [
+    "http://schema.org",
+    {
+      "@vocab": "http://schema.org/",
+      "@language": "nl",
+      "foaf": "http://xmlns.com/foaf/0.1/",
+      "datePublished": {
+        "@type": "http://www.w3.org/2001/XMLSchema#date"
+      },
+      "inLanguage": {
+        "@language": null
+      },
+      "isBasedOn": {
+        "@type": "@id"
+      },
+      "license": {
+        "@type": "@id"
+      }
+    }
+  ],
+  "id": "https://docs.geostandaarden.nl/eu/cv-hr-eu-20220209/",
+  "type": [
+    "TechArticle"
+  ],
+  "name": "Handreiking EU Informatie: meer details over de data spaces",
+  "inLanguage": "nl",
+  "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+  "datePublished": "2022-02-09",
+  "copyrightHolder": {
+    "name": "Geonovum",
+    "url": "https://www.geonovum.nl/"
+  },
+  "discussionUrl": "https://github.com/geonovum/eu_regelingen_datastrategie/issues",
+  "alternativeHeadline": "",
+  "description": "De Europese Commissie (EC) heeft meerdere wetsvoorstellen m.b.t. digitalisering en data gedaan die de komende jaren vorm krijgen. Gezamenlijk vormen ze de geopolitieke positionering t.a.v. digitalisering en data van de Europese Unie (EU). Centraal in die propositie is het benutten van de maatschappelijke waarde van digitalisering en data, en gelijktijdig het versterken en beschermen van de individuele rechten van burgers.",
+  "editor": [
+    {
+      "type": "Person",
+      "name": "Ton Zijlstra",
+      "worksFor": {
+        "name": "Geonovum",
+        "url": "https://www.geonovum.nl"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "Wideke Boersma",
+      "worksFor": {
+        "name": "Geonovum",
+        "url": "https://www.geonovum.nl"
+      }
+    }
+  ],
+  "contributor": [
+    {
+      "type": "Person",
+      "name": "Ton Zijlstra",
+      "worksFor": {
+        "name": "Geonovum",
+        "url": "https://www.geonovum.nl"
+      }
+    },
+    {
+      "type": "Person",
+      "name": "Wideke Boersma",
+      "worksFor": {
+        "name": "Geonovum",
+        "url": "https://www.geonovum.nl"
+      }
+    }
+  ],
+  "citation": []
+}</script></head>
+    <!-- HTML-Body - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+    <body class="h-entry"><div class="head">
+  <a href="https://www.geonovum.nl/" class="logo"><img id="Geonovum" alt="Geonovum" src="https://tools.geostandaarden.nl/respec/style/logos/Geonovum.svg" width="132" height="67"></a>
+  <h1 class="title p-name" id="title">Handreiking EU Informatie: meer details over de data spaces</h1>
+  
+  <h2>Geonovum Handreiking<br>
+  Consultatieversie <time class="dt-published" datetime="2022-02-09">09 februari 2022</time></h2>
+  <dl>
+    <dt>Deze versie:</dt><dd><a class="u-url" href="https://docs.geostandaarden.nl/eu/cv-hr-eu-20220209/">https://docs.geostandaarden.nl/eu/cv-hr-eu-20220209/</a></dd><dt>Laatst gepubliceerde versie:</dt><dd><a href="https://docs.geostandaarden.nl/eu/eu/">https://docs.geostandaarden.nl/eu/eu/</a></dd>
+    
+    
+    <dt>Laatste werkversie:</dt><dd><a href="https://geonovum.github.io/eu_regelingen_datastrategie">https://geonovum.github.io/eu_regelingen_datastrategie</a></dd>
+    <dt>Redacteurs:</dt>
+    <dd class="p-author h-card vcard"><span class="p-name fn">Ton Zijlstra</span>, <a class="p-org org h-org h-card" href="https://www.geonovum.nl">Geonovum</a></dd><dd class="p-author h-card vcard"><span class="p-name fn">Wideke Boersma</span>, <a class="p-org org h-org h-card" href="https://www.geonovum.nl">Geonovum</a></dd>
+    <dt>Auteurs:</dt><dd class="p-author h-card vcard"><span class="p-name fn">Ton Zijlstra</span>, <a class="p-org org h-org h-card" href="https://www.geonovum.nl">Geonovum</a></dd><dd class="p-author h-card vcard"><span class="p-name fn">Wideke Boersma</span>, <a class="p-org org h-org h-card" href="https://www.geonovum.nl">Geonovum</a></dd>
+    <dt>Doe mee:</dt><dd>
+      <a href="https://github.com/geonovum/eu_regelingen_datastrategie/">GitHub geonovum/eu_regelingen_datastrategie</a>
+    </dd><dd>
+      <a href="https://github.com/geonovum/eu_regelingen_datastrategie/issues/">Dien een melding in</a>
+    </dd><dd>
+      <a href="https://github.com/geonovum/eu_regelingen_datastrategie/commits/">Revisiehistorie</a>
+    </dd><dd>
+      <a href="https://github.com/geonovum/eu_regelingen_datastrategie/pulls/">Pull requests</a>
+    </dd>
+  </dl>
+  
+  
+    <dl>
+          <dt>Rechtenbeleid:</dt>
+          <dd>
+            <div class="copyright" style="margin: 0.25em 0;">
+              <abbr title="Creative Commons Attribution 4.0 International Public License">
+              <a href="https://creativecommons.org/licenses/by/4.0/legalcode"><img src="https://tools.geostandaarden.nl/respec/style/logos/cc-by.svg" alt="Creative Commons Attribution 4.0 International Public License" width="115" height="40"></a>
+            </abbr>
+              <div style="display:inline-block; vertical-align:top">
+                <p style="font-size: small;">Creative Commons Attribution 4.0 International Public License<br>(CC-BY)</p>
+              </div>
+            </div>
+          </dd>
+        </dl>
+  <hr title="Separator for header">
+</div><section id="abstract" data-format="markdown" class="introductory"><h2>Samenvatting</h2><p>De Europese Commissie (EC) heeft meerdere wetsvoorstellen m.b.t. digitalisering en data gedaan die de komende jaren vorm krijgen. Gezamenlijk vormen ze de geopolitieke positionering t.a.v. digitalisering en data van de Europese Unie (EU). Centraal in die propositie is het benutten van de maatschappelijke waarde van digitalisering en data, en gelijktijdig het versterken en beschermen van de individuele rechten van burgers.</p><p>De voorstellen zijn in 2020 en 2021 gedaan, en zijn momenteel in onderhandeling. De bekend gemaakte feitelijke informatie over de inhoud van de voorstellen, de activiteiten van de EC, en de bekende tijdslijnen t.a.v. implementatie worden hier gedeeld. De bedoeling is dat iedere betrokkene in Nederland zich hier makkelijk kan informeren, en tegelijkertijd materiaal vindt dat in de eigen organisatie kan worden hergebruikt.</p></section><section id="sotd" class="introductory"><h2>Status van dit document</h2><p>
+    <em>Deze paragraaf beschrijft de status van dit document ten tijde van publicatie. Het is mogelijk dat er actuelere versies van dit document bestaan. Een lijst van Geonovum publicaties en de laatste gepubliceerde versie van dit document zijn te vinden op <a href="https://www.geonovum.nl/geo-standaarden/alle-standaarden">https://www.geonovum.nl/geo-standaarden/alle-standaarden</a>.</em>
+  </p><p>
+
+
+
+    Dit is een door de werkgroep goedgekeurde consultatieversie. Commentaar over dit document kan gestuurd worden naar
+    <a href="mailto:geo-standaarden@geonovum.nl">
+        geo-standaarden@geonovum.nl</a>.
+
+
+
+
+
+
+</p></section><nav id="toc"><h2 class="introductory" id="inhoudsopgave">Inhoudsopgave</h2><ol class="toc"><li class="tocline"><a class="tocxref" href="#inleiding-data-spaces"><span class="secno">1. </span>Inleiding data spaces</a></li><li class="tocline"><a class="tocxref" href="#green-deal-data-space"><span class="secno">2. </span>Green Deal data space</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#acties"><span class="secno">2.1 </span>Acties</a></li></ol></li><li class="tocline"><a class="tocxref" href="#mobility-data-space"><span class="secno">3. </span>Mobility data space</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#acties-0"><span class="secno">3.1 </span>Acties</a></li></ol></li><li class="tocline"><a class="tocxref" href="#health-data-space"><span class="secno">4. </span>Health data space</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#acties-1"><span class="secno">4.1 </span>Acties</a></li></ol></li><li class="tocline"><a class="tocxref" href="#industrial-and-manufacturing-data-space"><span class="secno">5. </span>Industrial and manufacturing data space</a></li><li class="tocline"><a class="tocxref" href="#financial-services-data-space"><span class="secno">6. </span>Financial services data space</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#acties-2"><span class="secno">6.1 </span>Acties</a></li></ol></li><li class="tocline"><a class="tocxref" href="#energy-data-space"><span class="secno">7. </span>Energy data space</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#acties-3"><span class="secno">7.1 </span>Acties</a></li></ol></li><li class="tocline"><a class="tocxref" href="#agriculture-data-space"><span class="secno">8. </span>Agriculture data space</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#acties-4"><span class="secno">8.1 </span>Acties</a></li></ol></li><li class="tocline"><a class="tocxref" href="#public-administration-data-space"><span class="secno">9. </span>Public Administration data space</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#acties-5"><span class="secno">9.1 </span>Acties</a></li></ol></li><li class="tocline"><a class="tocxref" href="#skills-data-space-educatie-en-arbeidsmarkt"><span class="secno">10. </span>Skills data space (educatie en arbeidsmarkt)</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#acties-6"><span class="secno">10.1 </span>Acties</a></li></ol></li></ol></nav><div data-format="markdown"><p><strong>Versiebeheer</strong></p>
+<p>De informatie in dit document is niet gegarandeerd correct of actueel.
+Dit document is aan verandering onderhevig. Het versiebeheer van het document geeft inzicht in wijzigen en de actualiteit ervan.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Versie</strong></th>
+<th><strong>Datum</strong></th>
+<th><strong>Status</strong></th>
+<th><strong>Bewerking</strong></th>
+<th><strong>Toelichting</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>0.01</td>
+<td>01-07-2021</td>
+<td>concept</td>
+<td>Initieel document</td>
+<td>Document vanuit template aangemaakt</td>
+</tr>
+<tr>
+<td>0.09</td>
+<td>14-10-2021</td>
+<td>concept</td>
+<td>Eerste volledige versi</td>
+<td>Inhoud naar stand mid-oktober actueel</td>
+</tr>
+</tbody></table>
+</div><section data-format="markdown" id="inleiding-data-spaces"><!--OddPage--><h2 id="x1-inleiding-data-spaces"><span class="secno">1. </span>Inleiding data spaces</h2><p>De EU-brede dataspace, opgebouwd uit sectorale dataspaces, is de nieuwe omgeving waarin al het datagebruik en alle datadeling plaats gaat vinden.</p><p>De Europese plannen rondom dataspaces moeten nog vaste vorm krijgen. In de februari 2020 gecommuniceerde <a href="https://geonovum.github.io/eu_regelingen_datastrategie/#europese-data-strategie">datastrategie</a> worden de dataspaces genoemd, en zijn de volgende beschrijvingen en acties gegeven.</p></section><section data-format="markdown" id="green-deal-data-space"><!--OddPage--><h2 id="x2-green-deal-data-space"><span class="secno">2. </span>Green Deal data space</h2><p>De gemeenschappelijke Green Deal dataspace is bedoeld om het grote potentieel te realiseren van data ter ondersteuning van de prioritaire acties uit de Green Deal t.a.v. klimaatadaptatie, circulaire economie, verontreiniging van lucht, water en bodem naar nul, biodiversiteit, ontbossing tegengaan, en het monitoren van compliance.
+Deze dataspace ondersteunt het behalen van de doelen in de Europese Green Deal en is waarschijnlijk de eerste van de te realiseren dataspaces.</p><p>In het kader van het Digital Europe Program is financiering beschikbaar gesteld voor het voorbereiden van deze data space. Voorstellen voor deze financiering kunnen worden ingediend tussen 17 november 2021 en 22 februari 2022.</p><section id="acties"><h3 id="x2-1-acties"><span class="secno">2.1 </span>Acties</h3><p>De initiatieven “GreenData4All” and “Destination Earth”  (DestinE, digitale tweeling van de aarde)  bevatten de concrete acties:</p><ul>
+<li>GreenData4All dat bestaat uit het evalueren en eventueel aanpassen van de INSPIRE Richtlijn, samen met de Environment Information Directive (Publieke toegang tot milieu-informatie Richtlijn ). Hiermee worden die richtlijnen gemoderniseerd m.b.t. kansen tech en innovatie.</li>
+<li>Uitrol van herbruikbare dataservices om met grote hoeveelheden data te kunnen werken om compliance te laten zien met de milieuwetgeving en andere regels m.b.t. de acties uit de Green Deal.</li>
+<li>Een common European dataspace for circular economy (deze wordt niet in de DGA genoemd) Met eerste focus op sectoren genoemd in Circular Economy Action Plan (<em>gebouwde omgeving, verpakking, textiel, electronica, ICT en plastic</em>). Daarbinnen:<ul>
+<li>Ontwikkeling van architectuur en governance
+</li>
+<li>Sectoral data strategieën (in bovenstaande sectoren)
+</li>
+<li>adoptie sustainable product policy met productpaspoort
+</li>
+<li>resource mapping en afvaltransport tracking</li>
+</ul>
+</li>
+<li>Een pilot om de data strategie snel en vroegtijdig toe te passen in de context van de 'zero pollution' ambitie. In de pilot gaat het om het potentieel realiseren van wat al een heel datarijk domein (data over chemicalien, lucht, water, grond emissies, gevaarlijke stoff in consumentenproducten). Dit komt zowel consumenten als de planeet ten goede.</li>
+<li>Destination Earth (DestinE), de digitale tweeling van de aarde, m.b.t. klimaatadaptatie en menselijke invloed op de omgeving. Startend in 2021 tot 2030.</li>
+</ul></section></section><section data-format="markdown" id="mobility-data-space"><!--OddPage--><h2 id="x3-mobility-data-space"><span class="secno">3. </span>Mobility data space</h2><p>Met de gemeenschappelijke Europese data space voor mobiliteit wil de EC Europa aan de kop plaatsen van de ontwikkeling van een intelligent transpor systeem. Daaronder vallen genetwerkte auto's en andere transportvormen. De data space faciliteert de toegang tot, en het bijeenbregen en delen van data van bestaande en toekomstige databases m.b.t. vervoer en mobiliteit.</p><p>De EU heeft veel assets t.a.v. transport en mobiliteitsdata. In de automotive sector zijn genetwerkte auto's afhankelijk van data, evenals andere transportvormen. Digitalisering en data in alle vormen van transport en in de logistiek is een essentiële component van het verdere werk aan een Europees transport systeem (ETS) en vooral voor de '<a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52020DC0789">Smart and Sustainable Transport Strategy</a>'  (inclusief een actieplan met 82 acties). Hiermee hangen acties samen in alle sectoren t.a.v. vervoer en trasnport, als ook voor de logistiek van multimodaal data delen en passagierssystemen.</p><p>T.a.v. automotive:
+Moderne voertuigen genereren zo'n 25GB aan gegevens per uur, en autonome voertuigen genereren een veelvoud daarvan aan data die gebruikt kan worden voor innovatieve mobiliteitsgerelateerde diensten, en voor reperatie- en onderhoudsdiensten. Innovatie in dit gebied vergt dat in-vehicle gegevens gedeeld worden op een veilige en duidelijk gedefinieerde manier, in lijn met de geldende competitieregels die tussen de verschillende betrokken partijen van toepassing zijn. 
+De toegang tot in-vehicle dat is sinds 2007 gereguleerd in de Europese regels voor het toelaten van voertuigen, om eerlijke toegang voor onafhankelijke onderhousbedrijven te garanderen. Die regels worden nu geactualiseerd om het toenemende gebruik van digitale verbindingen (zoals 3G en 4G en diagnostiek op afstand) daarin te betrekken zodat de rechten en belangen van autobezitters die de data genereren worden gerespecteerd en de omgang met die data voldoet aan de AVG.
+</p><p>T.a.v. het gehele transportstelsel
+Passagiersvervoer groet naar verwachting 35% tussen 2015 en 2050. Vrachtvervoer (op land) groeit sneller dan dat met zo'n 53% tot 2050. Digitalisering en data spelen een grote rol in het verduurzamen van transport.
+Verschillende juridische raamwerken bevatten al verplichtingen tot datadelen, inclusief een lijst van relevante datasets (waaronder datasets t.a.v. openbaar vervoer). Daarnaast werkt het Digital Transport and Logistics Forum aan het concept van gefedereerde platforms, om te definiëren wat op EU niveau moet gebeuren om het delen en gebruik van data te faciliteren door het combineren van verschillende publieke en private platforms. Bovendien bestaan netwerken van nationale toegangspunten om data in de Lidstaten beschikbaar te maken, met het oog op wegveiligheid, multimodale verkeersinformatie, met data uit zowel de publieke als private sector. Brede beschikbaarheid en gebruik van data in het openbaar vervoer maakt het mogelijk het OV efficiënter, duurzamer en klantvriendelijker te maken. 
+Datagebruik om vervoerssystemen te verbeteren is ook een centraal aspect van smart city initiatieven.
+</p><section id="acties-0"><h3 id="x3-1-acties"><span class="secno">3.1 </span>Acties</h3><p>De EC zal:</p><ul>
+<li><p>De huidige EU regels voor het toelaten van motorvoertuigen herzien (momenteel gericht op draadloos datadelen voor herstel en onderhoud) om meer op autodata gebaseerde diensten mogelijk te maken. De herziening zal ondermeer kijken naar hoe data toegankelijk wordt gemaakt door de autofabrikant, welke procedures nodig zijn om dergelijke data te verkrijgen in lijn met dataprotectieregels (AVG), en de rol en rechten van de autobezitter hierin.</p>
+</li>
+<li><p>De Directive on harmonised river information services and the Directive on Intelligent Transport Systems herzien, inclusief de daarin gedelegeerde regelingen, om databeschikbaarheid, hergebruik en interoperabiliteit te versterken (2021) en het vestigen van een sterker coördinatiemechanisme om de nationale toegangspunten uit de ITS Directive te federeren middels een EU-brede CEF Programme Support Action (2020).</p>
+</li>
+<li><p>Het voorstel  voor de Regulation on the Single European Sky aanpassen om daaraan nieuwe provisies toe te voegen t.a.v. databeschikbaarheid en t.a.v. markttoegang van datadienstenleveranciers, om de digitalisaering en automatisering van verkeersleiding aan te moedigen. Dit ter verbetering van de veiligheid, efficiëntie en capaciteit van het luchtverkeer.</p>
+</li>
+<li><p>Het raamwerk voor het interoperabel delen van data in het railtransport herzien in 2022.</p>
+</li>
+<li><p>Gemeenschappelijke datasets vaststellen zoals voorzien in de Regulation on Maritime Single Window en, hangende de finale adoptie, in de Regulation on electronic freight transport information regulations (Q3 2021 en Q4 2022), om zo digitale uitwisselingen en hergebruik tussen bedrijven en overheid te faciliteren.</p>
+</li>
+</ul></section></section><section data-format="markdown" id="health-data-space"><!--OddPage--><h2 id="x4-health-data-space"><span class="secno">4. </span>Health data space</h2><p>Een gemeenschappelijke data space voor gezondheidszorg wordt door de EC als essentieel gezien voor vooruitgang in het voorkomen, detecteren en genezen van ziekten, als ook voor goed geïnformeerde en bewijsgebaseerde beslissingen om de toegankelijkheid, effectiviteit en bestendigheid van het zorgsysteem te verbeteren.</p><p>Huidige beleidssturing en onderzoeksmodellen zijn afhankelijk van toegang tot gezondheidsgegevens, inclusief individuele patientgegevens. Het versterken en uitbreiden van het (her)gebruik van gezondheidszorgdata is van groot belang voor innovatie in de zorgsector. Het helpt ook zorgautoriteiten om bewijsgebaseerde belissingen te nemen, en draagt bij aan de concurrentiekracht van EU bedrijven. Betere toegang tot gezondheidsdata kan significant bijdragen aan het werk van regulerende instanties in de zorg, het beoordelen van medische producten en het aantonen van de werking en veiligheid van producten.</p><p>Burgers in het bijzonder hebben het recht op toegang en controle van hun persoonlijke gezondheidsgegevens, en op portabiliteit, maar de implementatie van die rechten is nog gefragmenteerd. Zorgen dat iedere EU burger veilig toegang heeft tot het eigen Electronic Health Record (EHR) en de portabiliteit van die eigen data geregeld is, ook over landsgrenzen heen, zal de toegang en kwaliteit van zorg verbeteren, alsmede de kosteneffectiviteit van het leveren van zorg, en bijdragen aan de modernisering van systemen in de gezondheidszorg.</p><p>Burgers moet ook kunnen worden verzekerd dat zals zij toestemming hebben gegeven voor gegevensdeling, dat de zorgsystemen die data op ethische wijze gebruikt, en dat een gegeven toestemming op ieder moment kan worden ingetrokken.</p><p>De zorg is een gebied waar de EU kan profiteren van de datarevolutie, om de kwaliteit van zorg te verbeteren en tegelijkertijd kosten omlaag te brengen. Vooruitgang zal vaak afhangen van de bereidheid van Lidstaten en zorgverleners om de krachten te bundelen en manier te vinden om data te gebruiken en te combineren, binnen de regels van de AVG waarin zorggegevens extra bescherming krijgen. Hoewel de AVG een gelijk speelveld heeft gecreëerd voor het gebruik van persoonlijke gezondheidsgegevens, blijft er sprake van fragmentatie binnen en tussen Lidstaten en zijn de beheersmodellen voor toegang tot data divers in de praktijk. Het landschap van digitale gezondheidsdiensten blijft ook gefragmenteerd, vooral als die diensten ook over landsgrenzen heen worden verleend.</p><section id="acties-1"><h3 id="x4-1-acties"><span class="secno">4.1 </span>Acties</h3><p>De EC zal:</p><ul>
+<li><p>Sector-specifieke juridische en niet-juridische maatregelen nemen voor de Europese gezondheidsdata space. Maatregelen nemen om de toegang van burgers tot gezondheidsdata en de portabiliteit daarvan te versterken, en barrieres in het verlenen van digitale gezondheidsdiensten en producten over landsgrenzen heen slechten. Faciliteren dat er, in lijn met Artikel 40 van de AVG, een Code of Conduct wordt gerealiseerd voor het verwerken van persoonsgegevens in de zorgsector. Deze acties zullen voortbouwen op het lopende in kaart brengen van het gebruik van persoonlijke gezondheidsgegevens in de Lidstaten en op de uitkomsten van de Joint Actions in de context van het Health Programme (2020-2023).</p>
+</li>
+<li><p>De benodigde data infrastructuren, gereedschappen en rekenkracht voor de Europese gezondheidsdata space uitrollen, en meer gericht de ontwikkeling ondersteunen van nationale electronic health records (EHR) en de interoperabiliteit van gezondheidsdata door de toepassing van het Electronic Health Record Exchange Format. De uitwisseling over landsgrenzen heen van gezondheidsdata opschalen, en het verbinden en gebruiken via veilige gefedereerde repositories, van specifieke soorten gezondheidsdata zoals EHRs, genetische informatie (van minsten 10 miljoen mensen in 2025), en digitale medische scans/beelden, binnen de regels van de AVG. Het mogelijk maken van de uitwisseling van digitale patientdossier samenvattingen en e-recepten tussen 22 Lidstaten die participeren in de eHealth Digital Service Infrastructure (eHDSI) in 2022. De digitale uitwisseling starten via de eHDSI van medische scans/beelden, laboratoriumresultaten en medische ontslagrapporten, en het verbeteren van het  virtuele consultatiemodel en de registers van European Reference Networks. Het ondersteunen van big data projecten die worden gepromote door het netwerk van zorgreguleerders. Deze acties ondersteunen preventie, diagnose en behandeling (met name ook voor kanker, zeldzame ziekten, en veelvoorkomende en complexe ziekten), onderzoek en innovatie, beleidsontwikkeling en regulerende activiteiten van Lidstaten op het gebied van volksgezondheid.</p>
+</li>
+</ul></section></section><section data-format="markdown" id="industrial-and-manufacturing-data-space"><!--OddPage--><h2 id="x5-industrial-and-manufacturing-data-space"><span class="secno">5. </span>Industrial and manufacturing data space</h2><p>Europa heeft een sterke industriële basis, en met name productie is een sector waar het genereren en gebruiken van data een belangrijk verschil kan maken voor de productiviteit en concurrentiekracht van de Europese industrie. Een studie uit 2018 heeft de mogelijke waarde van het gebruik van niet-persoonlijke data in productie geschat op € 1,5 biljoen in 2027.</p><p>Om dit potentieel mogelijk te maken zal de EC:</p><ul>
+<li><p>Vraagstukken beantwoorden t.a.v. gebruiksrechten van gecocreëerde industriële gegevens (zoals IoT data gegenereerd in industriële omgevingen), als onderdeel van de bredere <a href="https://geonovum.github.io/eu_regelingen_datastrategie/#data-act">Data Act</a> (Q4 2021).</p>
+</li>
+<li><p>Belangrijke stakeholders uit de productesector bijeen brengen, onder naleving van de concurrentieregels en de principes van rechtvaardige contractverlening, om gezamenlijk de voorwaarden overeen te komen waaronder zij bereid zijn data te delen, en meer data te genereren, o.a. via slimme en verbonden producten (Q2 2020 en verder).  Waar het data die door individuen wordt gegenereerd betreft, moeten hun belangen geheel in overweging worden genomen, en moet zeker zijn dat het volgens de dataprotectieregels (AVG) gebeurt.</p>
+</li>
+</ul></section><section data-format="markdown" id="financial-services-data-space"><!--OddPage--><h2 id="x6-financial-services-data-space"><span class="secno">6. </span>Financial services data space</h2><p>In de financiële sector vereist Europese wetgeving van financiële instituties het bekend maken van een significante hoeveelheid data producten, transacties en financiële resultaten. Daarbij markeert de herziene Payment Services Directive (PSD2) een belangrijke stap naar 'open bankieren' waar innovatieve betalingsdiensten kunnen worden aangeboden aan consumenten en bedrijven op basis van toegang tot de data van hun bankrekeningen. Naar voren kijkend kan versterking van datadelen bijdragen aan zowel het stimuleren van innovatie als het behalen van andere belangrijke beleidsdoelen op EU niveau.</p><section id="acties-2"><h3 id="x6-1-acties"><span class="secno">6.1 </span>Acties</h3><p>De EC formuleert concrete iniatieven in de Digital Finance Strategy (september 2020, <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52020DC0591&amp;from=EN">Volledige tekst in PDF</a>, <a href="https://ec.europa.eu/info/sites/default/files/business_economy_euro/banking_and_finance/200924-digital-finance-factsheet_en.pdf">Factsheet in PDF</a>) op basis van de volgende afwegingen:</p><ul>
+<li>De EC faciliteert makkelijkere openbaarmaking van financiële gegevens en rapportagegegevens, zoals die momenteel wettelijk zijn vereist, zoals bijvoorbeeld door het aanmoedigen van het gebruik van gangbare pre-competitieve technische standaarden. Hierdoor is meer efficiënte verwerking van zulke openbare gegevens mogelijk ten behoeve van een aantal andere beleidslijnen van publieke interesse, zoals de toegang to financiering voor Europese bedrijven door beter geïntegreerde kapitaalmarkten, betere markttransparantie, en het ondersteunen van duurzame financiering in de EU.</li>
+<li>Op basis van recente marktontwikkelingen rond 'open finance', zal de EC blijven waken over de volledige implementatie van de PSD2 Richtlijn, en aanvullende stappen en initiatieven verkennen die daar op voort bouwen.</li>
+</ul></section></section><section data-format="markdown" id="energy-data-space"><!--OddPage--><h2 id="x7-energy-data-space"><span class="secno">7. </span>Energy data space</h2><p>De gemeenschappelijke Europese data space voor energie, is bedoeld om een sterkere beschikbaarheid en bredere deling van data over sectoren heen mogelijk te maken. Op een manier die de klant centraal stelt, veilig en betrouwbaar is, zodat innovatie wordt gefaciliteerd ter ondersteuning van het CO2 neutraal maken van het energiesysteem.</p><p>In de energiesector regelen verschillende Richtlijnen voor klanten de toegang en portabiliteit van hun energiemeterdata en -consumptiedata op een transparante en non-discriminatoire manier, en in overeenstemming met dataprotectie wetten (AVG). De precieze data governance raamwerken zullen op nationaal niveau moeten worden geregeld. Wetgeving heeft ook verplichting tot datadelen geïntroduceerd voor netwerkbeheerders.
+T.a.v. digitale veiligheid, is er werk in uitvoering om energie-specifieke uitdagingen aan te gaan, met name: real-time vereisten, cascade effecten, en de mix van bestaande oudere technologie met slimme huidige technologie.</p><p>De EC zal al deze aspecten aanpakken als onderdeel van de Smart sector integration strategy (<a href="https://ec.europa.eu/energy/sites/ener/files/energy_system_integration_strategy_.pdf">PDF</a>), die in juli 2020 is verschenen, en was aangekondigd als onderdeel van de Green Deal.</p><section id="acties-3"><h3 id="x7-1-acties"><span class="secno">7.1 </span>Acties</h3><p>De EC zal:</p><ul>
+<li><p>Implementatiewet(ten) aannemen, die de interoperabiliteitsvereisten, en non-discriminatoire en transparantie procedures voor toegang tot data beschrijft, daarbij voortbouwend op de bestaande nationale werkwijzen op basis van de Electricity Directive 2019/944 (2021/2022).</p>
+</li>
+<li><p>Acties overwegen om de interoperabiliteit van slimme gebouwen en producten te verbeteren, om zo de energie-efficiëntie te verbeteren, lokaal energieverbruik te optimaliseren, en de integratie van hernieuwbare energiebronnen te verbreden. (Q4 2020).</p>
+</li>
+</ul></section></section><section data-format="markdown" id="agriculture-data-space"><!--OddPage--><h2 id="x8-agriculture-data-space"><span class="secno">8. </span>Agriculture data space</h2><p>De gezamenlijke Europese agrarische data space is bedoeld om de duurzaamheid, prestaties en concurrentiekracht van de agrarische sector te vergroten.</p><p>Data is een belangrijk ingrediënt in het verbeteren van de duurzaamheid, prestaties en concurrentiekracht van de sector. Het verwerken en analyseren van productiegegevens, in combinatie met andere data over toeleveringsketens en bijvoorbeeld aardobservatiegegevens en meteorologische gegevens, maakt het mogelijk om precieze en maatgemaakte productiemethoden toe te passen per boerenbedrijf. Een gedragscode voor het delen van landbouwdata op basis van contracten was ontwikkeld in 2018 door EU stakeholders uit de landbouw en machinesector.</p><p>Een gezamenlijke data space voor agrarische data gebaseerd op bestaande aanpakken kan leiden tot een neutraal platform voor het delen en bijeenbrengen van agrarische data, waaronder ook private en overheidsdata. Dit kan het ontstaan van innovatieve datagedreven ecosysteem ondersteunen, gebaseerd op evenwichtige contractuele afspraken, alsmede capaciteit versterken voor het monitoren en implementeren van gezamenlijk beleid, en de administratieve lasten verminderen voor overheden en ontvangers. In 2019 hebben Lidstaten een samenwerkingsverklaring opgesteld getiteld ‘A smart and sustainable digital future for European agriculture and rural areas’, die het potentieel erkent van digitale technologie voor de landbouwsector en landelijke gebieden, en die het opzetten van een data space ondersteunt.</p><section id="acties-4"><h3 id="x8-1-acties"><span class="secno">8.1 </span>Acties</h3><p>De EC zal:</p><ul>
+<li><p>Inventariseren met Lidstaten en stakeholders welke ervaringen zijn opgedaan met de genoemde stakeholder code of conduct voor het delen van landbouwdata op basis van contractuele afspraken, en m.b.t. de huidige markt voor digitale toepassingen voor boerenbedrijven en de eisen die die toepassingen stellen t.a.v. beschikbaarheid en gebruik van data. (Q3/Q4 2020).</p>
+</li>
+<li><p>Inventariseren welke landbouwgerelateerde data spaces al bestaan, waaronder welke onder het Horizon 2020 programma gefinancierd zijn, samen met Lidstaten en stakeholders, en een beslissing nemen t.a.v. een EU brede aanpak (Q4 2020/Q1 2021).</p>
+</li>
+</ul></section></section><section data-format="markdown" id="public-administration-data-space"><!--OddPage--><h2 id="x9-public-administration-data-space"><span class="secno">9. </span>Public Administration data space</h2><p>Een gemeenschappelijke Europese dataspace voor overheidsdiensten is bedoeld om de transparantie en verantwoording van publieke uitgaven en effectiviteit te verbeteren, en corruptie te bestrijden, beiden op zowel EU als nationaal niveau, de behoeften van wetshandhaving te vervullen en de effectieve toepassing van Europese wetten te ondersteunen, en uitvoerders en dienstverleners van algemeen publiek belang te ondersteunen met innovatieve ‘gov tech’, ‘reg tech’ en ‘legal tech’ applicaties.</p><p>Overheden zijn grote producenten en gebruikers van data in heel verschillende domeinen. De data space(s) voor de overheid zullen dit reflecteren. Acties op dit gebied zullen zich richten op wetsgegevens, inkoop- en aanbestedingsgegevens, en andere terreinen van publiek belang, zoals het verbeteren van wetshandhaving in lijn met EU wetten, inclusief het principe van proportionaliteit en de dataprotectieregels (zoals AVG).</p><p>Inkoop- en aanbestedingsgegevens zijn essentieel om de transparantie en verantwoording van publieke uitgaven te verbeteren, corruptie te bestrijden en de effectiviteit van uitgaven te verbeteren.  Dergelijke data is verspreid over meerdere systemen in de Lidstaten, wordt gehanteerd in verschillende formaten, en is niet makkelijk bruikbaar voor beleidsmatig gebruik in real-time. In veel gevallen moet ook de datakwaliteit worden verbetered.</p><p>Gelijksoortig, is naadloze toegang en makkelijk hergebruik van gegevens over wetgeving van de EU en een Lidstaat, jurisprudentie, en informatie over e-justitie diensten, van kritiek belang niet alleen voor de effectieve toepassing van EU wetten, maar ook om innovatieve 'legal tech' toepassingen mogelijk te maken voor gebruik door rechters, ambtenaren, bedrijfsjuristen en advocatuur.</p><section id="acties-5"><h3 id="x9-1-acties"><span class="secno">9.1 </span>Acties</h3><p>De EC zal:</p><ul>
+<li>Een data initiatief uitwerken t.a.v. publieke inkoop- en aanbestedings data die zowel de EU dimensie afdekt (EU datasets, zoals TED68), als de nationale lagen (Q4 2020). Dit wordt aangevuld met een procurement data governance framework (Q2 2021);</li>
+<li>Een handreiking publiceren over gebruikelijke standaarden alsmede interoperabele raamwerken voor juridische informatie op EU en nationaal niveau, in nauwe samenwerking met Lidstaten (Q1 2021);</li>
+<li>samenwerken met Lidstaten om te zorgen dat datasets over de implementatie van het EU budget FAIR zijn vormgegeven (Findable, Accessible, Interoperable and Reusable).</li>
+</ul></section></section><section data-format="markdown" id="skills-data-space-educatie-en-arbeidsmarkt"><!--OddPage--><h2 id="x10-skills-data-space-educatie-en-arbeidsmarkt"><span class="secno">10. </span>Skills data space (educatie en arbeidsmarkt)</h2><p>De Europese skills data space is bedoeld om de aansluiting te verbeteren tussen onderwijs en opleiding enerzijds en de behoeften van de arbeidsmarkt anderzijds.</p><p>De vaardigheden van mensen zijn Europa's belangrijkste asset. In de wereldwijde race om talent, moeten Europese onderwijsinstellingen en de arbeidsmarkt zich snel kunnen aanpassen aan nieuwe en opkomende behoeften aan vaardigheden. Dit vergt data van hoge kwaliteit over kwalificaties, opleidingskansen, banen en de vaardigheden van mensen. In de afgelopen jaren heeft de EC een reeks open standaarden ingevoerd, referentie raamwerken en semantische assets om datakwaliteit en interoperabiliteit te verbeteren. Zoals aangekondigd in het Digital Education Action Plan, heeft de EC ook het Europass Digital Credentials framework  gerealiseerd om kwalificaties aan lerenden te verstrekken in een veilig en interoperabel digitaal formaat.</p><section id="acties-6"><h3 id="x10-1-acties"><span class="secno">10.1 </span>Acties</h3><p>De EC zal:</p><ul>
+<li>Lidstaten ondersteunen in de ontwikkeling van digitale 'credential transformation plans' en in de voorbereiding van herbruikbare datasets over kwalificaties en opleidingskansen (2020-2022);
+</li>
+<li>Een beheermodel opstellen voor het beheer van het Europass Digital Credentials Framework, in nauwe samenwerking met Lidstaten en belangrijke andere betrokkenen (2022).</li>
+</ul></section></section><p role="navigation" id="back-to-top"><a href="#title">
+  <abbr title="Naar begin">↑</abbr></a></p><script src="https://www.w3.org/scripts/TR/2016/fixup.js"></script></body></html>
