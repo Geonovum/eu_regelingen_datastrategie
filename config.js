@@ -56,7 +56,7 @@ var respecConfig =
   format: "markdown",                 // altijd "markdown" - JvG W3C aangepast, op 1 plek markdown aangeven    
   //-- publishDate is verplicht -------------------------------------------------------
   //-- NB: in de werkversie uitzetten, want dan pakt Respec de pushdate ---------------
-  //publishDate: "2019-10-08",  	    // Format is "YYYY-MM-DD"
+  publishDate: "2022-02-09",  	    // Format is "YYYY-MM-DD"
   //-- Repositorynaam op GitHub -------------------------------------------------------
   github: "https://github.com/geonovum/eu_regelingen_datastrategie",
   //-- Repositorynaam/issues op GitHub ------------------------------------------------
@@ -114,7 +114,7 @@ var respecConfig =
   //-- license: voor de geldende gebruiksvoorwaarden
   //licence: "cc-by-nd",            // bronvermelding, geen afgeleide werken (default)
   //licence: "cc0",                 // Public Domain Dedication
-  licence: "cc-by",                 // Attribution, met bronvermelding
+  licence: "cc-by",                 // Attribution, bronvermelding
   
   //-- localBiblio: lokale bibliografie, voor verwijzigingen
   //-- NB: kijk eesrt naar de beschikbare www.specref.org voor verwijziging 
