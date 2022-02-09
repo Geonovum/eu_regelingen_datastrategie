@@ -56,7 +56,7 @@ var respecConfig =
   format: "markdown",                 // altijd "markdown" - JvG W3C aangepast, op 1 plek markdown aangeven    
   //-- publishDate is verplicht -------------------------------------------------------
   //-- NB: in de werkversie uitzetten, want dan pakt Respec de pushdate ---------------
-  publishDate: "2022-02-09",  	    // Format is "YYYY-MM-DD"
+  //publishDate: "2022-02-09",  	    // Format is "YYYY-MM-DD"
   //-- Repositorynaam op GitHub -------------------------------------------------------
   github: "https://github.com/geonovum/eu_regelingen_datastrategie",
   //-- Repositorynaam/issues op GitHub ------------------------------------------------
@@ -94,7 +94,7 @@ var respecConfig =
     },
   ],
   //-- shortName is verplicht! (komt in de URL: kies logische naam) --------------------
-  shortName: "eu",  	              // Wordt gebruikt in de document URL
+  shortName: "eudata",  	              // Wordt gebruikt in de document URL
   //-- pubDomain is verplicht! (komt in de URL: Activeer 1 van de volgende) ------------
   pubDomain: "eu", 	              // EU informatie Tactisch Beraad
   //pubDomain: "et", 	              // Energie transitie
