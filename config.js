@@ -94,7 +94,7 @@ var respecConfig =
     },
   ],
   //-- shortName is verplicht! (komt in de URL: kies logische naam) --------------------
-  shortName: "eudata",  	              // Wordt gebruikt in de document URL
+  shortName: "handreiking-EU-informatie",  	              // Wordt gebruikt in de document URL
   //-- pubDomain is verplicht! (komt in de URL: Activeer 1 van de volgende) ------------
   pubDomain: "eu", 	              // EU informatie Tactisch Beraad
   //pubDomain: "et", 	              // Energie transitie
