@@ -26,14 +26,14 @@ Digitaal burgerschap is gebaseerd op het bestaande [Handvest grondrechten in de 
 
 In de EU Digital Rights and Principles wordt beschreven hoe die grondrechten en de Europese waarden toegepast moeten worden in de digitale wereld. Het dient als referentie voor bedrijven en andere actoren in het ontwikkelen en implementeren van technologie. Het is ook een gids voor beleidsmakers. De implementatie van deze rechten en principes is een verantwoordelijkheid van zowel de EU als van Lidstaten. In het jaarlijkse rapport 'State of the Digital Decade' wordt de monitoring van de digitale principes en rechten opgenomen.
 
-#### Rechten:
+#### Rechten
 - Recht op onderwijs, training en levenslang leren 
 - Recht op eerlijke, gezonde en veilige werkomstandigheden, en passende bescherming in de digitale werkomgeving zoals ook op de fysieke werkplek, ongeacht werknemerstatus, werkvorm of arbeidsduur. Dit betekent ondermeer de mogelijkheid om offline te gaan, en het bewaken van werk-prive balans in de digitale omgeving.
 - Recht op vrijheid van meningsuiting online, zonder angst voor censuur of intimidatie
 - Recht op de bescherming van persoonsgegevens online, inclusief het recht op hoe iemand's data wordt gebruikt en met wie die wordt gedeeld (zie de AVG)
 - Recht op de vertrouwelijkheid van communicatie (digitaal briefgeheim) en van gegevens op digitale apparaten, en recht niet te worden onderworpen aan wederrechtelijke surveillance of afvangactiviteiten.
 
-#### Beginselen:
+#### Beginselen
 * Universele toegang tot technologie die verbindt en mensen niet van elkaar verwijdert. Dit betekent:
 	- Zorgen dat technische oplossingen burgerrechten respecteert, de uitoefening van die rechten mogelijk maakt, en inclusiviteit uitdraagt
 	- Zorgen dat ouderen, mensen met een beperking, gemarginaliseerden, kwetsbaren en ontrechten niet worden achter gelaten
