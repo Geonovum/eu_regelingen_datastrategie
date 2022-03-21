@@ -11,7 +11,7 @@ Er zitten enkele nieuwe elementen in de Richtlijn:
 
 ### High Value Data lijst
 Data, die op de EU High Value Data lijst wordt genoemd, moet verplicht door alle Lidstaten, mits voorhanden, als open data worden gepubliceerd en ontsloten via APIs (zoals beschreven in hoofdstuk 5 van de [ODD](#open-data-directive)).
-De eerste editie van High Value Data lijst had er tijdig voor de transpositie-deadline moeten zijn, maar heeft politiek vertraging opgelopen. Hopelijk komt de lijst nog in 2021. In komende jaren wordt de lijst periodiek aangevuld door de EC, met nieuwe data-domeinen en mogelijke uitbreiding binnen al benoemde domeinen.
+De eerste editie van High Value Data lijst had er tijdig voor de transpositie-deadline moeten zijn, maar heeft politiek vertraging opgelopen. De lijst komt naar verwachting in 2022. In komende jaren wordt de lijst periodiek aangevuld door de EC, met nieuwe data-domeinen en mogelijke uitbreiding binnen al benoemde domeinen.
 
 De eerste lijst omvat verplichtingen voor de data-domeinen (zoals beschreven in artikel 13 (1) van de ODD):
 * Geo-data
