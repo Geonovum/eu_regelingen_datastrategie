@@ -26,6 +26,9 @@ Digitaal burgerschap is gebaseerd op het bestaande [Handvest grondrechten in de 
 
 In de EU Digital Rights and Principles wordt beschreven hoe die grondrechten en de Europese waarden toegepast moeten worden in de digitale wereld. Het dient als referentie voor bedrijven en andere actoren in het ontwikkelen en implementeren van technologie. Het is ook een gids voor beleidsmakers. De implementatie van deze rechten en principes is een verantwoordelijkheid van zowel de EU als van Lidstaten. In het jaarlijkse rapport 'State of the Digital Decade' wordt de monitoring van de digitale principes en rechten opgenomen.
 
+De EU Digital Rights and Principles waren in de zomer van 2021 onderwerp van een publieke consultatie. De EC heeft op 26 januari 2022 de [inhoud van de digitale rechten en principes](https://digital-strategy.ec.europa.eu/en/library/declaration-european-digital-rights-and-principles) voorgesteld, met de uitnodiging aan de Raad en het EP deze mede te ondertekenen.
+
+
 #### Rechten
 - Recht op onderwijs, training en levenslang leren 
 - Recht op eerlijke, gezonde en veilige werkomstandigheden, en passende bescherming in de digitale werkomgeving zoals ook op de fysieke werkplek, ongeacht werknemerstatus, werkvorm of arbeidsduur. Dit betekent ondermeer de mogelijkheid om offline te gaan, en het bewaken van werk-prive balans in de digitale omgeving.
@@ -55,9 +58,7 @@ In de EU Digital Rights and Principles wordt beschreven hoe die grondrechten en 
 * Kinderen en jongeren verdienen zowel bescherming als de mogelijkheid tot vrije keuze en expressie online
 
 
-Deze rechten en uitgangspunten waren in de zomer van 2021 onderwerp van een publieke consultatie. De EC heeft op 26 januari 2022 de [inhoud van de digitale rechten en principes](https://digital-strategy.ec.europa.eu/en/library/declaration-european-digital-rights-and-principles) voorgesteld, met de uitnodiging aan de Raad en het EP deze mede te ondertekenen.
-
 ### Twee strategieën als bouwstenen
 Twee strategieën zetten deze propositie om in praktijk en regelgeving: 
-* [De Europese digitale strategie](https://geonovum.github.io/eu_regelingen_datastrategie/#europese-digitale-strategie), en 
-* [De Europese datastrategie](https://geonovum.github.io/eu_regelingen_datastrategie/#data-strategie).
+* [De Europese digitale strategie](#europese-digitale-strategie), en 
+* [De Europese datastrategie](#europese-data-strategie).
