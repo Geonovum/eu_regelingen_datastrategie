@@ -3,17 +3,46 @@
 De gemeenschappelijke Green Deal dataspace is bedoeld om het grote potentieel te realiseren van data ter ondersteuning van de prioritaire acties uit de Green Deal t.a.v. klimaatadaptatie, circulaire economie, verontreiniging van lucht, water en bodem naar nul, biodiversiteit, ontbossing tegengaan, en het monitoren van compliance.
 Deze dataspace ondersteunt het behalen van de doelen in de Europese Green Deal en is waarschijnlijk de eerste van de te realiseren dataspaces.
 
-In het kader van het Digital Europe Program is financiering beschikbaar gesteld voor het voorbereiden van deze data space. Voorstellen voor deze financiering kunnen worden ingediend tussen 17 november 2021 en 22 februari 2022.
+In het kader van het Digital Europe Program is financiering beschikbaar gesteld voor het voorbereiden van deze data space. Voorstellen voor deze financiering konden tot 22 februari 2022 worden ingediend. De acceptatie van voorstellen is waarschijnlijk na de zomer, en de start van de uitvoering van die voorstellen eind 2022.  
 
-### Acties
-De initiatieven “GreenData4All” and “Destination Earth”  (DestinE, digitale tweeling van de aarde)  bevatten de concrete acties:
+### Door EC aangekondigde acties
+De initiatieven “GreenData4All” and “Destination Earth”  (DestinE, digitale tweeling van de aarde)  bevatten concrete acties:
 
-* GreenData4All dat bestaat uit het evalueren en eventueel aanpassen van de INSPIRE Richtlijn, samen met de Environment Information Directive (Publieke toegang tot milieu-informatie Richtlijn ). Hiermee worden die richtlijnen gemoderniseerd m.b.t. kansen tech en innovatie.
+* GreenData4All dat bestaat uit het evalueren en eventueel aanpassen van de INSPIRE Richtlijn, samen met de Environment Information Directive (Publieke toegang tot milieu-informatie Richtlijn ). Hiermee worden die richtlijnen gemoderniseerd m.b.t. kansen technologie en innovatie.
 * Uitrol van herbruikbare dataservices om met grote hoeveelheden data te kunnen werken om compliance te laten zien met de milieuwetgeving en andere regels m.b.t. de acties uit de Green Deal.
 * Een common European dataspace for circular economy (deze wordt niet in de DGA genoemd) Met eerste focus op sectoren genoemd in Circular Economy Action Plan (_gebouwde omgeving, verpakking, textiel, electronica, ICT en plastic_). Daarbinnen:
 	* Ontwikkeling van architectuur en governance 
-	* Sectoral data strategieën (in bovenstaande sectoren) 
-	* adoptie sustainable product policy met productpaspoort 
-	* resource mapping en afvaltransport tracking
-* Een pilot om de data strategie snel en vroegtijdig toe te passen in de context van de 'zero pollution' ambitie. In de pilot gaat het om het potentieel realiseren van wat al een heel datarijk domein (data over chemicalien, lucht, water, grond emissies, gevaarlijke stoff in consumentenproducten). Dit komt zowel consumenten als de planeet ten goede.
-* Destination Earth (DestinE), de digitale tweeling van de aarde, m.b.t. klimaatadaptatie en menselijke invloed op de omgeving. Startend in 2021 tot 2030.
+	* Sectorale data strategieën (in bovenstaande sectoren) 
+	* Adoptie sustainable product policy met productpaspoort 
+	* Resource mapping en afvaltransport tracking
+* Een pilot om de data strategie snel en vroegtijdig toe te passen in de context van de 'zero pollution' ambitie. In de pilot gaat het om het potentieel realiseren van wat al een heel datarijk domein (data over chemicalien, lucht, water, grond emissies, gevaarlijke stoffen in consumentenproducten). De bedoeling is dat dit zowel consumenten als de planeet ten goede komt.
+* Destination Earth (DestinE), de digitale tweeling van de aarde, m.b.t. klimaatadaptatie en menselijke invloed op de omgeving. Startend in 2021, lopend tot 2030.
+
+### Contouren Green Deal Dataspace
+Uit de Digital Europe Program uitvraag blijken een aantal eigenschappen die kennelijk voorzien zijn voor de Green Deal dataspace.
+
+De Digital Europe Program uitvraag voor de voorbereiding van de Green Deal dataspace richt zich op:
+- Een data governance schema en een blauwdruk voor het verbinden van bestaande nationale, regionale en lokale data ecosystemen, dat publieke en private datahouders in staat stelt toegang tot data te krijgen, en voor het ontwikkelen van data-services over sectorale grenzen heen.
+- Een lijst van prioritaire data die relevant is voor de Green Deal zelf
+- Een roadmap voor de ontwikkeling van de Green Deal dataspace.
+
+De bedoeling is het verbinden van de op dit moment gefragmenteerde en verspreidde data uit diverse netwerken van stakeholders. Daarvoor is een interoperabele en betrouwbare IT omgeving nodig om data te kunnen verwerken, en een set regels (wetten, administratief, contractueel) die toegang en verwerkingsrechten van data regelen. Er dient verbinding te zijn met activiteiten uit het Horizon Europe programma t.a.v. cluster 4 (digitaal, industrie, ruimte), cluster 5 (klimaat, energie, mobiliteit), cluster 6 (voedsel, bio-economie, grondstoffen, landbouw en milieu), en met de ruimteprogramma's Galileo en Copernicus, omdat uit die activiteiten grote hoeveelheden (real time) data voortkomen. In de vorming is het nauw contact houden met gebruikers en relevante actoren belangrijk. 
+
+Klimaat en milieuwetenschappers zijn een belangrijke doelgroep voor deze dataspace. Drempels in bestaande use cases uit die hoek moeten in de voorstellen voor deze dataspace worden geslecht.
+
+De Green Deal Missies uit Horizon Europe worden geschikt geacht om de ontwikkelingen van deze dataspace mee te testen, te experimenteren en op te schalen, ook met lokale partners.
+
+### Datasets in beeld
+In ieder geval komen de volgende (overheids)data in beeld voor deze dataspace:
+- de aankomende Europese High Value Data, overheidsgegevens uit thema's als statistiek, (aardgebonden) aardobservatie, milieu, meteorologie, mobiliteit, en geografie die overheden straks verplicht zijn via API's als open data te ontsluiten.
+- Relevante data uit andere dataspaces, zoals landbouw en energie.
+- Maritieme gegevens door verbinding met EMODnet (het Europees marien observatie en data netwerk)
+- Geologische gegevens door verbinding met EGDI (de Europese geologische data infrastructuur)
+- INSPIRE data, zoals door Lidstaten ontsloten, en Europees ontsloten
+- Satelliet-gebaseerde aardobservatiegegevens (beelden, metingen)
+- Copernicus data, en services
+- IoT en sensordata (bijv uit de publieke ruimte)
+- Niet-openbare overheidsgegevens, op basis van de DGA
+- Gegevens van private organisaties in het algemeen belang op basis van de DA verkregen en doorgeleverd voor onderzoek en statistiek
+- Gegevens door burgers (AVG conform, en bijvoorbeeld op basis van data-altruïsme zoals in de DGA mogelijk gemaakt)
+
