@@ -27,6 +27,7 @@ De Digital Europe Program uitvraag voor de voorbereiding van de Green Deal datas
 - Een roadmap voor de ontwikkeling van de Green Deal dataspace.
 
 De bedoeling is het verbinden van de op dit moment gefragmenteerde en verspreidde data uit diverse netwerken van stakeholders. Daarvoor is een interoperabele en betrouwbare IT omgeving nodig om data te kunnen verwerken, en een set regels (wetten, administratief, contractueel) die toegang en verwerkingsrechten van data regelen. Er dient verbinding te zijn met activiteiten uit het Horizon Europe programma t.a.v. cluster 4 (digitaal, industrie, ruimte), cluster 5 (klimaat, energie, mobiliteit), cluster 6 (voedsel, bio-economie, grondstoffen, landbouw en milieu), en met de ruimteprogramma's Galileo en Copernicus, omdat uit die activiteiten grote hoeveelheden (real time) data voortkomen. In de vorming is het nauw contact houden met gebruikers en relevante actoren belangrijk. 
+In de eerste aanloop wordt ook verbinding gelegd met de acties voor een digitaal productpaspoort (zie hierboven), als voorbereiding op een toekomstige dataspace voor slimme circulaire toepassingen.
 
 Klimaat en milieuwetenschappers zijn een belangrijke doelgroep voor deze dataspace. Drempels in bestaande use cases uit die hoek moeten in de voorstellen voor deze dataspace worden geslecht.
 
