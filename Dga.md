@@ -14,5 +14,5 @@ Verschillende typen datadeeldiensten moeten een notificatieprocedure volgen. Dit
 Data altruïsme is het geven van toestemming voor het gebruik van persoonsgegevens door individuen of van niet-persoonsgebonden gegevens door andere organisaties, voor het gebruik in het algemeen belang, zoals wetenschappelijk onderzoek of het verbeteren van publieke diensten. Een aan te wijzen bevoegde organisatie houdt een openbaar nationaal register bij van erkende gebruikers van via data altruïsme verkregen gegevens. Een dergelijk register wordt ook EU breed gevoerd. Alleen non-profit instellingen worden mogelijk erkend. Erkende instellingen moeten jaarlijks een activiteitenrapportage indienen.
 
 ### Data Innovation Board
-Een Data Innovation Board adviseert over de werkwijzen in het kader van deze wet, standaarden, en interoperabiliteit (zie ook de [DA](#data-act--da), en let op de internationale samenwerking tussen nationaal aangewezen bevoegde organisaties. 
+Een Data Innovation Board adviseert over de werkwijzen in het kader van deze wet, standaarden, en interoperabiliteit (zie ook de [DA](#data-act-da), en let op de internationale samenwerking tussen nationaal aangewezen bevoegde organisaties. 
 
