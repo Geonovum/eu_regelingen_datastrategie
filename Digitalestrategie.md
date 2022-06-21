@@ -9,7 +9,7 @@ Er zijn drie juridische instrumenten door de EC voorgesteld als onderdeel van de
 - De AI Regulation (*AI verordening*), gericht op de toelating van AI producten.
 
 ### Digital Markets Act  (DMA)
-De Digital Markets Act (DMA, *Digitale Marktenverordening*) is voorgesteld eind 2020. Als Verordening is de DMA direct van kracht in alle lidstaten, zodra deze wordt aangenomen (naar verwachting eerste helft 2022).
+De Digital Markets Act (DMA, *Digitale Marktenverordening*) is voorgesteld eind 2020. Als Verordening is de DMA direct van kracht in alle lidstaten, zodra deze wordt aangenomen. 
 
 <ul>
 <li>Gericht op open en eerlijk digitale markten
@@ -32,8 +32,8 @@ De Digital Markets Act (DMA, *Digitale Marktenverordening*) is voorgesteld eind 
     <li>Dwangsommen mogelijke tot 5% van de gemiddelde wereldwijde dagomzet van een poortwachter.</li></ul></li>
 </ul>
 
-De DMA is in november in de Raad van EU Ministers goedgekeurd en eveneens door het Europees Parlement. In de eerste helft van 2022 wordt nog onderhandeld tussen Raad, EP en EC over de eindtekst.
-De DMA zal in 2022 gereed zijn en per 1-1-2023 van kracht zijn.
+De DMA is in november in de Raad van EU Ministers goedgekeurd en eveneens door het Europees Parlement (EP). In de eerste helft van 2022 werd nog onderhandeld tussen Raad, EP en EC over de eindtekst. Politieke overeenstemming daarover werd bereikt in maart 2022. De [eindtekst (PDF)](https://www.consilium.europa.eu/media/56086/st08722-xx22.pdf) is in mei 2022 gepubliceerd, en wordt in september of oktober 2022 nog in stemming gebracht bij de Raad en het EP.
+De DMA zal dus in 2022 gereed zijn en per tweede kwartaal 2023 van kracht zijn.
 
 ### Digital Services Act (DSA)
 De Digital Services Act (DSA, *Digitale Dienstenverordening*) hangt nauw samen met de Digital Markets Act (DMA), en is net als de DMA eind 2020 voorgesteld. Het is een uitbreiding en actualisering van de EU E-commerce Directive 2000/31/EU. Die bestaande Richtlijn wordt hiermee vervangen door een Verordening en trekt zo de regels en interpretatie voor alle Lidstaten gelijk. Als Verordening is de DSA direct van kracht in alle lidstaten, zodra deze wordt aangenomen. 
