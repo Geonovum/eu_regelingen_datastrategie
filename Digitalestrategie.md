@@ -61,7 +61,7 @@ Zulke intermediaire diensten krijgen verplichtingen opgelegd die moeten leiden t
 
 De voorgestelde verordening leest als een risicogerichte aanpak, en beschouwt de rol van platforms waar deze systemische risico's vormen voor markt en maatschappij. Het adresseert daarbij de invloed en macht van een platform, de rol van een platform als (maatschappelijke) infrastructuur, en de afhankelijkheden in het ecosysteem van aanbieders.
 
-De DSA is door de Raad van EU Ministers in november 2021 goedgekeurd, en door het Europees Parlement in januari 2022.  In de eerste helft van 2022 wordt tussen deze partijen onderhandeld over een definitieve tekst. Naar verwachting is de wet dan per 1-1-2023 van kracht.
+De DSA is door de Raad van EU Ministers in november 2021 goedgekeurd, en door het Europees Parlement in januari 2022.  In april 2022 zijn de onderhandelingen tussen deze partijen over de definitieve tekst afgerond. De eindtekst is nog niet gepubliceerd, en er is in juni discussie in het EP ontstaan na eenzijdige wijzigingen in de politieke overeenkomst van april. Naar verwachting wordt de wet in het derde kwartaal van 2022 van kracht, met een verschoningstijd tot 1 januari 2024 (of 15 maanden na de finale goedkeuring door Raad en EP als dat later is).
 
 ### AI Regulation
 De AI Regulation (*AI Verordening*) is voorgesteld in april 2021. Net als de DMA en de DSA heeft de AI Regulation in de hele EU meteen kracht van wet als hij is aangenomen. De AI Regulation is wereldwijd het eerste wetsvoorstel in zijn soort. Net als de AVG, de DMA en DSA, is het vormgegeven als een instrument dat striktere eisen en grotere sancties koppelt aan hogere risiconiveau's.
