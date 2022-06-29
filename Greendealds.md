@@ -1,6 +1,6 @@
 ## Green Deal data space
 
-De gemeenschappelijke Green Deal dataspace is bedoeld om het grote potentieel te realiseren van data ter ondersteuning van de prioritaire acties uit de Green Deal t.a.v. klimaatadaptatie, circulaire economie, verontreiniging van lucht, water en bodem naar nul, biodiversiteit, ontbossing tegengaan, en het monitoren van compliance.
+De gemeenschappelijke Green Deal dataspace is bedoeld om het grote potentieel te realiseren van data ter ondersteuning van de prioritaire acties uit de Green Deal t.a.v. klimaatadaptatie, circulaire economie, verontreiniging van lucht, water en bodem naar nul, biodiversiteit, ontbossing tegengaan, en het monitoren van compliance. Green Deal wetgeving is in juli 2021 voorgesteld (Fit for 55), en in juni 2022 is een versie door de Europese raad goed gekeurd. Goedkeuring in het EP, en samenvoeging in een triloog moeten nog plaatsvinden.
 Deze dataspace ondersteunt het behalen van de doelen in de Europese Green Deal en is waarschijnlijk de eerste van de te realiseren dataspaces.
 
 In het kader van het Digital Europe Program is financiering beschikbaar gesteld voor het voorbereiden van deze data space. Voorstellen voor deze financiering konden tot 22 februari 2022 worden ingediend. De acceptatie van voorstellen is waarschijnlijk na de zomer, en de start van de uitvoering van die voorstellen eind 2022.  
