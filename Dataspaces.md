@@ -15,6 +15,8 @@ Open data, zoals de [High Value Data lijst](#high-value-data-lijst) uit de Open 
 De manier waarop de EC de eenheidsmarkt voor data wil vormen, is middels sectorale dataspaces, die vervolgens onderling interoperabel zijn. 
 Binnen sectoren en thema's zijn er meer al geldende afspraken t.a.v. standaarden en professionele normen t.a.v. omgang met data, die telkens gebaseerd zijn op de context van die sector. Een dataspace bouwt daar dan op voort.
 
+![eudataspacesill.png](media/eudataspacesill.png)
+
 In eerste instantie zijn genoemd als dataspaces:
 
 * Gezondheid
