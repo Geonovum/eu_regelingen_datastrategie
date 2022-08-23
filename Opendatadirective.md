@@ -13,7 +13,7 @@ Er zitten enkele nieuwe elementen in de Richtlijn:
 De Open Data Directive geeft de EC de mogelijkheid met een Implementatiewet open data verplichtingen op te leggen aan alle Lidstaten tegelijkertijd (dus zonder omzetting in nationale wetgeving). Zo'n Implementatiewet vermeldt hoe en onder welke voorwaarden de verplichte open data moet worden gepubliceerd, en verstrekt in een bijlage de EU High Value Data lijst zelf. 
 Data, die op de EU High Value Data lijst wordt genoemd, moet verplicht door alle Lidstaten, mits voorhanden, als open data worden gepubliceerd en ontsloten via APIs (zoals beschreven in hoofdstuk 5 van de [ODD](#open-data-directive)).
 
-De eerste editie van High Value Data lijst had er tijdig voor de transpositie-deadline van de ODD zelf moeten zijn, maar heeft politiek vertraging opgelopen. De EC heeft op 24 mei 2022 het voorstel gepubliceerd voor de eerste [EU High Value Datalijst](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12111-Open-data-availability-of-public-datasets_en). Eind juni sloot een publieke feedbackronde. Begin september is een bijeenkomst met de Lidstaten om naar verwachting de finale versie te accorderen. De wet gaat in 20 dagen na publicatie, en de open data eisen zouden dan 6 maanden later, d.w.z. in het voorjaar van 2023 van toepassing zijn.
+De eerste editie van High Value Data lijst had er tijdig voor de transpositie-deadline van de ODD zelf moeten zijn, maar heeft politiek vertraging opgelopen. De EC heeft op 24 mei 2022 het voorstel gepubliceerd voor de eerste [EU High Value Datalijst](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12111-Open-data-availability-of-public-datasets_en). Eind juni sloot een publieke feedbackronde. Begin september is een bijeenkomst met de Lidstaten om naar verwachting de finale versie te accorderen. De wet gaat in 20 dagen na publicatie, en de open data eisen zouden dan 12 maanden later, d.w.z. in het najaar van 2023 van toepassing zijn.
 
 In komende jaren wordt de lijst periodiek aangevuld door de EC, met nieuwe data-domeinen en mogelijke uitbreiding binnen al benoemde domeinen.
 
@@ -27,7 +27,7 @@ De eerste lijst omvat verplichtingen voor de data-domeinen (zoals beschreven in 
 
 De verplichtingen voor geo-data en aardobservatie/milieu een open data verplichting toe aan een reeks [INSPIRE](#inspire-richtlijn) thema's.
 
-In 2022 komt naar verwachting ook een voorstel voor een nieuwe lijst thema's tot stand, waarvoor over enkele jaren dan nieuwe verplichtingen zullen volgen. Die nieuwe thema's betreffen mogelijk energie, gezondheidszorg, overheid en publieke diensten, taal, klimaatverandering, recht en justitie, economie.
+In 2022 komt naar verwachting ook een voorstel voor een nieuwe lijst thema's tot stand, waarvoor over enkele jaren dan nieuwe verplichtingen zullen volgen. Die nieuwe thema's betreffen mogelijk energie, gezondheidszorg, overheid en publieke diensten, taal, klimaatverandering, recht en justitie, en economie.
 
 #### Inhoud implementatiewet
 De implementatiewet bepaalt in haar bijlage (Annex I) welke overheidsdata verplicht als open data moet worden gepubliceerd. Voor die datasets bepaalt de wet de eisen die worden gesteld aan publicatie en gebruik van die datasets, waaronder de minimumvereisten aan ontsluiting via een API. Het staat landen vrij verder te gaan dan de implementatiewet voorschrijf, en t.a.v. de hoeveelheid data worden landen daartoe ook expliciet aangemoedigd. Unie of nationale wettelijke vereisten die verder gaan blijven onverminderd van kracht.
