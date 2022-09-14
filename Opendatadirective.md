@@ -55,12 +55,13 @@ Dit is in de context van de ODD een klein thema, omdat heel veel gegevens al val
 In scope is het INSPIRE thema Transport Networks (Annex I). Daarnaast zijn voor _binnenlandse_ waterwegen statische data, dynamische data (zoals profielen), en electronische navigatiekaarten (ENC) aangemerkt voor publicatie als open data, voor die landen die vallen onder de Richtlijn 2005/44/EC m.b.t. ‘harmonised river information services on inland waterways’.
 
 ##### Geodata
-De volgende vier INSPIRE thema’s uit INSPIRE Annex I krijgen een open data verplichting:
+De volgende vijf INSPIRE thema’s uit INSPIRE Annex I krijgen een open data verplichting:
 
 - Administratieve eenheden
 - Geografische namen
 - Adressen
-- Gebouwen en kadastrale percelen
+- Gebouwen 
+- Kadastrale percelen
 
 Daarnaast vallen referentiepercelen en landbouwpercelen zoals benoemd in de 1306/2013 en 1307/2013 Regulations m.b.t. de Common Agricultural Policy (CAP) onder de open data verplichting.
 
