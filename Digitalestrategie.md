@@ -9,7 +9,9 @@ Er zijn drie juridische instrumenten door de EC voorgesteld als onderdeel van de
 - De AI Regulation (*AI verordening*), gericht op de toelating van AI producten.
 
 ### Digital Markets Act  (DMA)
-De Digital Markets Act (DMA, *Digitale Marktenverordening*) is voorgesteld eind 2020. Als Verordening is de DMA direct van kracht in alle lidstaten, zodra deze wordt aangenomen. 
+De Digital Markets Act (DMA, *Digitale Marktenverordening*) is voorgesteld eind 2020, en in september 2022 van kracht geworden. Als Verordening is de DMA direct van kracht in alle lidstaten, maar met een verschoningstijd van 6 maanden, d.w.z. tot het tweede kwartaal van 2023.
+
+De DMA is
 
 <ul>
 <li>Gericht op open en eerlijk digitale markten
