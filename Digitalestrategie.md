@@ -32,8 +32,8 @@ De Digital Markets Act (DMA, *Digitale Marktenverordening*) is voorgesteld eind 
     <li>Dwangsommen mogelijke tot 5% van de gemiddelde wereldwijde dagomzet van een poortwachter.</li></ul></li>
 </ul>
 
-De DMA is in november in de Raad van EU Ministers goedgekeurd en eveneens door het Europees Parlement (EP). In de eerste helft van 2022 werd nog onderhandeld tussen Raad, EP en EC over de eindtekst. Politieke overeenstemming daarover werd bereikt in maart 2022. De [eindtekst (PDF)](https://www.consilium.europa.eu/media/56086/st08722-xx22.pdf) is in mei 2022 gepubliceerd, en op 5 juli 2022 aanvaard door het EP. Er volgt nog een laatste akkoord van de Raad, waarna deze officieel wordt gepubliceerd.
-De DMA zal dus in 2022 gereed zijn en zal na een verschoningstijd van 6 maanden per het tweede kwartaal 2023 uiterlijk van kracht zijn.
+De DMA is in november 2021 in de Raad van EU Ministers goedgekeurd en eveneens door het Europees Parlement (EP). In de eerste helft van 2022 werd nog onderhandeld tussen Raad, EP en EC over de eindtekst. Politieke overeenstemming daarover werd bereikt in maart 2022. De [eindtekst (PDF)](https://www.consilium.europa.eu/media/56086/st08722-xx22.pdf) is in mei 2022 gepubliceerd, en op 5 juli 2022 aanvaard door het EP waarna nog een laatste akkoord van de Raad volgde. Op 14 september 2022 is de wet onder Tsjechisch voorzitterschap ondertekend.
+De DMA is nu gereed zijn en zal na een verschoningstijd van 6 maanden per het tweede kwartaal 2023 van kracht zijn.
 
 ### Digital Services Act (DSA)
 De Digital Services Act (DSA, *Digitale Dienstenverordening*) hangt nauw samen met de Digital Markets Act (DMA), en is net als de DMA eind 2020 voorgesteld. Het is een uitbreiding en actualisering van de EU E-commerce Directive 2000/31/EU. Die bestaande Richtlijn wordt hiermee vervangen door een Verordening en trekt zo de regels en interpretatie voor alle Lidstaten gelijk. Als Verordening is de DSA direct van kracht in alle lidstaten, zodra deze wordt aangenomen. 
