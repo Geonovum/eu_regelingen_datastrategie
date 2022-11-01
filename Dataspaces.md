@@ -5,7 +5,7 @@ Er wordt een 'eenheidsmarkt voor data' gecreëerd, die vorm krijgt in de vorm va
 Binnen zo'n dataspace moet het mogelijk zijn voor iedereen deel te nemen aan het delen, uitwisselen, en gebruiken van data. Ook als het gaat om data die je niet rechtstreeks kunt krijgen, worden er mogelijkheden voorzien om die data wel te kunnen gebruiken. Denk hier o.a. de overheidsdata die binnen de [Data Governance Act (DGA)](#data-governance-act-dga) valt, maar niet onder de [Open Data Directive](#open-data-directive) (en dus het openbaarheidsregime van de betreffende lidstaat). Zoals bijvoorbeeld het gebruiken van microdata van het CBS om een model te trainen zonder zelf over die microdata te hoeven beschikken, door het model naar de data te brengen.
 
 Wat een dataspace precies is en hoe het zal worden, is nog niet duidelijk. Het wordt gezien als een geleidelijk ontstaansproces, waarbij bestaande en nieuwe elementen worden gefedereerd en verbonden. Op basis van bestaande beschrijvingen is een dataspace opgebouwd uit:
-* een technische infrastructuur die voor iedereen toegankelijk is en veilige uitwisseling en gebruik mogelijk maakt. Dit is voorzien als een gefedereerde cloud-omgeving (hier is een relatie met bijvoorbeeld Gaia-X [^1] ). 
+* een technische infrastructuur die voor iedereen toegankelijk is en veilige uitwisseling en gebruik mogelijk maakt. Dit is voorzien als een gefedereerde cloud-omgeving (hier is een relatie met bijvoorbeeld Gaia-X [^1]). 
 * gereedschappen voor gebruik en delen
 * generieke data governance afspraken en standaarden, waarin de Data Innovation Board uit de Data Governance Act (DGA) een rol speelt, en sectorale governance afspraken die gangbaar zijn binnen een toepassingsgebied
 * heldere gebruikscondities (naar verwachting nader uitgewerkt in de komende [Data Act](#data-act-da)
@@ -28,6 +28,14 @@ In eerste instantie zijn genoemd als dataspaces:
 * Green Deal
 * Overheid
 * Vaardigheden (onderwijs en arbeidsmarkt)
+
+Maar ook wordt er gesproken over dataspaces voor:
+- Cultureel erfgoed
+- Circulaire economie
+- Toerisme
+- Smart communities
+- Media
+- Taal
 
 Ook wordt gesproken over de 'persoonlijke dataspace', die het mogelijk maakt om als individu of organisatie gegevens voor een specifiek gebruiksgeval (tijdelijk) in te brengen. (Een voorbeeld zou kunnen zijn, dat je je eigen mobiliteitsgegevens meeneemt naar een discussie over een nieuwe busroute of rondweg in je wijk). Vanuit een persoonlijke dataspace kan ook het in de [Data Governance Act (DGA)](#data-governance-act-dga) genoemde 'data-altruïsme' worden vormgegeven. Data-altruïsme is het beschikbaar stellen van gegevens voor algemeen nut aan een beherende erkende organisatie die toeziet op het juiste gebruik van die gegevens. 
 
