@@ -17,6 +17,7 @@ In oktober 2022 is het DS4Skills-project aangekondigd, geleid door DIGITALEUROPE
 In het DS4Skills-consortium zijn 15 partijen opgenomen, waarvan er 10 volledige partners zijn en 4 geassocieerde partners:
 
 **Partners**:
+
 DIGITALEUROPE**
 
 TNO
@@ -40,6 +41,7 @@ BDVA
  
 
 **Associated Partners**:
+
 European EdTech Alliance
 
 Prometheus-X
