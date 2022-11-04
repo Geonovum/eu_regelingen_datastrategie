@@ -16,42 +16,24 @@ In oktober 2022 is het DS4Skills-project aangekondigd, geleid door DIGITALEUROPE
 
 In het DS4Skills-consortium zijn 15 partijen opgenomen, waarvan er 10 volledige partners zijn en 4 geassocieerde partners:
 
-**Partners**:
-
-DIGITALEUROPE**
-
-TNO
-
-Mydata Global
-
-Chamber of commerce and Industry of Slovenia – CCIS
-
-Adecco Formazione
-
-Headai
-
-Universitaet Koblenz-Landau
-
-Vastuu Group
-
-Visions
-
-BDVA
-
- 
+**Partners**: 
+- DIGITALEUROPE**
+- TNO
+- Mydata Global
+- Chamber of commerce and Industry of Slovenia – CCIS
+- Adecco Formazione
+- Headai
+- Universität Koblenz-Landau
+- Vastuu Group
+- Visions
+- BDVA
 
 **Associated Partners**:
-
-European EdTech Alliance
-
-Prometheus-X
-
-Fraunhofer ISST
-
-Swedish Jobtech
-
-
+- European EdTech Alliance
+- Prometheus-X
+- Fraunhofer ISST
+- Swedish Jobtech
 
 ### Datasets in beeld
-
+-
 
