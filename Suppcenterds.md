@@ -2,19 +2,19 @@
 
 Het Data Spaces Support Center (DSSC) is door DIGITALEUROPE opgezet om ondersteuning te bieden bij het operationaliseren van de Europese Datastrategie. De DSSC is erop gericht om te monitoren welke behoeften er spelen binnen alle verschillende dataspaces en die te behartigen, en om randvoorwaarden en best practices te verkennen. Ze kijkt daarbij naar een breed palet aan stakeholders, en richt zich erop om partijen samen te brengen zoals MKB uit verschillende sectoren, publieke partijen, standardisatie organisaties, toezichthouders, onderzoekers, innovatiehubs, en andere vergelijkbare projecten. Daarmee positioneert de DSSC zich in feite als spil tussen de partijen uit de publieke sector waar High Value Datasets van afkomstig zijn, en de technische infrastructuur die nodig is voor het laten functioneren en implementeren van de dataspaces. 
 
-*Missie*
-- De opzet en scale-up processen van dataspaces versnellen
-- Het creëren en beschikbaar maken van generieke organisatorische en technische hulpmiddelen bij het opzetten van dataspaces
-- Dataspaces laten aansluiten bij de domein-specifieke uitdagingen binnen het bedrijfsleven en commerciële voordelen te faciliteren voor de deelnemers
+**Missie**
+* De opzet en scale-up processen van dataspaces versnellen
+* Het creëren en beschikbaar maken van generieke organisatorische en technische hulpmiddelen bij het opzetten van dataspaces
+* Dataspaces laten aansluiten bij de domein-specifieke uitdagingen binnen het bedrijfsleven en commerciële voordelen te faciliteren voor de deelnemers
 
-Hierin ligt ook een speciale focus op interoperabiliteit via:
-- Zorg dragen dat deelnemers van een dataspace ook aan andere dataspaces kunnen deelnemen
-- Het creëren van 'schaal-economieën' and synergie op Europees niveau
-- Het nastreven van standardisatie tussen dataspaces
+Hierin ligt ook een speciale focus op *interoperabiliteit* via:
+* Zorg dragen dat deelnemers van een dataspace ook aan andere dataspaces kunnen deelnemen
+* Het creëren van 'schaal-economieën' and synergie op Europees niveau
+* Het nastreven van standardisatie tussen dataspaces
 
 
 
-De 3 hoofdtaken van de DSSC zijn:
+**Kerntaken**
 1. Het opzetten en beheren van een netwerk van stakeholders (door nauw samen te werken met CSAs en projecten gefinancierd door DIGITALEUROPE)
 2. Het identificeren van gedeelde randvoorwaarden voor het opzetten van dataspaces (door bijvoorbeeld het ondersteunen van de European Data Innovation Board)
 3. Het opzetten van een platform voor kennisdeling gericht op de ondersteuning van het opzetten van dataspaces
