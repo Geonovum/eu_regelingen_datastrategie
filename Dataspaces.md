@@ -8,7 +8,7 @@ Wat een dataspace precies is en hoe het zal worden, is nog niet duidelijk. Het w
 * een technische infrastructuur die voor iedereen toegankelijk is en veilige uitwisseling en gebruik mogelijk maakt. Dit is voorzien als een gefedereerde cloud-omgeving (hier is een relatie met bijvoorbeeld Gaia-X [^1]). 
 * gereedschappen voor gebruik en delen
 * generieke data governance afspraken en standaarden, waarin de Data Innovation Board uit de Data Governance Act (DGA) een rol speelt, en sectorale governance afspraken die gangbaar zijn binnen een toepassingsgebied
-* heldere gebruikscondities (naar verwachting nader uitgewerkt in de komende [Data Act](#data-act-da)
+* heldere gebruikscondities (naar verwachting nader uitgewerkt in de komende [Data Act](#data-act-da))
 
 Open data, zoals de [High Value Data lijst](#high-value-data-lijst) uit de Open Data Directive, en bronnen als [INSPIRE](#inspire-richtlijn) voeden de dataspace.
 

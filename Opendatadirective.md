@@ -25,7 +25,7 @@ De eerste lijst omvat verplichtingen voor de data-domeinen (zoals beschreven in 
 * Meteorologie
 * Mobiliteit
 
-De verplichtingen voor geo-data en aardobservatie/milieu een open data verplichting toe aan een reeks [INSPIRE](#inspire-richtlijn) thema's.
+De verplichtingen voegen voor geo-data en aardobservatie/milieu een open data verplichting toe aan een reeks [INSPIRE](#inspire-richtlijn) thema's.
 
 In 2022 komt naar verwachting ook een voorstel voor een nieuwe lijst thema's tot stand, waarvoor over enkele jaren dan nieuwe verplichtingen zullen volgen. Die nieuwe thema's betreffen mogelijk energie, gezondheidszorg, overheid en publieke diensten, taal, klimaatverandering, recht en justitie, en economie.
 
