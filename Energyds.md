@@ -5,7 +5,7 @@ De gemeenschappelijke Europese data space voor energie, is bedoeld om een sterke
 In de energiesector regelen verschillende Richtlijnen voor klanten de toegang en portabiliteit van hun energiemeterdata en -consumptiedata op een transparante en non-discriminatoire manier, en in overeenstemming met dataprotectie wetten (AVG). De precieze data governance raamwerken zullen op nationaal niveau moeten worden geregeld. Wetgeving heeft ook verplichting tot datadelen geïntroduceerd voor netwerkbeheerders.
 T.a.v. digitale veiligheid, is er werk in uitvoering om energie-specifieke uitdagingen aan te gaan, met name: real-time vereisten, cascade effecten, en de mix van bestaande oudere technologie met slimme huidige technologie.
 
-De EC zal al deze aspecten aanpakken als onderdeel van de Smart sector integration strategy ([PDF](https://ec.europa.eu/energy/sites/ener/files/energy_system_integration_strategy_.pdf)), die in juli 2020 is verschenen, en was aangekondigd als onderdeel van de Green Deal.
+De EC zal al deze aspecten aanpakken als onderdeel van de Smart sector integration strategy ([PDF](https://energy.ec.europa.eu/document/download/f7a18d50-acf6-424d-9845-f5b2b4b1a12c_en?filename=energy_system_integration_strategy_.pdf)), die in juli 2020 is verschenen, en was aangekondigd als onderdeel van de Green Deal.
 
 ### Acties
 De EC zal:
