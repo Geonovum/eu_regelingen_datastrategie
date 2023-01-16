@@ -41,4 +41,4 @@ Ook wordt gesproken over de 'persoonlijke dataspace', die het mogelijk maakt om 
 
 In de Communicatie van de EC over de [Europese Data Strategie](#europese-data-strategie) van februari 2020 worden er per dataspace details gegeven en eerste stappen benoemd. Meer details zijn te vinden in het hoofdstuk [Uitwerking van de Dataspaces](#uitwerking-van-de-dataspaces).
 
-[^1]: [GAIA-X]((https://www.gaia-x.eu/)) is een project om een efficiënte en concurrerende, veilige en betrouwbare data-infrastructuur voor de Europese Unie te ontwikkelen. Het is een Frans-Duits initiatief met een Europese dimensie, gesteund door 22 bedrijven. Het project werd officieel gelanceerd op 4 juni 2020.
+[^1]: [GAIA-X](https://www.gaia-x.eu/) is een project om een efficiënte en concurrerende, veilige en betrouwbare data-infrastructuur voor de Europese Unie te ontwikkelen. Het is een Frans-Duits initiatief met een Europese dimensie, gesteund door 22 bedrijven. Het project werd officieel gelanceerd op 4 juni 2020.
