@@ -78,10 +78,11 @@ De werking strekt zich uit over:
 
 Hiermee richt het zich niet alleen op partijen die in de EU gevestigd zijn.
 
-Onder AI wordt verstaan wat op een telkens aan te passen lijst van technieken en methoden staat. Bij publicatie van het voorstel staan de volgende technieken daar op:
+Wat onder AI wordt verstaan was in het eerste voorstel wat op een telkens aan te passen lijst van technieken en methoden staat. Bij publicatie van het voorstel stonden de volgende technieken daar op:
 * Machineleren aanpakken ((un)supervised learning, reinforcement learning, deep learning)
 * Logica en kennisgebaseerde aanpakken (knowledge representation, inductive (logic) programming, knowledge bases, inference and deductive engines, (symbolic) reasoning and expert systems)
 * Statistische aanpakken (Bayesian estimation, search and optimization methods)
+Het lijkt er op dat er wel een definitie van wat onder AI wordt verstaan direct als artikel in de AI Regulation zal worden opgenomen. Dit omdat de definitie, naar mening van de Raad en EP, centraal staat voor de primaire wetgeving en daarom niet in de secundaire wetgeving (de Annex) pas moet worden gegeven. Dit maakt van de definitie een veel meer politieke discussie, en veel minder een technisch begrip.
 
 De afweging van risico's van AI toepassingen worden gemaakt t.o.v. de mate waarin het individuele rechten of de veiligheid aantast. Toepassingen worden ingedeeld in verboden toepassingen, hoog-risico toepassingen en overige toepassingen.
 
@@ -131,7 +132,7 @@ Aan hoog-risico toepassingen worden diverse eisen gesteld om te kunnen worden to
 
 Providers, distributeurs en gebruikers van toepassingen moeten t.a.v. die eisen een actieve 'boekhouding' voeren als kwaliteitssysteem, en hebben een informatieplicht naar de overheid. 
 
-Elk land krijgt een AI toezichtsorgaan, analoog aan de Autoriteit Persoonsgegevens in AVG, en er gelden meldingsplichten. Er komt een Europese AI board die ook Europese instellingen kan beboeten.
+Elk land krijgt een AI toezichtsorgaan, analoog aan de Autoriteit Persoonsgegevens in AVG, en er gelden meldingsplichten. Er komt een Europese AI board die ook Europese instellingen kan beboeten. Vooruitlopend op de AI Regulation is per 1 januari 2023 in Nederland de Autoriteit Persoonsgegevens aangewezen als AI toezichtsorgaan, gelijktijdig met de lancering van een [landelijk Algoritmeregister](https://algoritmes.overheid.nl/).
 Toegelaten hoogrisico-toepassingen krijgen voor maximaal 5 jaren een CE keurmerk, dat kan worden verlengd.
 Van alle toegelaten hoogrisico toepassingen komt er een openbare Europese database.
 Voor toepassingen met een lager risico wordt een code of conduct aangemoedigd.
