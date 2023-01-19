@@ -10,10 +10,12 @@ Er zitten enkele nieuwe elementen in de Richtlijn:
 * Een van die mogelijkheden van de EC is het bijhouden van een 'EU High Value Data' lijst, die aan alle Lidstaten een verplichting tot publiceren van data oplegt. Hieronder wordt de High value Data lijst nader toegelicht.
 
 ### High Value Data lijst
-De Open Data Directive geeft de EC de mogelijkheid met een Uitvoeringsverordening open data verplichtingen op te leggen aan alle Lidstaten tegelijkertijd (dus zonder omzetting in nationale wetgeving). Zo'n Uitvoeringsverordening vermeldt hoe en onder welke voorwaarden de verplichte open data moet worden gepubliceerd, en verstrekt in een bijlage de EU High Value Data lijst zelf. 
+De Open Data Directive geeft de EC de mogelijkheid met een Uitvoeringsverordening open data verplichtingen op te leggen aan alle Lidstaten tegelijkertijd (dus zonder omzetting in nationale wetgeving). Zo'n uitvoeringsverordening vermeldt hoe en onder welke voorwaarden de verplichte open data moet worden gepubliceerd, en verstrekt in een bijlage de EU High Value Data lijst zelf. 
 Data, die op de EU High Value Data lijst wordt genoemd, moet verplicht door alle Lidstaten, mits voorhanden, als open data worden gepubliceerd en ontsloten via APIs (zoals beschreven in hoofdstuk 5 van de [ODD](#open-data-directive)).
 
-De eerste editie van High Value Data lijst had er tijdig voor de transpositie-deadline van de ODD zelf moeten zijn, maar heeft politiek vertraging opgelopen. De EC heeft op 24 mei 2022 het voorstel gepubliceerd voor de eerste [EU High Value Datalijst](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12111-Open-data-availability-of-public-datasets_en). Eind juni sloot een publieke feedbackronde. Begin september is een bijeenkomst met de Lidstaten geweest waarna nog een korte feedbackronde langs de EU diensten is gevolgd. In november vond een laatste peiling van de Lidstaten plaats (25 voor, 2 onthouding) en de wet wordt nu voor publicatie gereed gemaakt. Publicatie zal nog in december 2022 plaatsvinden. De wet gaat in 20 dagen na publicatie, en de open data eisen zouden dan uiterlijk 16 maanden later, d.w.z. per april 2024 door iedere Lidstaat vervuld moeten zijn. In Nederland beschouwen de leden van het Tactisch Beraad de implementatieperiode van de High Value Data lijst feitelijk als begonnen. Vanuit het Ministerie van Binnenlandse Zaken is een uitvoeringstoets gevraagd aan de betrokken datahouders.
+De eerste editie van High Value Data lijst had er tijdig voor de transpositie-deadline van de ODD zelf moeten zijn, maar heeft politiek vertraging opgelopen. De EC heeft op 24 mei 2022 het voorstel gepubliceerd voor de eerste [EU High Value Datalijst](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12111-Open-data-availability-of-public-datasets_en). Eind juni sloot een publieke feedbackronde. Begin september is een bijeenkomst met de Lidstaten geweest waarna nog een korte feedbackronde langs de EU diensten is gevolgd. In november vond een laatste peiling van de Lidstaten plaats (25 voor, 2 onthouding). 
+
+Op 21 december 2022 is de uitvoeringsverordeing [gepubliceerd](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=PI_COM:C(2022)9562&from=EN). De uitvoeringsverordening gaat in 20 dagen na publicatie. De open data eisen moeten uiterlijk 16 maanden later, d.w.z. per april 2024 door iedere Lidstaat vervuld moeten zijn. In Nederland beschouwen de leden van het Tactisch Beraad de implementatieperiode van de High Value Data lijst feitelijk als begonnen. Vanuit het Ministerie van Binnenlandse Zaken is een uitvoeringstoets gevraagd aan de betrokken datahouders.
 
 In komende jaren wordt de lijst periodiek aangevuld door de EC, met nieuwe data-domeinen en mogelijke uitbreiding binnen al benoemde domeinen.
 
@@ -25,9 +27,9 @@ De eerste lijst omvat verplichtingen voor de data-domeinen (zoals beschreven in 
 * Meteorologie
 * Mobiliteit
 
-De verplichtingen voegen voor geo-data en aardobservatie/milieu een open data verplichting toe aan een reeks [INSPIRE](#inspire-richtlijn) thema's.
+De verplichtingen voegen voor geo-data, aardobservatie/milieu en mobiliteit een open data verplichting toe aan een reeks [INSPIRE](#inspire-richtlijn) thema's.
 
-In 2022 komt naar verwachting ook een voorstel voor een nieuwe lijst thema's tot stand, waarvoor over enkele jaren dan nieuwe verplichtingen zullen volgen. Die nieuwe thema's betreffen mogelijk energie, gezondheidszorg, overheid en publieke diensten, taal, klimaatverandering, recht en justitie, en economie.
+In 2023 komt naar verwachting ook een voorstel voor een nieuwe lijst thema's tot stand, waarvoor over enkele jaren dan nieuwe verplichtingen zullen volgen. Die nieuwe thema's betreffen mogelijk energie, gezondheidszorg, overheid en publieke diensten, taal, klimaatverandering, recht en justitie, en economie.
 
 #### Inhoud uitvoeringsverordening
 De uitvoeringsverordening bepaalt in haar bijlage (Annex I) welke overheidsdata verplicht als open data moet worden gepubliceerd. Voor die datasets bepaalt de wet de eisen die worden gesteld aan publicatie en gebruik van die datasets, waaronder de minimumvereisten aan ontsluiting via een API. Het staat landen vrij verder te gaan dan de implementatiewet voorschrijf, en t.a.v. de hoeveelheid data worden landen daartoe ook expliciet aangemoedigd. Unie of nationale wettelijke vereisten die verder gaan blijven onverminderd van kracht.
@@ -52,10 +54,10 @@ De uitvoeringsverordening bepaalt in haar bijlage (Annex I) welke overheidsdata 
 ##### Mobiliteit
 Dit is in de context van de ODD een klein thema, omdat heel veel gegevens al vallen onder de ITS Richtlijn (Intelligent Transport Services) en buiten scope van de Open Data Directive zijn geplaatst.
 
-In scope is het INSPIRE thema Transport Networks (Annex I). Daarnaast zijn voor _binnenlandse_ waterwegen statische data, dynamische data (zoals profielen), en electronische navigatiekaarten (ENC) aangemerkt voor publicatie als open data, voor die landen die vallen onder de Richtlijn 2005/44/EC m.b.t. ‘harmonised river information services on inland waterways’.
+In scope is het INSPIRE thema Vervoersnetwerken (Annex I). Daarnaast zijn voor _binnenlandse_ waterwegen statische data, dynamische data (zoals profielen), en electronische navigatiekaarten (ENC) aangemerkt voor publicatie als open data, voor die landen die vallen onder de Richtlijn 2005/44/EC m.b.t. ‘harmonised river information services on inland waterways’.
 
 ##### Geodata
-De volgende vijf INSPIRE thema’s uit INSPIRE Annex I krijgen een open data verplichting:
+Vier INSPIRE thema’s uit INSPIRE Annex I en één thema uit annex III krijgen een open data verplichting:
 
 - Administratieve eenheden
 - Geografische namen
@@ -71,11 +73,11 @@ Anderzijds zowel omdat slechts weinig lidstaten hun eigen satellietdata verzamel
 De kwalificatie die ze erna aan toevoegen dat het gaat om data in de scope van INSPIRE thema’s is voor nu afdoende om satellietgegevens buiten scope te plaatsen van de eerste verplichtingen, terwijl de inclusie van satellietgegevens in de wetstekst wel toekomstvastheid garandeert.
 
 Aangemerkt voor dit thema worden 19 INSPIRE thema’s:
-Twee thema's uit INSPIRE Annex I: Hydrography en Protected sites.
-Heel INSPIRE Annex II: Elevation, Geology, Land cover, Ortho-imagery
-Dertien van de eenentwinting thema's uit INSPIRE Annex III: Area management, Bio-geographical regions, Energy resources, Environmental monitoring facilities, Habitats and biotopes, Land Use, Mineral Resources, Natural Risk Zones, Oceanographic geographical features, Production and industrial facilities, Sea regions, Soil, Species distribution
+Twee thema's uit INSPIRE Annex I: Hydrografie en Beschermde gebieden.
+Heel INSPIRE Annex II: Hoogte, Geologie, Bodemgebruik en Orthobeeldvorming.
+Dertien van de eenentwinting thema's uit INSPIRE Annex III: Gebiedsbeheer, Biogeografische gebieden, Energiebronnen, Milieubewakingsvoorzieningen, Habitats en biotopen, Landgebruik, Minerale bronnen, Gebieden met natuurrisico’s, Oceanografische geografische kenmerken, Faciliteiten voor productie en industrie, Zeegebieden, Bodem en Spreiding van soorten.
 
-Samen met Geospatial en Mobiliteit krijgen dus 25 van de 34 INSPIRE thema's een open data verplichting opgelegd. Hiermee wordt INSPIRE een belangrijke open data bron voor de Europese dataspace(s).
+Samen met Geodata en Mobiliteit krijgen dus 25 van de 34 INSPIRE thema's een open data verplichting opgelegd. Hiermee wordt INSPIRE een belangrijke open data bron voor de Europese dataspace(s).
 
 Daarnaast is alle milieu-informatie in scope zoals genoemd in Directive 2003/4/EC over publieke toegang tot milieu-informatie. Te publiceren data is ook die data die (door monitoring- en rapportageverplichtingen) ontstaat in de context van expliciet genoemde artikelen uit 31 milieugerelateerde EU Directives en Regulations, t.a.v. lucht, klimaat, emissies, natuurbehoud en biodiversiteit, geluid, afval, water en twee stukken horizontale wetgeving. Afwezig in die specifieke opsomming van onderwerpen is het thema Bodem, al wordt dat wel door het betreffende INSPIRE thema en Verordening 2003/4/EC over toegang tot milieu-informatie ingevuld.
 
