@@ -15,7 +15,7 @@ Data, die op de EU High Value Data lijst wordt genoemd, moet verplicht door alle
 
 De eerste editie van High Value Data lijst had er tijdig voor de transpositie-deadline van de ODD zelf moeten zijn, maar heeft politiek vertraging opgelopen. De EC heeft op 24 mei 2022 het voorstel gepubliceerd voor de eerste [EU High Value Datalijst](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12111-Open-data-availability-of-public-datasets_en). Eind juni sloot een publieke feedbackronde. Begin september is een bijeenkomst met de Lidstaten geweest waarna nog een korte feedbackronde langs de EU diensten is gevolgd. In november vond een laatste peiling van de Lidstaten plaats (25 voor, 2 onthouding). 
 
-Op 21 december 2022 is de uitvoeringsverordeing [gepubliceerd](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=PI_COM:C(2022)9562&from=EN). De uitvoeringsverordening gaat in 20 dagen na publicatie. De open data eisen moeten uiterlijk 16 maanden later, d.w.z. per april 2024 door iedere Lidstaat vervuld moeten zijn. In Nederland beschouwen de leden van het Tactisch Beraad de implementatieperiode van de High Value Data lijst feitelijk als begonnen. Vanuit het Ministerie van Binnenlandse Zaken is een uitvoeringstoets gevraagd aan de betrokken datahouders.
+Op 21 december 2022 is de uitvoeringsverordening [gepubliceerd](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=PI_COM:C(2022)9562&from=EN). De uitvoeringsverordening gaat in 20 dagen na publicatie. De open data eisen moeten uiterlijk 16 maanden later, d.w.z. per april 2024 door iedere Lidstaat vervuld zijn. In Nederland zijn de leden van het Tactisch Beraad de implementatieperiode van de High Value Data lijst feitelijk al eerder begonnen. Vanuit het Ministerie van Binnenlandse Zaken is een uitvoeringstoets gevraagd aan de betrokken datahouders.
 
 In komende jaren wordt de lijst periodiek aangevuld door de EC, met nieuwe data-domeinen en mogelijke uitbreiding binnen al benoemde domeinen.
 
@@ -27,7 +27,7 @@ De eerste lijst omvat verplichtingen voor de data-domeinen (zoals beschreven in 
 * Meteorologie
 * Mobiliteit
 
-De verplichtingen voegen voor geo-data, aardobservatie/milieu en mobiliteit een open data verplichting toe aan een reeks [INSPIRE](#inspire-richtlijn) thema's.
+De verplichtingen voegen voor geo-data, aardobservatie/milieu en mobiliteit een open data verplichting toe aan een reeks [INSPIRE](#inspire-richtlijn) thema's (25 v.d. 34).
 
 In 2023 komt naar verwachting ook een voorstel voor een nieuwe lijst thema's tot stand, waarvoor over enkele jaren dan nieuwe verplichtingen zullen volgen. Die nieuwe thema's betreffen mogelijk energie, gezondheidszorg, overheid en publieke diensten, taal, klimaatverandering, recht en justitie, en economie.
 
