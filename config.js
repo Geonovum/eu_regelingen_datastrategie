@@ -56,7 +56,7 @@ var respecConfig =
   format: "markdown",                 // altijd "markdown" - JvG W3C aangepast, op 1 plek markdown aangeven    
   //-- publishDate is verplicht -------------------------------------------------------
   //-- NB: in de werkversie uitzetten, want dan pakt Respec de pushdate ---------------
-  publishDate: "2023-01-24",  	    // Format is "YYYY-MM-DD"
+  //publishDate: "2023-01-24",  	    // Format is "YYYY-MM-DD"
   //-- Repositorynaam op GitHub -------------------------------------------------------
   github: "https://github.com/geonovum/eu_regelingen_datastrategie",
   //-- Repositorynaam/issues op GitHub ------------------------------------------------
