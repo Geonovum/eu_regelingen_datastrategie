@@ -13,7 +13,7 @@ Wat een dataspace precies is en hoe het zal worden, is nog niet duidelijk. Het w
 T.a.v. de generieke aspecten van een dataspace publiceren we de [Verkenning dataspaces](https://docs.geostandaarden.nl/eu/VerkenningDataspaces/).
 
 De manier waarop de EC de eenheidsmarkt voor data wil vormen, is middels sectorale dataspaces, die vervolgens onderling interoperabel zijn. 
-Binnen sectoren en thema's zijn er meer al geldende afspraken t.a.v. standaarden en professionele normen t.a.v. omgang met data, die telkens gebaseerd zijn op de context van die sector. Een dataspace bouwt daar dan op voort.
+Binnen sectoren en thema's zijn er vaak meer al geldende afspraken t.a.v. standaarden en professionele normen t.a.v. omgang met data, die telkens gebaseerd zijn op de context van die sector. Een dataspace bouwt daar dan op voort, zowel om dubbel werk te voorkomen als om de vorming van dataspaces te versnellen.
 
 ![eudataspacesill.png](media/eudataspacesill.png)
 
