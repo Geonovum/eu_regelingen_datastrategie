@@ -8,9 +8,9 @@ Wat een dataspace precies is en hoe het zal worden, is nog niet duidelijk. Het w
 * een technische infrastructuur die voor iedereen toegankelijk is en veilige uitwisseling en gebruik mogelijk maakt. Dit is voorzien als een gefedereerde cloud-omgeving (hier is een relatie met bijvoorbeeld Gaia-X [^1]). 
 * gereedschappen voor gebruik en delen
 * generieke data governance afspraken en standaarden, waarin de Data Innovation Board uit de Data Governance Act (DGA) een rol speelt, en sectorale governance afspraken die gangbaar zijn binnen een toepassingsgebied
-* heldere gebruikscondities (naar verwachting nader uitgewerkt in de komende [Data Act](#data-act-da))
+* heldere gebruikscondities (deels nader uitgewerkt in de komende [Data Act](#data-act-da))
 
-Open data, zoals de [High Value Data lijst](#high-value-data-lijst) uit de Open Data Directive, en bronnen als [INSPIRE](#inspire-richtlijn) voeden de dataspace.
+T.a.v. de generieke aspecten van een dataspace publiceren we de [Verkenning dataspaces](https://docs.geostandaarden.nl/eu/VerkenningDataspaces/).
 
 De manier waarop de EC de eenheidsmarkt voor data wil vormen, is middels sectorale dataspaces, die vervolgens onderling interoperabel zijn. 
 Binnen sectoren en thema's zijn er meer al geldende afspraken t.a.v. standaarden en professionele normen t.a.v. omgang met data, die telkens gebaseerd zijn op de context van die sector. Een dataspace bouwt daar dan op voort.
@@ -39,6 +39,8 @@ Maar ook wordt er gesproken over dataspaces voor:
 
 Ook wordt gesproken over de 'persoonlijke dataspace', die het mogelijk maakt om als individu of organisatie gegevens voor een specifiek gebruiksgeval (tijdelijk) in te brengen. (Een voorbeeld zou kunnen zijn, dat je je eigen mobiliteitsgegevens meeneemt naar een discussie over een nieuwe busroute of rondweg in je wijk). Vanuit een persoonlijke dataspace kan ook het in de [Data Governance Act (DGA)](#data-governance-act-dga) genoemde 'data-altruïsme' worden vormgegeven. Data-altruïsme is het beschikbaar stellen van gegevens voor algemeen nut aan een beherende erkende organisatie die toeziet op het juiste gebruik van die gegevens. 
 
-In de Communicatie van de EC over de [Europese Data Strategie](#europese-data-strategie) van februari 2020 worden er per dataspace details gegeven en eerste stappen benoemd. Meer details zijn te vinden in het hoofdstuk [Uitwerking van de Dataspaces](#uitwerking-van-de-dataspaces).
+In de Communicatie van de EC over de [Europese Data Strategie](#europese-data-strategie) van februari 2020 worden er per dataspace details gegeven en eerste stappen benoemd. Meer details  over de sectorale dataspaces zijn te vinden in het hoofdstuk [Uitwerking van de Dataspaces](#uitwerking-van-de-dataspaces). Voor generieke informatie over zichtbare algemene dataspace initiatieven zie ook de [Verkenning dataspaces](https://docs.geostandaarden.nl/eu/VerkenningDataspaces/).
+
+Open data, zoals de [High Value Data lijst](#high-value-data-lijst) uit de Open Data Directive, en bronnen als [INSPIRE](#inspire-richtlijn) voeden de dataspace.
 
 [^1]: [GAIA-X](https://www.gaia-x.eu/) is een project om een efficiënte en concurrerende, veilige en betrouwbare data-infrastructuur voor de Europese Unie te ontwikkelen. Het is een Frans-Duits initiatief met een Europese dimensie, gesteund door 22 bedrijven. Het project werd officieel gelanceerd op 4 juni 2020.

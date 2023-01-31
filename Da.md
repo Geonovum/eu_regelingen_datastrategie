@@ -1,6 +1,6 @@
 ## Data Act  (DA)
 Het voorstel voor de Data Act (DA, *Data verordening*) is gepubliceerd op 23-02-2022. 
-In de zomer van 2021 vond een publieke consultatie plaats voor de Data Act. De Data Act is bedoeld om meer data, in handen van bedrijven of gegenereerd door producten of diensten, onder eerlijke en uniforme regels beschikbaar te krijgen voor (her)gebruik.
+In de zomer van 2021 vond een publieke consultatie plaats voor de Data Act. Onder het Zweeds EU-voorzitterschap in de eerste helft van 2023 wordt getracht de laatste openstaande onderhandelingspunten op te lossen en overeenstemming te bereiken tussen de Lidstaten.  De Data Act is bedoeld om meer data, in handen van bedrijven of gegenereerd door producten of diensten, onder eerlijke en uniforme regels beschikbaar te krijgen voor (her)gebruik.
 
 ### Onderwerpen en scope
 De DA stelt EU-brede geharmoniseerde regels met betrekking tot:
