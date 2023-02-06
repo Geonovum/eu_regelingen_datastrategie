@@ -9,9 +9,11 @@ De Europese Green Deal wijst nadrukkelijk op de noodzaak van digitale transforma
 
 ### Andere Verordeningen
 #### Interoperable Europe Act
-Op 18 november 2022 publiceerde de Europese Commissie het voorstel voor de Interoperabel Europa verordening (Interoperable Europe Act). 
 
-Met dit voorstel wil de Commissie een efficiëntere en veiligere uitwisseling van gegevens tussen de netwerk- en informatiesystemen van overheidsdiensten bewerkstelligen. 
+Op 18 november 2022 publiceerde de Europese Commissie het voorstel voor de Interoperabel Europa verordening (Interoperable Europe Act).  In januari 2023 is er een [beslisnota](https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2023Z00761&did=2023D01789) aan de Tweede Kamer gestuurd waarin positief wordt geadviseerd over deze Verordening en het Kabinet aangeeft van plan te zijn te pleiten voor een Europees centraal dienstenregister in het kader van deze verordening, ter bespreking in de vaste commissie Digitale Zaken op 8 februari 2023.
+
+De Commissie ziet het reguleren van internationale interoperabiliteit van overheidsdiensten als fundamentele voorwaarde voor het verder ontwikkelen en vervolmaken van de digitale eenheidsmarkt. Betere internationale interoperabiliteit in de publieke sector creëert innovatiekansen, maakt betere planning mogelijk bijvoorbeeld in crisissituaties, en versterkt de technologische soevereiniteit van de EU.
+
 De Verordening heeft 3 doelstellingen:
 1. Zorgen voor een consistente, mensgerichte Europese benadering van interoperabiliteit, van beleidsvorming tot beleidsuitvoering.
 2. Een governancestructuur voor interoperabiliteit opzetten die overheidsdiensten op alle niveaus en in alle sectoren, als ook particuliere belanghebbenden, in staat moet stellen samen te werken — met een duidelijke opdracht om overeenstemming te bereiken over gedeelde interoperabiliteitsoplossingen (bv. kaders, open specificaties, open normen, toepassingen of richtsnoeren);
@@ -24,18 +26,19 @@ De Verordening is van toepassing op alle publieke instellingen die informatiesys
 Het voorstel voorziet in de ontwikkeling van een Europees interoperabiliteitskader, dat steunt op vier pilaren:
 1. De vorming van een 'Interoperabel Europa-raad', waarin de Lidstaten met de EC werken aan de ontwikkeling van een gemeenschappelijke strategische agenda voor grensoverschrijdende interoperabiliteit, aan ondersteuning bij het implementeren van interoperabiliteitsoplossingen, en aan monitoring van de voortgang.
 2. Verplichtingen t.a.v. rapportagegegevens om de impact van interoperabiliteitsmaatregelen te kunnen meten.
-3. Een 'Interoperabel Europa-portaal' dat als referentiepunt dient voor interoperabiliteitsoplossingen, en dient voor kennisdelen en interactie tussen gebruikersgroepen.
-4. Aanvullende maatregelen zoals rechtskaders voor het delen en gebruiken van open aanbevolen interoperabiliteitsoplossingen en technologie voor openbaar bestuur ('GovTech').
+3. Een 'Interoperabel Europa-portaal' dat als vindplaats dient voor herbruikbare interoperabiliteitsoplossingen, en kennisdelen en interactie tussen gebruikersgroepen mogelijk maakt.
+4. Aanvullende maatregelen zoals rechtskaders voor het delen en gebruiken van open aanbevolen interoperabiliteitsoplossingen en technologie voor openbaar bestuur (De Commissie schaart dit onder 'GovTech', de op technologie gebaseerde samenwerking tussen de publieke en private sector ter ondersteuning van de digitale transformatie in de publieke sector).
 
 In het voorstel wordt onderscheid gemaakt tussen 
 a) juridische interoperabiliteit (rechtskaders die interoperabiliteit niet belemmeren), 
-b) organisatorische interoperabiliteit (doeltreffende coördinatie tussen de openbare lichamen) en 
-c) semantische interoperabiliteit (begrip en bewaren van formaat en betekenis van uitgewisselde gegevens). 
+b) organisatorische interoperabiliteit (doeltreffende coördinatie tussen de openbare lichamen) 
+c) semantische interoperabiliteit (begrip en bewaren van formaat en betekenis van uitgewisselde gegevens) en
+d) technische interoperabiliteit. 
 De Commissie stelt dat op al deze gebieden een hoog niveau van interoperabiliteit van de overheidssector nodig is.
 
-Interoperabiliteitsoplossingen zijn alle technische specificaties (inclusief een standaard, conceptueel raamwerk, handreikingen, toepassingen) die juridische, organisatorische, semantische of technische vereisten beschrijven aan een informatiesysteem om grensoverschrijdende interoperabiliteit te versterken.
+Interoperabiliteitsoplossingen zijn alle technische specificaties (zoals een standaard, conceptueel raamwerk, handreikingen, toepassingen en waar van toepassing gedocumenteerde broncode) die juridische, organisatorische, semantische of technische vereisten beschrijven aan een informatiesysteem om grensoverschrijdende interoperabiliteit te versterken.
 
-De Verordening noemt wel dat het een bouwsteen is voor een digitale eenheidsmarkt, maar verwijst niet direct naar bijvoorbeeld de dataspaces.
+De Verordening noemt wel dat het een fundamentele bouwsteen is voor een digitale eenheidsmarkt, maar verwijst niet direct naar bijvoorbeeld de dataspaces.
 
 ### Andere Richtlijnen
 Hoewel nog niet alle voorgestelde Verordeningen van kracht zijn, worden al wel andere Europese Richtlijnen aangepast in de zin van die Verordeningen. Dit betekent dat het nuttig is om voor de eigen organisatie van toepassing zijnde Richtlijnen te volgen voorzover deze in de komende tijd worden geëvalueerd of vernieuwd.
