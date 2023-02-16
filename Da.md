@@ -1,6 +1,6 @@
 ## Data Act  (DA)
-Het voorstel voor de Data Act (DA, *Data verordening*) is gepubliceerd op 23-02-2022. 
-In de zomer van 2021 vond een publieke consultatie plaats voor de Data Act. Onder het Zweeds EU-voorzitterschap in de eerste helft van 2023 wordt getracht de laatste openstaande onderhandelingspunten op te lossen en overeenstemming te bereiken tussen de Lidstaten.  De Data Act is bedoeld om meer data, in handen van bedrijven of gegenereerd door producten of diensten, onder eerlijke en uniforme regels beschikbaar te krijgen voor (her)gebruik.
+Het [voorstel voor de Data Act](https://ec.europa.eu/commission/presscorner/detail/en/ip_22_1113) (DA, *Data verordening*) is gepubliceerd op 23-02-2022. 
+In de zomer van 2021 vond een [voorbereidende publieke consultatie](https://digital-strategy.ec.europa.eu/en/consultations/public-consultation-data-act) plaats voor de Data Act. De ITRE commissie van het Europees Parlement stemde 09-02-2023 over de Data Act, en naar verwachting volgt mid maart 2023 de algemene instemming van het Europees Parlement. Onder het Zweeds EU-voorzitterschap in de eerste helft van 2023 wordt getracht de laatste openstaande onderhandelingspunten op te lossen en overeenstemming te bereiken tussen de Lidstaten.  De Data Act is bedoeld om meer data, in handen van bedrijven of gegenereerd door producten of diensten, onder eerlijke en uniforme regels beschikbaar te krijgen voor (her)gebruik.
 
 ### Onderwerpen en scope
 De DA stelt EU-brede geharmoniseerde regels met betrekking tot:
