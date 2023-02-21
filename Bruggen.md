@@ -8,6 +8,12 @@ De EC streeft naar het maximaliseren van de maatschappelijke meerwaarde van data
 De Europese Green Deal wijst nadrukkelijk op de noodzaak van digitale transformatie en de voorgestelde EU verordeningen als instrument daarin. De [Green Deal Data space](#green-deal-data-space) krijgt als een van de eerste dataspaces vorm (met als onderdeel de herziening van de INSPIRE richtlijn) en is bouwsteen voor de digitale tweeling van de aarde (Destination Earth (DestinE) gericht op klimaatadaptatie).
 
 ### Andere Verordeningen
+
+#### Free flow of non-personal data regulation
+Deze eind 2018 aangenomen verordening over het vrije verkeer van elektronische niet-persoonsgebonden gegevens faciliteert het vrije verkeer voor gegevensverwerkingsdiensten in de EU. Particulieren en (overheids-)organisaties moeten in staat zijn om met behulp van datacentra of clouddiensten gegevens op een willekeurige plek in de EU te kunnen gebruiken, verzamelen, delen of beheren. Het stellen van locatievereisten (anders dan 'in de EU') aan het verwerken van niet-persoonsgebonden gegevens is in principe niet toegestaan (sinds 4 juni 2019). Wettelijke of bestuursrechtelijke bepalingen, of aanbestedingen mogen niet eisen dat de gegevens op een bepaalde plek worden opgeslagen/verwerkt, of dat bepaalde technologische voorzieningen die alleen binnen een specifieke lidstaat zijn gecertificeerd worden toegepast. Het vrije verkeer van gegevensverwerking is verplicht, tenzij redenen van openbare veiligheid meespelen. 
+
+Er is geen expliciete link tussen deze verordening en bijvoorbeeld de data governance act en data act, of de digitale markten of diensten verordeningen. Wel maakt deze verordening deel uit van het realiseren van een Europese eenheidsmarkt van data. Daarmee wordt onderstreept dat het denken in (sectorale) dataspaces niet gaat over het vormen van structuren of infrastructuur op nationaal niveau: Opslag en verwerking van gegevens is per definitie een pan-Europese activiteit. 
+
 #### Interoperable Europe Act
 
 Op 18 november 2022 publiceerde de Europese Commissie het voorstel voor de Interoperabel Europa verordening (Interoperable Europe Act).  In januari 2023 is er een [beslisnota](https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2023Z00761&did=2023D01789) aan de Tweede Kamer gestuurd waarin positief wordt geadviseerd over deze Verordening en het Kabinet aangeeft van plan te zijn te pleiten voor een Europees centraal dienstenregister in het kader van deze verordening, ter bespreking in de vaste commissie Digitale Zaken op 8 februari 2023.
