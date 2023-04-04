@@ -66,6 +66,9 @@ De voorgestelde verordening leest als een risicogerichte aanpak, en beschouwt de
 De DSA is door de Raad van EU Ministers in november 2021 goedgekeurd, en door het Europees Parlement in januari 2022.  In april 2022 zijn de onderhandelingen tussen deze partijen over de definitieve tekst afgerond. De eindtekst is gepubliceerd op 22 oktober 2022. De wet is daarmee van kracht, met een verschoningstijd van 15 maanden, tot 17 februari 2024.
 
 ### AI Regulation
+
+^979e5a
+
 De AI Regulation (*AI Verordening*) is voorgesteld in april 2021. De Europese Raad (d.w.z. de Lidstaten) heeft op 6 december 2022 de eigen positie m.b.t. het voorstel bepaald ([link](https://www.consilium.europa.eu/en/press/press-releases/2022/12/06/artificial-intelligence-act-council-calls-for-promoting-safe-ai-that-respects-fundamental-rights/)). Als ook het Europees Parlement dat heeft gedaan volgen de onderhandelingen over de definitieve tekst. Net als de DMA en de DSA heeft de AI Regulation in de hele EU meteen kracht van wet als het (naar verwachting eind 2023) is aangenomen. 
 
 De AI Regulation is wereldwijd het eerste wetsvoorstel in zijn soort. Net als de AVG, de DMA en DSA, is het vormgegeven als een instrument dat striktere eisen en grotere sancties koppelt aan hogere risiconiveau's.
