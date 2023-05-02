@@ -22,8 +22,8 @@ Om optimaal gebruik te maken van het potentieel van gezondheidsgegevens, heeft d
 
 Het voorstel:
 
-* ondersteunt personen die de controle over hun eigen gezondheidsgegevens willen houden
-* ondersteunt de inzet van gezondheidsgegevens voor betere gezondheidszorg, beter onderzoek en betere innovatie en beleidsvorming, en
+* ondersteunt personen die de controle over hun eigen gezondheidsgegevens willen houden (zgn. primair gebruik)
+* ondersteunt de inzet van gezondheidsgegevens voor betere gezondheidszorg, beter onderzoek en betere innovatie en beleidsvorming (zgn. secundair gebruik), en
 * stelt de EU in staat volledig gebruik te maken van de mogelijkheden om gezondheidsgegevens veilig uit te wisselen, te gebruiken en te hergebruiken.
 
 De European Health Data Space (EHDS) is een ecosysteem specifiek op het gebied van gezondheid, dat bestaat uit regels, gemeenschappelijke normen en praktijken, infrastructuren en een governancekader, met als doel:
