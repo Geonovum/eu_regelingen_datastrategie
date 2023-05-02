@@ -17,12 +17,12 @@ De DA bevat regels met betrekking tot
 - verleners van dataverwerkingsdiensten aan klanten in de EU
 
 ### B2C en B2B datadelen
-Producten en gerelateerde diensten moeten zo worden gemaakt en aangeboden dat gegevens die door het gebruik ervan ontstaan direct toegankelijk zijn voor gebruikers van die producten en diensten. 
+Producten en gerelateerde diensten moeten zo worden gemaakt en aangeboden dat gegevens die door het gebruik ervan ontstaan direct toegankelijk zijn voor gebruikers van die producten en diensten. (B2C is business-to-consumer datadelen, B2B is business-to-business datadelen.)
 Bij aanschaf, huur of lease van zo'n product of gerelateerde dienst moet de overeenkomst in gaan op hoe het precies zit met dataverzameling, toegang, gebruik, houderschap en verstrekking.
 
 Als directe toegang door gebruiker niet rechtstreeks mogelijk is moet de datahouder (producent) zorgen dat de gebruiker de gegevens kan opvragen.
 
-De gebruiker kan ook vragen / toestemming geven dat een andere derde partij de data mag gebruiken. Dit mag alleen niet een gatekeeper zijn zoals bedoeld in de DMA. Dit gebruik door derden is enigszins te vergelijken met de PSD2 richtlijn die het mogelijk maakt voor bankrekeninghouders hun bankgegevens direct te laten gebruiken door app bouwers en boekhoudpakketten bijvoorbeeld. De DA regelt in die zin 'PSD2 voor alles en iedereen'. Voor zo'n derde partij gelden een reeks voorwaarden en verboden t.a.v. hoe de data gebruikt kan worden (bijvoorbeeld niet in directe concurrentie met de producent van de data).
+De gebruiker kan ook vragen / toestemming geven dat een andere derde partij de data mag gebruiken. Dit mag alleen niet een gatekeeper zijn zoals bedoeld in de DMA. Dit gebruik door derden is enigszins te vergelijken met de Payment Service Directive richtlijn (PSD2) die het mogelijk maakt voor bankrekeninghouders hun bankgegevens direct te laten gebruiken door app bouwers en boekhoudpakketten bijvoorbeeld. De DA regelt in die zin 'PSD2 voor alles en iedereen'. Voor zo'n derde partij gelden een reeks voorwaarden en verboden t.a.v. hoe de data gebruikt kan worden (bijvoorbeeld niet in directe concurrentie met de producent van de data).
 Micro-ondernemingen en kleinbedrijf hoeven niet te voldoen aan het beschikbaar stellen van gegevens uit producten of diensten.
 
 Datadelen zoals hierboven moet plaatsvinden op basis van eerlijke niet-exclusieve en niet discriminerende voorwaarden. Contracten mogen verplichtingen tot data delen niet contractueel inperken of wegnemen. Datahouders zijn weliswaar verplicht adequate technische gegevensbescherming te regelen, maar mogen die technische bescherming niet gebruiken om de rechtmatige toegang tot gegevens moeilijker te maken.
@@ -31,7 +31,7 @@ Redelijke vergoedingen voor data delen zijn toegestaan onder voorwaarden. Voor k
 Contractuele afspraken mogen geen onevenwichtige eisen van grote datahouders aan micro-ondernemingen en kleine bedrijven bevatten, en altijd in lijn zijn met gangbare commerciële praktijken in een sector. Bijvoorbeeld mogen aansprakelijkheden van de datahouder, en klachten en bezwaarmogelijkheden niet worden ingeperkt in een contract, en mag een datahouder zich geen exclusieve rechten bijv t.a.v. de beoordeling van de correctheid van datalevering toekennen. Streven is altijd evenwichtige contractafspraken m.b.t. data delen af te dwingen.
 
 ### B2G data bij uitzonderlijke behoefte
-De overheid kan om data verzoeken bij de bedrijven, m.u.v. micro-ondernemingen en kleinbedrijf. 
+De overheid kan om data verzoeken bij de bedrijven, m.u.v. micro-ondernemingen en kleinbedrijf. (B2G is business-to-government datadelen.)
 Het moet dan wel gaan om een uitzonderlijke behoefte voor het gebruik van de gevraagde data. 
 Zo'n uitzonderlijke behoefte kan zijn het verkomen van, reageren op, en herstel na een noodsituatie. Of, waar het gebrek aan data een overheid hindert in het uitvoeren van een publieke taak in het algemeen belang die expliciet bij wet is beschreven, en die data niet langs andere weg kan worden verkregen, of die data de administratieve lasten van datahouders substantieel verkleint. Het verandert niet andere bestaande verplichtingen of regelingen t.a.v. het opvragen van gegevens door de overheid bij bedrijven (zoals bijvoorbeeld het CBS). 
 
