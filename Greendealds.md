@@ -8,7 +8,7 @@ In het kader van het Digital Europe Program is financiering beschikbaar gesteld 
 ### Door EC aangekondigde acties
 De initiatieven “GreenData4All” and “Destination Earth”  (DestinE, digitale tweeling van de aarde)  bevatten concrete acties:
 
-* GreenData4All dat bestaat uit het evalueren en eventueel aanpassen van de INSPIRE Richtlijn, samen met de Environment Information Directive (Publieke toegang tot milieu-informatie Richtlijn ). Hiermee worden die richtlijnen gemoderniseerd m.b.t. kansen technologie en innovatie.
+* GreenData4All dat bestaat uit het evalueren en eventueel aanpassen van de INSPIRE Richtlijn, samen met de Environment Information Directive (Publieke toegang tot milieu-informatie Richtlijn ). Hiermee worden die richtlijnen gemoderniseerd m.b.t. kansen voor technologie en innovatie. Zie [/#inspire-richtlijn].
 * Uitrol van herbruikbare dataservices om met grote hoeveelheden data te kunnen werken om compliance te laten zien met de milieuwetgeving en andere regels m.b.t. de acties uit de Green Deal.
 * Een common European dataspace for circular economy (deze wordt niet in de DGA genoemd) Met eerste focus op sectoren genoemd in Circular Economy Action Plan (_gebouwde omgeving, verpakking, textiel, electronica, ICT en plastic_). Daarbinnen:
 	* Ontwikkeling van architectuur en governance 
