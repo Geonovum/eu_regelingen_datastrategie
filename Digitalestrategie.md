@@ -45,7 +45,7 @@ De [Digital Services Act](https://commission.europa.eu/strategy-and-policy/prior
 * Bevat sancties die lijken op die van de AVG.
 
 Het begrip digitale diensten omvat veel verschillende zaken. Denk aan online markten, social media, content-sharing platforms, app stores, online boekingen.
-* Doorgeefdiensten, die door gebruikers verstrekt informatie in een communicatienetwerk doorgeven, of toegang verstrekken tot een communicatienetwerk
+* Doorgeefdiensten, die door gebruikers verstrekte informatie in een communicatienetwerk doorgeven, of toegang verstrekken tot een communicatienetwerk
 * Cachingdiensten, die bij het doorgeven van informatie in een communicatienetwerk deze deels en geautomatiseerd tussentijds tijdelijk opslaan, met als doel latere doorgifte.
 * Hostingdiensten, die opslag bieden voor informatie van door de gebruiker verstrekte informatie
 * Online platforms, gezien als een bijzondere vorm van hostingdiensten, die informatie verspreiden aan het publiek
