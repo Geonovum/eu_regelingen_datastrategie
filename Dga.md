@@ -15,5 +15,5 @@ Data altruïsme is het geven van toestemming voor het gebruik van persoonsgegeve
 De [ACM is volgens de EC in Nederland aangewezen (PDF)](https://ec.europa.eu/newsroom/dae/redirection/document/98966) het nationaal register voor data-altruïstische instellingen te voeren, en aanmeldingen voor het [Europese register](https://digital-strategy.ec.europa.eu/en/policies/data-altruism-organisations) te doen. In november 2023 [neemt de ACM nog geen aanmeldingen in ontvangst](https://www.acm.nl/nl/online-platforms/datadiensten/data-altruistische-organisaties), omdat de aanwijzing nog niet formeel geregeld is tussen ACM en MinBZK.
 
 ### Data Innovation Board
-Een Data Innovation Board adviseert over de werkwijzen in het kader van deze wet, standaarden, en interoperabiliteit (zie ook de [DA](#data-act-da)), en let op de internationale samenwerking tussen nationaal aangewezen bevoegde organisaties. 
+Een European Data Innovation Board (EDIB) adviseert over de werkwijzen in het kader van deze wet, standaarden, en interoperabiliteit (zie ook de [DA](#data-act-da)), en let op de internationale samenwerking tussen nationaal aangewezen bevoegde organisaties. De EDIB is samengesteld uit vertegenwoordigers van de Lidstaten en een groep experts. We weten nog niet wie als experts aan de EDIB zijn toegevoegd. De eerste bijeenkomst van de EDIB vindt in december 2023 plaats.
 
