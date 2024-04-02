@@ -1,15 +1,15 @@
 ## Europese Digitale Strategie
 
-De Europese Digitale Strategie mikt op successen in digitale transformatie in de jaren tot 2025.
+De Europese Digitale Strategie mikt op het vooruithelpen en reguleren van de  digitale transformatie in de EU.
 
-Er zijn drie juridische instrumenten door de EC voorgesteld als onderdeel van de Digitale Strategie:
+Er zijn drie juridische instrumenten door de EC opgesteld als onderdeel van de Digitale Strategie:
 
 - De Digital Markets Act (DMA, *Digitale Marktenverordening*), gericht op zogenaamde 'gatekeepers' / poortwachters met een dominante positie;
 - De Digital Services Act (DSA, *Digitale Dienstenverordening*), gericht op alle intermediaire digitale dienstverleners (inclusief de 'gatekeepers');
-- De AI Regulation (*AI verordening*), gericht op de toelating van AI producten.
+- De AI Regulation (*AI verordening*), gericht op de toelating van AI producten tot de Europese markt.
 
 ### Digital Markets Act  (DMA)
-De Digital Markets Act (DMA, *Digitale Marktenverordening*) is voorgesteld eind 2020, en op 19 oktober 2022 [gepubliceerd](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32022R2065&from=EN#d1e6411-1-1) met ingangsdatum 29 oktober. Als Verordening is de DMA direct van kracht in alle lidstaten, maar met een verschoningstijd van 16 maanden, d.w.z. tot 17 februari 2024.
+De  [Digital Markets Act](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32022R2065&from=EN#d1e6411-1-1)  (DMA, *Digitale Marktenverordening*) is ingegaan op 1 november 2022 en sinds mei 2023 van toepassing. Aangewezen zogenaamde 'gatekeepers' moesten per maart 2024 voldoen aan de bijbehorende vereisten. De DMA is een Verordening en daarmee direct van kracht in alle lidstaten. 
 
 De DMA is
 <ul>
@@ -33,11 +33,8 @@ De DMA is
     <li>Dwangsommen mogelijke tot 5% van de gemiddelde wereldwijde dagomzet van een poortwachter.</li></ul></li>
 </ul>
 
-De DMA is in november 2021 in de Raad van EU Ministers goedgekeurd en eveneens door het Europees Parlement (EP). In de eerste helft van 2022 werd nog onderhandeld tussen Raad, EP en EC over de eindtekst. Politieke overeenstemming daarover werd bereikt in maart 2022. De [eindtekst (PDF)](https://www.consilium.europa.eu/media/56086/st08722-xx22.pdf) is in mei 2022 gepubliceerd, en op 5 juli 2022 aanvaard door het EP waarna nog een laatste akkoord van de Raad volgde. Op 14 september 2022 is de wet onder Tsjechisch voorzitterschap ondertekend.
-De DMA is nu gereed en zal na een verschoningstijd van 6 maanden per het tweede kwartaal 2023 van kracht zijn.
-
 ### Digital Services Act (DSA)
-De [Digital Services Act](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act-ensuring-safe-and-accountable-online-environment_en) (DSA, *Digitale Dienstenverordening*) hangt nauw samen met de Digital Markets Act (DMA), en is net als de DMA eind 2020 voorgesteld. Het is een uitbreiding en actualisering van de EU E-commerce Directive 2000/31/EU. Die bestaande Richtlijn wordt hiermee vervangen door een Verordening en trekt zo de regels en interpretatie voor alle Lidstaten gelijk.
+De [Digital Services Act](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act-ensuring-safe-and-accountable-online-environment_en) (DSA, *Digitale Dienstenverordening*) hangt nauw samen met de Digital Markets Act (DMA), en is net als de DMA eind 2020 voorgesteld. Het is een uitbreiding en actualisering van de EU E-commerce Directive 2000/31/EU. Die bestaande Richtlijn wordt hiermee vervangen door een Verordening en trekt zo de regels en interpretatie voor alle Lidstaten gelijk. Sinds november 2022 is de DSA van kracht, en sinds februari 2024 is de wet geheel van toepassing. De Verordening is:
 
 * Gericht op een veilige digitale ruimte waarin de (grond)rechten van alle gebruikers van digitale diensten beschermd zijn.
 * Eist transparantie en verantwoording van digitale dienstverleners.
@@ -60,13 +57,11 @@ Zulke intermediaire diensten krijgen verplichtingen opgelegd die moeten leiden t
 * Meer democratische controle en toezicht over 'systeem' platforms door de maatschappij (zie ook de DMA)
 * Verzachting van maatschappelijke risico's van manipulatie en desinformatie
 
-De voorgestelde verordening leest als een risicogerichte aanpak, en beschouwt de rol van platforms waar deze systemische risico's vormen voor markt en maatschappij. Het adresseert daarbij de invloed en macht van een platform, de rol van een platform als (maatschappelijke) infrastructuur, en de afhankelijkheden in het ecosysteem van aanbieders.
-
-De DSA is door de Raad van EU Ministers in november 2021 goedgekeurd, en door het Europees Parlement in januari 2022.  In april 2022 zijn de onderhandelingen tussen deze partijen over de definitieve tekst afgerond. De eindtekst is gepubliceerd op 22 oktober 2022. De wet is daarmee van kracht, met een verschoningstijd van 15 maanden, tot 17 februari 2024.
+De verordening leest als een risicogerichte aanpak, en beschouwt de rol van platforms waar deze systemische risico's vormen voor markt en maatschappij. Het adresseert daarbij de invloed en macht van een platform, de rol van een platform als (maatschappelijke) infrastructuur, en de afhankelijkheden in het ecosysteem van aanbieders.
 
 ### AI Regulation
-De AI Regulation (*AI Verordening*) is voorgesteld in april 2021. De Europese Raad (d.w.z. de Lidstaten) heeft op 6 december 2022 de eigen positie m.b.t. het voorstel bepaald ([link](https://www.consilium.europa.eu/en/press/press-releases/2022/12/06/artificial-intelligence-act-council-calls-for-promoting-safe-ai-that-respects-fundamental-rights/)). In juni 2023 heeft ook het Europees Parlement dat in plenaire sessie gedaan (op 11 mei vond goedkeuring in de parlementscommissie plaats). 
-Begin december is er over de AI Verordening overeenstemming bereikt tussen het Europees Parlement en de Lidstaten. Er volgt nog een plenaire stemming over de finale tekst, waarschijnlijk in februari 2024. Net als de DMA en de DSA heeft de AI Regulation in de hele EU meteen kracht van wet als deze is aangenomen. Het lijkt erop dat er nog een verschoningstijd tot in 2025 zal gelden. 
+De AI Regulation (*AI Verordening*) is voorgesteld in april 2021.
+Begin december 2023 is er over de AI Verordening overeenstemming bereikt tussen het Europees Parlement en de Lidstaten, gevolgd door een plenaire goedkeuring in het Europees Parlement in maart 2024. De publicatie wordt verwacht uiterlijk in mei 2024, waarna de wet van kracht is. Net als de DMA en de DSA is de AI Regulation een Verordenign en in de hele EU van toepassing. Verschillende onderdelen hebben uiteenlopende verschoningstijden. Een deel van de wet is na 24 maanden (naar verwachting in mei 2026) van toepassing, andere delen zijn na 9 maanden (begin 2025), 12 maanden (mei 2025) en 36 maanden (mei 2027) van toepassing.
 
 De AI Regulation is wereldwijd het eerste wetsvoorstel in zijn soort. Net als de AVG, de DMA en DSA, is het vormgegeven als een instrument dat striktere eisen en grotere sancties koppelt aan hogere risiconiveau's.
 
