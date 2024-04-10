@@ -65,11 +65,11 @@ In juli 2022 is de [evaluatie van de INSPIRE richtlijn](https://ec.europa.eu/inf
 - Sommige technische specificaties daarbij eerder obstakels zijn dan hulp
 - Een deel van de regels te prescriptief en star zijn zodat niet aan veranderende technologie en behoeften tegemoet kan worden gekomen.
 
-De tijdslijn voor de herziening van de INSPIRE richtlijn is niet geheel duidelijk, maar hangt samen met de tijdslijn voor het GreenData4All initiatief in het geheel. De tijdslijn voor GreenData4All is ruwweg (stand mei 2023):
-- Q2 2023, Call for Evidence t.b.v. Impact assessment
-- Q2-Q4 2023, publieke consultatie
+De tijdslijn voor de herziening van de INSPIRE richtlijn onder de noemer GreenData4All is niet geheel duidelijk, en heeft sinds 2021 de nodige vertraging gekend. De tijdslijn voor het GreenData4All initiatief in het geheel. De [tijdslijn voor GreenData4All](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/13170-GreenData4All-updated-rules-on-geospatial-environmental-data-and-access-to-environmental-information_en) is ruwweg (stand april 2024):
+- Q1 2024, call for evidence (afgerond)
+- Q2 2024, publieke consultatie
 - Q4 2024 impact assessment en onderzoek gereed
-- Q2 2025 regeling aanvaard.
+- Q1 2025 regeling door EC voorgesteld.
 
 #### ITS Richtlijn
 De ITS Richtlijn m.b.t. intelligente vervoerssystemen wordt herzien. In december 2021 is een [voorstel](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=COM%3A2021%3A813%3AFIN) gepubliceerd, en tot maart 2022 was [openbare feedback](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12534-Intelligente-vervoerssystemen-herziening-van-EU-regels-_nl) geven mogelijk. Het is niet onwaarschijnlijk dat straks de scope over welke data deze Richtlijn iets zegt, wordt uitgebreid met 'in-vehicle' data vooral daar waar auto's met elkaar communiceren zoals in een vloot. Het is ook te verwachten dat in een herziening elementen worden opgenomen die vooruitlopen op de vorming van de [Mobility data space](#mobility-data-space), en die invulling geven aan de Smart mobility component uit de Green Deal en de bijbehorende Green Deal Dataspace. Vanuit de ITS Richtlijn kan de EC gedelegeerde verordeningen opstellen. Eén daarvan is de Real Time Traffic-Information verordening die in 2022 is herzien. Zie hierboven. Een [akkoord over een gemeenschappelijke tekst](https://ec.europa.eu/commission/presscorner/detail/en/ip_23_3101) tussen de Raad en het Europees Parlement over de ITS Richtlijn is in juni 2023 bereikt. Nu moeten beiden nog definitief akkoord gaan, waarna de definitieve richtlijn wordt gepubliceerd. Dit zal naar verwachting na de zomer van 2023 afgerond zijn.
