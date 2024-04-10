@@ -41,15 +41,15 @@ De Green Deal Missies uit Horizon Europe worden geschikt geacht om de ontwikkeli
 
 ### Datasets in beeld
 In ieder geval komen de volgende (overheids)data in beeld voor deze dataspace:
-- de aankomende Europese High Value Data, overheidsgegevens uit thema's als statistiek, (aardgebonden) aardobservatie, milieu, meteorologie, mobiliteit, en geografie die overheden straks verplicht zijn via API's als open data te ontsluiten.
+- de aangewezen Europese High Value Data, overheidsgegevens uit thema's als statistiek, (aardgebonden) aardobservatie, milieu, meteorologie, mobiliteit, en geografie die overheden vanaf juni 2024 verplicht zijn via API's als open data te ontsluiten.
 - Relevante data uit andere dataspaces, zoals landbouw en energie.
 - Maritieme gegevens door verbinding met EMODnet (het Europees marien observatie en data netwerk)
 - Geologische gegevens door verbinding met EGDI (de Europese geologische data infrastructuur)
 - INSPIRE data, zoals door Lidstaten ontsloten, en Europees ontsloten
 - Satelliet-gebaseerde aardobservatiegegevens (beelden, metingen)
 - Copernicus data, en services
-- IoT en sensordata (bijv uit de publieke ruimte)
-- Niet-openbare overheidsgegevens, op basis van de DGA
-- Gegevens van private organisaties in het algemeen belang op basis van de DA verkregen en doorgeleverd voor onderzoek en statistiek
-- Gegevens door burgers (AVG conform, en bijvoorbeeld op basis van data-altruïsme zoals in de DGA mogelijk gemaakt)
+- IoT en sensordata (bijv uit de publieke ruimte, en o.b.v. bepalingen in de Data Act)
+- Niet-openbare overheidsgegevens, op basis van de Data Governance Act
+- Gegevens van private organisaties in het algemeen belang op basis van de Data Act verkregen en doorgeleverd voor onderzoek en statistiek
+- Gegevens door burgers (AVG conform, en bijvoorbeeld op basis van data-altruïsme zoals in de Data Governance Act mogelijk gemaakt)
 
