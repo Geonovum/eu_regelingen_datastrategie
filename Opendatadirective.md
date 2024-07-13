@@ -50,7 +50,7 @@ De uitvoeringsverordening bepaalt in haar bijlage (Annex I) welke overheidsdata 
 - Data moet worden voorzien van een open licentie (publiek domein dedicatie of hooguit naamsvermeldinsvereiste. CC0, CC-BY of equivalent)
 - Gebruiksvoorwaarden van API's moeten worden gepubliceerd. Die voorwaarden mogen niet het hergebruik onnodig in de weg staan.
 - API's moeten geheel gedocumenteeerd zijn, en er moet een contactpersoon worden aangewezen.
-- Lidstaten mogen een tijdelijke uitzondering aanhouden voor high value datasets, en beslissing moet meteen worden gepubliceerd. Zo'n uitzondering duur maximaal 2 jaren (zoals verwoord in de ODD)
+- Lidstaten mogen middels een ministeriële regeling een tijdelijke uitzondering aanhouden voor high value datasets waar nu nog een wettelijke verplichting om inkomsten te genereren aan hangt, en de beslissing daartoe moet meteen worden gepubliceerd. Zo'n uitzondering duurt maximaal 2 jaren (zoals verwoord in de ODD) vanaf de inwerkingtredig, dus tot 9 februari 2025. In Nederland maken geen dataproviders gebruik van deze mogelijkheid. 
 - Voor persoonsgegevens mogen additionele gebruiksbeperkingen worden opgelegd, maar slechts zover noodzakelijk voor de bescherming van individuen en hun persoonsgegevens (d.w.z. niet om hergebruik af te remmen, of de toegang tot de dataset in zijn geheel te beperken).
 - Twee jaar na inkrachttreding, daarna telkens elke 2 jaar, rapporteren Lidstaten over wat ze hebben gedaan.  Die rapportages moeten ingaan op:
 	- De lijst van specifieke datasets op Lidstaatniveau die horen bij de in deze wet bepaalde high value data.

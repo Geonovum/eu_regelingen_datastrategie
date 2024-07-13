@@ -9,7 +9,7 @@ Er zijn drie juridische instrumenten door de EC opgesteld als onderdeel van de D
 - De AI Regulation (*AI verordening*), gericht op de toelating van AI producten tot de Europese markt.
 
 ### Digital Markets Act  (DMA)
-De  [Digital Markets Act](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32022R2065&from=EN#d1e6411-1-1)  (DMA, *Digitale Marktenverordening*) is ingegaan op 1 november 2022 en sinds mei 2023 van toepassing. Aangewezen zogenaamde 'gatekeepers' moesten per maart 2024 voldoen aan de bijbehorende vereisten. De DMA is een Verordening en daarmee direct van kracht in alle lidstaten. 
+De  [Digital Markets Act](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32022R2065&from=EN#d1e6411-1-1)  (DMA, *Digitale Marktenverordening*) is ingegaan op 1 november 2022 en sinds mei 2023 van toepassing. Aangewezen zogenaamde 'gatekeepers' moesten per maart 2024 voldoen aan de bijbehorende vereisten. De DMA is een Verordening en daarmee direct van kracht in alle lidstaten. De DMA is een markt regulerende wet, en de vereisten zijn gericht op concurrentieversterking en gelijke voorwaarden voor marktpartijen.
 
 De DMA is
 <ul>
@@ -60,8 +60,8 @@ Zulke intermediaire diensten krijgen verplichtingen opgelegd die moeten leiden t
 De verordening leest als een risicogerichte aanpak, en beschouwt de rol van platforms waar deze systemische risico's vormen voor markt en maatschappij. Het adresseert daarbij de invloed en macht van een platform, de rol van een platform als (maatschappelijke) infrastructuur, en de afhankelijkheden in het ecosysteem van aanbieders.
 
 ### AI Regulation
-De AI Regulation (*AI Verordening*) is voorgesteld in april 2021.
-Begin december 2023 is er over de AI Verordening overeenstemming bereikt tussen het Europees Parlement en de Lidstaten, gevolgd door een plenaire goedkeuring in het Europees Parlement in maart 2024. De publicatie wordt verwacht uiterlijk in mei 2024, waarna de wet van kracht is. Net als de DMA en de DSA is de AI Regulation een Verordenign en in de hele EU van toepassing. Verschillende onderdelen hebben uiteenlopende verschoningstijden. Een deel van de wet is na 24 maanden (naar verwachting in mei 2026) van toepassing, andere delen zijn na 9 maanden (begin 2025), 12 maanden (mei 2025) en 36 maanden (mei 2027) van toepassing.
+De AI Regulation (*AI Verordening*) is in juni 2024 aanvaard en op 12 juli 2024 gepubliceerd. De wet wordt van kracht op 2 augustus 2024.
+Net als de DMA en de DSA is de AI Regulation een Verordening en in de hele EU van toepassing. Verschillende onderdelen hebben uiteenlopende verschoningstijden, maar in principe is de wet na 24 maanden van toepassing. Echter het deel over verboden toepassingen en de algemene bepalingen gaan in na 6 maanden (2 februari 2025), de delen over algemeen toepasbare modellen en boetes, governance en bevoegde organen gaan na 12 maanden in, en het stuk over hoog-risico toepassing gaat na 36 maanden (2 augustus 2027) in.
 
 De AI Regulation is wereldwijd het eerste wetsvoorstel in zijn soort. Net als de AVG, de DMA en DSA, is het vormgegeven als een instrument dat striktere eisen en grotere sancties koppelt aan hogere risiconiveau's.
 
