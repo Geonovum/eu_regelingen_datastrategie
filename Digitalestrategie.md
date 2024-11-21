@@ -22,7 +22,7 @@ De DMA is
 <li>Gericht op het vergroten van de diversiteit van aanbod op de platformen van poortwachters, niet op het hinderen van de innovatiekracht van die gatekeepers zelf</li>
 <li>Stelt verplichtingen voor poortwachters, waaraan ze in hun dagelijkse operatie aan moeten voldoen, t.a.v.:<ul>
     <li>3rd party interoperabiliteit met de diensten van poortwachters in verschillende situaties</li>
-    <li>toegang voor bedrijven tot de data die genereren met het gebruik van het platform van poortwachter</li>
+    <li>toegang voor bedrijven tot de data die ze genereren met het gebruik van het platform van de poortwachter</li>
     <li>bedrijven die adverteren en adverteerders moeten de instrumenten en gereedschappen krijgen om zelf onafhankelijk na te gaan welke advertenties hoe worden getoond door de poortwachter</li>
     <li>bedrijven moeten in staat zijn hun aanbod en contracten ook buiten het platform van poortwachter aan consumenten aan te bieden</li>
     <li>poortwachters mogen niet hun eigen diensten bevoordelen op het platform t.o.v. andere aanbieders</li>
@@ -60,7 +60,7 @@ Zulke intermediaire diensten krijgen verplichtingen opgelegd die moeten leiden t
 De verordening leest als een risicogerichte aanpak, en beschouwt de rol van platforms waar deze systemische risico's vormen voor markt en maatschappij. Het adresseert daarbij de invloed en macht van een platform, de rol van een platform als (maatschappelijke) infrastructuur, en de afhankelijkheden in het ecosysteem van aanbieders.
 
 ### AI Regulation
-De AI Regulation (*AI Verordening*) is in juni 2024 aanvaard en op 12 juli 2024 gepubliceerd. De wet wordt van kracht op 2 augustus 2024.
+De AI Regulation (*AI Verordening*) is in juni 2024 aanvaard en op 12 juli 2024 gepubliceerd. De is van kracht sinds 2 augustus 2024.
 Net als de DMA en de DSA is de AI Regulation een Verordening en in de hele EU van toepassing. Verschillende onderdelen hebben uiteenlopende verschoningstijden, maar in principe is de wet na 24 maanden van toepassing. Echter het deel over verboden toepassingen en de algemene bepalingen gaan in na 6 maanden (2 februari 2025), de delen over algemeen toepasbare modellen en boetes, governance en bevoegde organen gaan na 12 maanden in, en het stuk over hoog-risico toepassing gaat na 36 maanden (2 augustus 2027) in.
 
 De AI Regulation is wereldwijd het eerste wetsvoorstel in zijn soort. Net als de AVG, de DMA en DSA, is het vormgegeven als een instrument dat striktere eisen en grotere sancties koppelt aan hogere risiconiveau's.

@@ -5,7 +5,9 @@ Die positie richt zich tegelijkertijd op het maximeren van maatschappelijk nut v
 
 Dit in contrast tot uitgangsposities elders in de wereld die bijvoorbeeld eenzijdig gericht zijn op waarde-extractie of op het centraliseren van controle. Daarmee is het ook een _propositie_ van de EU aan de wereld, een uitnodiging op gelijksoortige manier als de EU naar digitalisering en data te kijken.
 
-Die geopolitieke propositie wordt in uitgangspunten, en twee strategieën met daaronder een aantal wetten vaste vorm gegeven. Onderstaande afbeelding geeft hiervan een overzicht. In de rest van deze handreiking wordt elk van de elementen nader beschreven. De AVG wordt eveneens als onderdeel van dit geheel gezien, al wordt de AVG verder niet in deze handreiking beschreven.
+Die geopolitieke propositie is in de Commissieperiode 2019-2024 in uitgangspunten, en twee strategieën met daaronder een aantal wetten vaste vorm gegeven. Onderstaande afbeelding geeft hiervan een overzicht. In de rest van deze handreiking wordt elk van de elementen nader beschreven. De AVG wordt eveneens als onderdeel van dit geheel gezien, al wordt de AVG verder niet in deze handreiking beschreven.
+
+In de Commissieperiode 2024-2029 wordt die geopolitieke propositie verder uitgewerkt en versterkt, met name ook waar het data betreft. 
 
 ![euplaatgeonovumapril2024.png](media/euplaatgeonovumapril2024.png)
 
@@ -27,7 +29,6 @@ Digitaal burgerschap is gebaseerd op het bestaande [Handvest grondrechten in de 
 In de EU Digital Rights and Principles wordt beschreven hoe die grondrechten en de Europese waarden toegepast moeten worden in de digitale wereld. Het dient als referentie voor bedrijven en andere actoren in het ontwikkelen en implementeren van technologie. Het is ook een gids voor beleidsmakers. De implementatie van deze rechten en principes is een verantwoordelijkheid van zowel de EU als van Lidstaten. In het jaarlijkse rapport 'State of the Digital Decade' wordt de monitoring van de digitale principes en rechten opgenomen.
 
 De EU Digital Rights and Principles waren in de zomer van 2021 onderwerp van een publieke consultatie. De EC heeft op 26 januari 2022 de [inhoud van de digitale rechten en principes](https://digital-strategy.ec.europa.eu/en/library/declaration-european-digital-rights-and-principles) voorgesteld, met de uitnodiging aan de Raad en het EP deze mede te ondertekenen.
-
 
 #### Rechten
 - Recht op onderwijs, training en levenslang leren 
