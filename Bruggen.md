@@ -16,7 +16,7 @@ Er is geen expliciete link tussen deze verordening en bijvoorbeeld de data gover
 
 #### Interoperable Europe Act
 
-De [Interoperable Europe Act (Interoperable Europa Verordening)](https://eur-lex.europa.eu/legal-content/NL/TXT/PDF/?uri=OJ:L_202400903) is in maart 2024 gepubliceerd, vanaf april 2024 van kracht, en sinds juli 2024 van toepassing. Sommige bepaling zijn vanaf januari 2025 van toepassing.
+De [Interoperable Europe Act (Interoperable Europa Verordening)](https://eur-lex.europa.eu/legal-content/NL/TXT/PDF/?uri=OJ:L_202400903) is in maart 2024 gepubliceerd, vanaf april 2024 van kracht, en sinds juli 2024 van toepassing. Sommige bepalingen zijn vanaf januari 2025 van toepassing.
 
 De Commissie ziet het reguleren van internationale interoperabiliteit van overheidsdiensten als fundamentele voorwaarde voor het verder ontwikkelen en vervolmaken van de digitale eenheidsmarkt. Betere internationale interoperabiliteit in de publieke sector creëert innovatiekansen, maakt betere planning mogelijk bijvoorbeeld in crisissituaties, en versterkt de technologische soevereiniteit van de EU.
 
