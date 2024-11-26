@@ -2,7 +2,7 @@
 
 ### Europese beleidsthema's
 
-De EC streeft naar het maximaliseren van de maatschappelijke meerwaarde van datagebruik. Dit geldt nadrukkelijk ook voor de door de EU zelf gestelde doelen en ambities voor de inhoudelijke beleidsthema's. Dit is zichtbaar in hoe beleidsplannen verwijzingen bevatten naar de Digitaliserings- en Datastrategie, en op de beoogde resultaten daarvan voortbouwen.
+De EC streeft naar het maximaliseren van de maatschappelijke meerwaarde van datagebruik. Dit geldt nadrukkelijk ook voor de door de EU zelf gestelde doelen en ambities voor de inhoudelijke beleidsthema's. Dit is zichtbaar in hoe beleidsplannen verwijzingen bevatten naar de Digitaliserings- en Datastrategie, en op de beoogde resultaten daarvan voortbouwen. In Nederland is voor deze verordening de Directie Digitale Overheid van het Ministerie van Binnenlandse Zaken de bevoegde autoriteit, en daarbinnen het in oprichting zijnde bureau voor architectuur de implementatie verantwoordelijke.
 
 #### Green Deal
 De Europese Green Deal wijst nadrukkelijk op de noodzaak van digitale transformatie en de voorgestelde EU verordeningen als instrument daarin. De [Green Deal Data space](#green-deal-data-space) krijgt als een van de eerste dataspaces vorm (met als onderdeel de herziening van de INSPIRE richtlijn) en is bouwsteen voor de digitale tweeling van de aarde (Destination Earth (DestinE) gericht op klimaatadaptatie).
@@ -16,7 +16,7 @@ Er is geen expliciete link tussen deze verordening en bijvoorbeeld de data gover
 
 #### Interoperable Europe Act
 
-Op 18 november 2022 publiceerde de Europese Commissie het voorstel voor de Interoperabel Europa verordening (Interoperable Europe Act).  In januari 2023 is er een [beslisnota](https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2023Z00761&did=2023D01789) aan de Tweede Kamer gestuurd waarin positief wordt geadviseerd over deze Verordening en het Kabinet aangeeft van plan te zijn te pleiten voor een Europees centraal dienstenregister in het kader van deze verordening, ter bespreking in de vaste commissie Digitale Zaken op 8 februari 2023.
+De [Interoperable Europe Act (Interoperable Europa Verordening)](https://eur-lex.europa.eu/legal-content/NL/TXT/PDF/?uri=OJ:L_202400903) is in maart 2024 gepubliceerd, vanaf april 2024 van kracht, en sinds juli 2024 van toepassing. Sommige bepaling zijn vanaf januari 2025 van toepassing.
 
 De Commissie ziet het reguleren van internationale interoperabiliteit van overheidsdiensten als fundamentele voorwaarde voor het verder ontwikkelen en vervolmaken van de digitale eenheidsmarkt. Betere internationale interoperabiliteit in de publieke sector creëert innovatiekansen, maakt betere planning mogelijk bijvoorbeeld in crisissituaties, en versterkt de technologische soevereiniteit van de EU.
 
@@ -44,7 +44,7 @@ De Commissie stelt dat op al deze gebieden een hoog niveau van interoperabilitei
 
 Interoperabiliteitsoplossingen zijn alle technische specificaties (zoals een standaard, conceptueel raamwerk, handreikingen, toepassingen en waar van toepassing gedocumenteerde broncode) die juridische, organisatorische, semantische of technische vereisten beschrijven aan een informatiesysteem om grensoverschrijdende interoperabiliteit te versterken.
 
-De Verordening noemt wel dat het een fundamentele bouwsteen is voor een digitale eenheidsmarkt, maar verwijst niet direct naar bijvoorbeeld de dataspaces.
+De Verordening noemt dat het een fundamentele bouwsteen is voor een digitale eenheidsmarkt, maar verwijst slechts summier naar de dataspaces die de eenheidsmarkt voor data moeten realiseren. Die summiere verbinding bestaat uitsluitend uit het benoemen (in Art 15.5.s) dat Interoperability Board uit deze wet (die december 2024 voor het eerst bijeen komt) moet gaan samenwerken met de European Data Innovation Board (EDIB, waarin de ACM zitting heeft voor Nederland). Beiden zullen principes en standaarden m.b.t. interoperabiliteit opstellen die overlappen waar het zowel overheden als data spaces raakt. 
 
 #### Real Time Traffic-Information Verordening
 De ITS Richtlijn (zie hieronder) is ingevoerd om de compatibiliteit, interoperabiliteit en continuïteit van de uitrol en het operationele gebruik van Intelligente Vervoerssystemen (ITS) te verzekeren. Om ervoor te zorgen dat de implementatie van deze richtlijn geharmoniseerd verloopt, heeft de Commissie een aantal gedelegeerde verordeningen aangenomen. Eén daarvan is de Realtimeverkeersinformatiediensten Verordening (RTTI). Deze is goedgekeurd in 2015 en herzien in 2022. De nieuwe versie heeft een bredere scope, omvat meer datatypes en moedigt meer samenwerking tussen de publieke-private sector aan. De verordening heeft als doel de toegankelijkheid, de uitwisseling, het hergebruik en de actualisering van gegevens voor realtimeverkeersinformatiediensten te waarborgen, zodat zij voor alle gebruikers in de EU beschikbaar en nauwkeurig zijn. 
