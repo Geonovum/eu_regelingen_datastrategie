@@ -6,7 +6,7 @@ De EU heeft veel assets t.a.v. transport en mobiliteitsdata. In de automotive se
 
 T.a.v. automotive:
 Moderne voertuigen genereren zo'n 25GB aan gegevens per uur, en autonome voertuigen genereren een veelvoud daarvan aan data die gebruikt kan worden voor innovatieve mobiliteitsgerelateerde diensten, en voor reperatie- en onderhoudsdiensten. Innovatie in dit gebied vergt dat in-vehicle gegevens gedeeld worden op een veilige en duidelijk gedefinieerde manier, in lijn met de geldende competitieregels die tussen de verschillende betrokken partijen van toepassing zijn. 
-De toegang tot in-vehicle dat is sinds 2007 gereguleerd in de Europese regels voor het toelaten van voertuigen, om eerlijke toegang voor onafhankelijke onderhoudsbedrijven te garanderen. Die regels worden nu geactualiseerd om het toenemende gebruik van digitale verbindingen (zoals 3G en 4G en diagnostiek op afstand) daarin te betrekken zodat de rechten en belangen van autobezitters die de data genereren worden gerespecteerd en de omgang met die data voldoet aan de AVG.
+De toegang tot in-vehicle data is sinds 2007 gereguleerd in de Europese regels voor het toelaten van voertuigen, om eerlijke toegang voor onafhankelijke onderhoudsbedrijven te garanderen. Die regels worden nu geactualiseerd om het toenemende gebruik van digitale verbindingen (zoals 3G en 4G en diagnostiek op afstand) daarin te betrekken zodat de rechten en belangen van autobezitters die de data genereren worden gerespecteerd en de omgang met die data voldoet aan de AVG.
 
 T.a.v. het gehele transportstelsel:
 Passagiersvervoer groeit naar verwachting 35% tussen 2015 en 2050. Vrachtvervoer (over land) groeit sneller dan dat met zo'n 53% tot 2050. Digitalisering en data spelen een grote rol in het verduurzamen van transport.
