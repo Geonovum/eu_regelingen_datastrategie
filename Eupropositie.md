@@ -1,13 +1,14 @@
 ## EU neemt geopolitieke positie in
 
 De EU neemt m.b.t. de rol van digitalisering en data een geopolitieke positie in.
-Die positie richt zich tegelijkertijd op het maximeren van maatschappelijk nut van digitalisering en datagebruik én het beschermen en versterken van de individuele rechten van mensen.
+Die positie richt zich tegelijkertijd op het maximeren van maatschappelijk nut van digitalisering en datagebruik én het beschermen en versterken van de individuele rechten van mensen. Daarnaast richt die geopolitieke positie zich op digitale autonomie en soevereiniteit.
 
 Dit in contrast tot uitgangsposities elders in de wereld die bijvoorbeeld eenzijdig gericht zijn op waarde-extractie of op het centraliseren van controle. Daarmee is het ook een _propositie_ van de EU aan de wereld, een uitnodiging op gelijksoortige manier als de EU naar digitalisering en data te kijken.
 
-Die geopolitieke propositie is in de Commissieperiode 2019-2024 in uitgangspunten, en twee strategieën met daaronder een aantal wetten vaste vorm gegeven. Onderstaande afbeelding geeft hiervan een overzicht. In de rest van deze handreiking wordt elk van de elementen nader beschreven. De AVG wordt eveneens als onderdeel van dit geheel gezien, al wordt de AVG verder niet in deze handreiking beschreven.
+Die geopolitieke propositie is in de Commissieperiode 2019-2024 in uitgangspunten, en twee strategieën met daaronder een aantal wetten vaste vorm gegeven. In de huidige Commissieperiode 2024-2029 wordt dat uitgebouwd met meer accent op data en AI, digitale soevereiniteit, en vereenvoudiging van regelgeving.
 
-In de Commissieperiode 2024-2029 wordt die geopolitieke propositie verder uitgewerkt en versterkt, met name ook waar het data betreft. 
+Onderstaande afbeelding geeft een overzicht van de in de periode 2019-2024 opgestelde wetgeving. In de huidige commissieperiode komen er gedeeltelijke herzieningen van enkele van deze wetten, omwille van samenhang en vereenvoudiging. De AVG wordt eveneens als onderdeel van dit geheel gezien, al wordt de AVG verder niet in deze handreiking beschreven. In de rest van deze handreiking wordt elk van de elementen nader beschreven.
+
 
 ![euplaatgeonovumapril2024.png](media/euplaatgeonovumapril2024.png)
 
@@ -59,7 +60,10 @@ De EU Digital Rights and Principles waren in de zomer van 2021 onderwerp van een
 * Kinderen en jongeren verdienen zowel bescherming als de mogelijkheid tot vrije keuze en expressie online
 
 
-### Twee strategieën als bouwstenen
-Twee strategieën zetten deze propositie om in praktijk en regelgeving: 
+### Meerdere strategieën als bouwstenen
+Twee strategieën zetten oorspronkelijk deze propositie om in praktijk en regelgeving: 
 * [De Europese digitale strategie](#europese-digitale-strategie), en 
 * [De Europese datastrategie](#europese-data-strategie).
+In de huidige commissieperiode zijn daar bijgekomen:
+- De Europese Data Unie strategie (december 2025)
+- De Europese Apply AI strategie en AI Continent Action Plan (oktober 2025)

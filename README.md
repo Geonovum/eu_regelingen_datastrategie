@@ -5,7 +5,7 @@ Als je een nieuwe publicatie wilt starten, lees dan eerst de instructies in de R
 [https://github.com/Geonovum/NL-ReSpec-template](https://github.com/Geonovum/NL-ReSpec-template).
 
 # eu_regelingen_datastrategie
-Overzicht van aankomende Europese regelingen en initiatieven t.a.v. Europese datastrategie
+Overzicht van bestaande en aankomende Europese regelingen en initiatieven t.a.v. Europese datastrategie
 t.b.v. het Tactisch Beraad EU Informatie.
 
 Dit overzicht is beschikbaar op https://geonovum.github.io/eu_regelingen_datastrategie/
